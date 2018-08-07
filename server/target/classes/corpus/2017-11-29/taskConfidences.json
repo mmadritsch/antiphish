@@ -1,0 +1,110 @@
+{
+  "DomainAgeTask" : {
+    "threshold" : 0.0,
+    "confidence" : 0.6207805907172996,
+    "truePositive" : 0.290754126658755,
+    "trueNegative" : 0.9364358683314415
+  },
+  "DotsTask" : {
+    "threshold" : 0.0,
+    "confidence" : 0.55965,
+    "truePositive" : 0.2836,
+    "trueNegative" : 0.8357
+  },
+  "EmptyLinksTask" : {
+    "threshold" : 0.0,
+    "confidence" : 0.6208,
+    "truePositive" : 0.2798,
+    "trueNegative" : 0.9618
+  },
+  "FormTagsTask" : {
+    "threshold" : 0.0,
+    "confidence" : 0.61445,
+    "truePositive" : 0.4642,
+    "trueNegative" : 0.7647
+  },
+  "FrameTask" : {
+    "threshold" : 0.0,
+    "confidence" : 0.4625,
+    "truePositive" : 0.0667,
+    "trueNegative" : 0.8583
+  },
+  "InputTagsTask" : {
+    "threshold" : 0.0,
+    "confidence" : 0.40175,
+    "truePositive" : 0.6182,
+    "trueNegative" : 0.1853
+  },
+  "IPAddressTask" : {
+    "threshold" : 0.0,
+    "confidence" : 0.50295,
+    "truePositive" : 0.0059,
+    "trueNegative" : 1.0
+  },
+  "MetaTagsTask" : {
+    "threshold" : 0.20000000000000004,
+    "confidence" : 0.5,
+    "truePositive" : 2.0E-4,
+    "trueNegative" : 0.9998
+  },
+  "NoLinksBodyTask" : {
+    "threshold" : 0.0,
+    "confidence" : 0.56575,
+    "truePositive" : 0.1339,
+    "trueNegative" : 0.9976
+  },
+  "NonmatchingUrlTask" : {
+    "threshold" : 0.0,
+    "confidence" : 0.4986,
+    "truePositive" : 0.0013,
+    "trueNegative" : 0.9959
+  },
+  "OnlyScriptTask" : {
+    "threshold" : 0.0,
+    "confidence" : 0.5243,
+    "truePositive" : 0.0515,
+    "trueNegative" : 0.9971
+  },
+  "PunctuationTask" : {
+    "threshold" : 0.0,
+    "confidence" : 0.5054,
+    "truePositive" : 0.0157,
+    "trueNegative" : 0.9951
+  },
+  "PlaintextContentTask" : {
+    "threshold" : 0.10999999999999999,
+    "confidence" : 0.5078,
+    "truePositive" : 0.3999,
+    "trueNegative" : 0.6157
+  },
+  "SuspiciousLinksTask" : {
+    "threshold" : 0.0,
+    "confidence" : 0.39875,
+    "truePositive" : 0.0948,
+    "trueNegative" : 0.7027
+  },
+  "SuspiciousScriptContentTask" : {
+    "threshold" : 0.5000000000000002,
+    "confidence" : 0.5,
+    "truePositive" : 0.0,
+    "trueNegative" : 1.0
+  },
+  "SuspiciousUrlTask" : {
+    "threshold" : 0.0,
+    "confidence" : 0.5494,
+    "truePositive" : 0.141,
+    "trueNegative" : 0.9578
+  },
+  "TitleTask" : {
+    "threshold" : 0.0,
+    "confidence" : 0.7659,
+    "truePositive" : 0.7843,
+    "trueNegative" : 0.7475
+  },
+  "WebsiteIdentityTask" : {
+    "threshold" : 0.0,
+    "confidence" : 0.55835,
+    "truePositive" : 0.1965,
+    "trueNegative" : 0.9202
+  }
+}

@@ -1,0 +1,1241 @@
+[ {
+  "id" : 0,
+  "text" : "runescape",
+  "lang" : "en",
+  "confidence" : 1.0
+}, {
+  "id" : 1,
+  "text" : "prelevement",
+  "lang" : "en",
+  "confidence" : 1.0
+}, {
+  "id" : 2,
+  "text" : "numana",
+  "lang" : "en",
+  "confidence" : 1.0
+}, {
+  "id" : 3,
+  "text" : "gracelea",
+  "lang" : "en",
+  "confidence" : 1.0
+}, {
+  "id" : 4,
+  "text" : "azerbaidijan",
+  "lang" : "en",
+  "confidence" : 1.0
+}, {
+  "id" : 5,
+  "text" : "getparamstr",
+  "lang" : "en",
+  "confidence" : 1.0
+}, {
+  "id" : 6,
+  "text" : "rurale",
+  "lang" : "en",
+  "confidence" : 1.0
+}, {
+  "id" : 7,
+  "text" : "kanbox",
+  "lang" : "en",
+  "confidence" : 1.0
+}, {
+  "id" : 8,
+  "text" : "nacion",
+  "lang" : "en",
+  "confidence" : 1.0
+}, {
+  "id" : 9,
+  "text" : "sbcglobal",
+  "lang" : "en",
+  "confidence" : 1.0
+}, {
+  "id" : 10,
+  "text" : "emailplease",
+  "lang" : "en",
+  "confidence" : 1.0
+}, {
+  "id" : 11,
+  "text" : "currentpath",
+  "lang" : "en",
+  "confidence" : 1.0
+}, {
+  "id" : 12,
+  "text" : "travrate",
+  "lang" : "en",
+  "confidence" : 1.0
+}, {
+  "id" : 13,
+  "text" : "laiwang",
+  "lang" : "en",
+  "confidence" : 1.0
+}, {
+  "id" : 14,
+  "text" : "newhref",
+  "lang" : "en",
+  "confidence" : 1.0
+}, {
+  "id" : 15,
+  "text" : "cooperativo",
+  "lang" : "en",
+  "confidence" : 1.0
+}, {
+  "id" : 16,
+  "text" : "miarroba",
+  "lang" : "en",
+  "confidence" : 1.0
+}, {
+  "id" : 17,
+  "text" : "seniorpeoplemeet",
+  "lang" : "en",
+  "confidence" : 1.0
+}, {
+  "id" : 18,
+  "text" : "hrpr",
+  "lang" : "en",
+  "confidence" : 1.0
+}, {
+  "id" : 19,
+  "text" : "uglands",
+  "lang" : "en",
+  "confidence" : 1.0
+}, {
+  "id" : 20,
+  "text" : "ttpod",
+  "lang" : "en",
+  "confidence" : 1.0
+}, {
+  "id" : 21,
+  "text" : "cambui",
+  "lang" : "en",
+  "confidence" : 1.0
+}, {
+  "id" : 22,
+  "text" : "yahoomail",
+  "lang" : "en",
+  "confidence" : 1.0
+}, {
+  "id" : 23,
+  "text" : "jloader",
+  "lang" : "en",
+  "confidence" : 1.0
+}, {
+  "id" : 24,
+  "text" : "alitrip",
+  "lang" : "en",
+  "confidence" : 1.0
+}, {
+  "id" : 25,
+  "text" : "antiphishing",
+  "lang" : "en",
+  "confidence" : 1.0
+}, {
+  "id" : 26,
+  "text" : "testkolo",
+  "lang" : "en",
+  "confidence" : 1.0
+}, {
+  "id" : 27,
+  "text" : "abeerugs",
+  "lang" : "en",
+  "confidence" : 1.0
+}, {
+  "id" : 28,
+  "text" : "currenturl",
+  "lang" : "en",
+  "confidence" : 1.0
+}, {
+  "id" : 29,
+  "text" : "desser",
+  "lang" : "en",
+  "confidence" : 1.0
+}, {
+  "id" : 30,
+  "text" : "langchooser",
+  "lang" : "en",
+  "confidence" : 1.0
+}, {
+  "id" : 31,
+  "text" : "chooser",
+  "lang" : "en",
+  "confidence" : 1.0
+}, {
+  "id" : 32,
+  "text" : "parcelas",
+  "lang" : "en",
+  "confidence" : 1.0
+}, {
+  "id" : 33,
+  "text" : "treinamento",
+  "lang" : "en",
+  "confidence" : 1.0
+}, {
+  "id" : 34,
+  "text" : "paramsstr",
+  "lang" : "en",
+  "confidence" : 1.0
+}, {
+  "id" : 35,
+  "text" : "funcionalidade",
+  "lang" : "en",
+  "confidence" : 1.0
+}, {
+  "id" : 36,
+  "text" : "comfirmation",
+  "lang" : "en",
+  "confidence" : 1.0
+}, {
+  "id" : 37,
+  "text" : "sicredi",
+  "lang" : "en",
+  "confidence" : 1.0
+}, {
+  "id" : 38,
+  "text" : "langviscontrol",
+  "lang" : "en",
+  "confidence" : 1.0
+}, {
+  "id" : 39,
+  "text" : "leborgn",
+  "lang" : "en",
+  "confidence" : 1.0
+}, {
+  "id" : 40,
+  "text" : "anvelope",
+  "lang" : "en",
+  "confidence" : 1.0
+}, {
+  "id" : 41,
+  "text" : "alln",
+  "lang" : "en",
+  "confidence" : 1.0
+}, {
+  "id" : 42,
+  "text" : "ourtime",
+  "lang" : "en",
+  "confidence" : 1.0
+}, {
+  "id" : 43,
+  "text" : "scrl",
+  "lang" : "en",
+  "confidence" : 1.0
+}, {
+  "id" : 44,
+  "text" : "qtranslate",
+  "lang" : "en",
+  "confidence" : 1.0
+}, {
+  "id" : 45,
+  "text" : "cpepommedapi",
+  "lang" : "en",
+  "confidence" : 1.0
+}, {
+  "id" : 46,
+  "text" : "shva",
+  "lang" : "en",
+  "confidence" : 1.0
+}, {
+  "id" : 47,
+  "text" : "linkware",
+  "lang" : "en",
+  "confidence" : 1.0
+}, {
+  "id" : 48,
+  "text" : "bitly",
+  "lang" : "en",
+  "confidence" : 0.9982788296041308
+}, {
+  "id" : 49,
+  "text" : "beget",
+  "lang" : "en",
+  "confidence" : 0.9964664310954063
+}, {
+  "id" : 50,
+  "text" : "ylt",
+  "lang" : "en",
+  "confidence" : 0.9962121212121212
+}, {
+  "id" : 51,
+  "text" : "sucursal",
+  "lang" : "en",
+  "confidence" : 0.9961089494163424
+}, {
+  "id" : 52,
+  "text" : "cassa",
+  "lang" : "en",
+  "confidence" : 0.9949748743718593
+}, {
+  "id" : 53,
+  "text" : "docusign",
+  "lang" : "en",
+  "confidence" : 0.9947368421052631
+}, {
+  "id" : 54,
+  "text" : "credito",
+  "lang" : "en",
+  "confidence" : 0.9945652173913043
+}, {
+  "id" : 55,
+  "text" : "hichina",
+  "lang" : "en",
+  "confidence" : 0.9945054945054945
+}, {
+  "id" : 56,
+  "text" : "falklands",
+  "lang" : "en",
+  "confidence" : 0.9925925925925926
+}, {
+  "id" : 57,
+  "text" : "financiamento",
+  "lang" : "en",
+  "confidence" : 0.9915254237288136
+}, {
+  "id" : 58,
+  "text" : "shorteners",
+  "lang" : "en",
+  "confidence" : 0.9914529914529915
+}, {
+  "id" : 59,
+  "text" : "vini",
+  "lang" : "en",
+  "confidence" : 0.991304347826087
+}, {
+  "id" : 60,
+  "text" : "htdocs",
+  "lang" : "en",
+  "confidence" : 0.9907407407407407
+}, {
+  "id" : 61,
+  "text" : "rbaycan",
+  "lang" : "en",
+  "confidence" : 0.9905277401894452
+}, {
+  "id" : 62,
+  "text" : "banca",
+  "lang" : "en",
+  "confidence" : 0.9904214559386973
+}, {
+  "id" : 63,
+  "text" : "cpanel",
+  "lang" : "en",
+  "confidence" : 0.9894736842105263
+}, {
+  "id" : 64,
+  "text" : "comhttp",
+  "lang" : "en",
+  "confidence" : 0.9893617021276596
+}, {
+  "id" : 65,
+  "text" : "rediffmail",
+  "lang" : "en",
+  "confidence" : 0.9883720930232558
+}, {
+  "id" : 66,
+  "text" : "dropbox",
+  "lang" : "en",
+  "confidence" : 0.9875461254612546
+}, {
+  "id" : 67,
+  "text" : "isizulu",
+  "lang" : "en",
+  "confidence" : 0.9869791666666666
+}, {
+  "id" : 68,
+  "text" : "importers",
+  "lang" : "en",
+  "confidence" : 0.9859154929577465
+}, {
+  "id" : 69,
+  "text" : "phishing",
+  "lang" : "en",
+  "confidence" : 0.9859154929577465
+}, {
+  "id" : 70,
+  "text" : "identifiant",
+  "lang" : "en",
+  "confidence" : 0.9852941176470589
+}, {
+  "id" : 71,
+  "text" : "frameless",
+  "lang" : "en",
+  "confidence" : 0.9824561403508771
+}, {
+  "id" : 72,
+  "text" : "ymail",
+  "lang" : "en",
+  "confidence" : 0.9811320754716981
+}, {
+  "id" : 73,
+  "text" : "esrc",
+  "lang" : "en",
+  "confidence" : 0.9808917197452229
+}, {
+  "id" : 74,
+  "text" : "autonavi",
+  "lang" : "en",
+  "confidence" : 0.9805194805194806
+}, {
+  "id" : 75,
+  "text" : "umeng",
+  "lang" : "en",
+  "confidence" : 0.9805194805194806
+}, {
+  "id" : 76,
+  "text" : "dices",
+  "lang" : "en",
+  "confidence" : 0.9759036144578314
+}, {
+  "id" : 77,
+  "text" : "exporters",
+  "lang" : "en",
+  "confidence" : 0.9757085020242915
+}, {
+  "id" : 78,
+  "text" : "securely",
+  "lang" : "en",
+  "confidence" : 0.9755600814663951
+}, {
+  "id" : 79,
+  "text" : "ucweb",
+  "lang" : "en",
+  "confidence" : 0.9741935483870968
+}, {
+  "id" : 80,
+  "text" : "eingabetaste",
+  "lang" : "en",
+  "confidence" : 0.9722222222222222
+}, {
+  "id" : 81,
+  "text" : "dhl",
+  "lang" : "en",
+  "confidence" : 0.971764705882353
+}, {
+  "id" : 82,
+  "text" : "alibaba",
+  "lang" : "en",
+  "confidence" : 0.9710669077757685
+}, {
+  "id" : 83,
+  "text" : "kiswahili",
+  "lang" : "en",
+  "confidence" : 0.9703947368421053
+}, {
+  "id" : 84,
+  "text" : "taobao",
+  "lang" : "en",
+  "confidence" : 0.96996996996997
+}, {
+  "id" : 85,
+  "text" : "abonn",
+  "lang" : "en",
+  "confidence" : 0.9695121951219512
+}, {
+  "id" : 86,
+  "text" : "aol",
+  "lang" : "en",
+  "confidence" : 0.969208211143695
+}, {
+  "id" : 87,
+  "text" : "hairdressing",
+  "lang" : "en",
+  "confidence" : 0.96875
+}, {
+  "id" : 88,
+  "text" : "edf",
+  "lang" : "en",
+  "confidence" : 0.9685534591194969
+}, {
+  "id" : 89,
+  "text" : "hotmail",
+  "lang" : "en",
+  "confidence" : 0.9681870448447681
+}, {
+  "id" : 90,
+  "text" : "htt",
+  "lang" : "en",
+  "confidence" : 0.967391304347826
+}, {
+  "id" : 91,
+  "text" : "reactivate",
+  "lang" : "en",
+  "confidence" : 0.965034965034965
+}, {
+  "id" : 92,
+  "text" : "banco",
+  "lang" : "en",
+  "confidence" : 0.9631578947368421
+}, {
+  "id" : 93,
+  "text" : "xiami",
+  "lang" : "en",
+  "confidence" : 0.9629629629629629
+}, {
+  "id" : 94,
+  "text" : "alimama",
+  "lang" : "en",
+  "confidence" : 0.9629629629629629
+}, {
+  "id" : 95,
+  "text" : "juhuasuan",
+  "lang" : "en",
+  "confidence" : 0.9629629629629629
+}, {
+  "id" : 96,
+  "text" : "tmall",
+  "lang" : "en",
+  "confidence" : 0.9629629629629629
+}, {
+  "id" : 97,
+  "text" : "alitelecom",
+  "lang" : "en",
+  "confidence" : 0.9629629629629629
+}, {
+  "id" : 98,
+  "text" : "yunos",
+  "lang" : "en",
+  "confidence" : 0.9629629629629629
+}, {
+  "id" : 99,
+  "text" : "dingtalk",
+  "lang" : "en",
+  "confidence" : 0.9615384615384616
+}, {
+  "id" : 100,
+  "text" : "ptk",
+  "lang" : "en",
+  "confidence" : 0.9607843137254902
+}, {
+  "id" : 101,
+  "text" : "boleto",
+  "lang" : "en",
+  "confidence" : 0.9603960396039604
+}, {
+  "id" : 102,
+  "text" : "slenska",
+  "lang" : "en",
+  "confidence" : 0.9593082400813835
+}, {
+  "id" : 103,
+  "text" : "latvie",
+  "lang" : "en",
+  "confidence" : 0.9579158316633266
+}, {
+  "id" : 104,
+  "text" : "galego",
+  "lang" : "en",
+  "confidence" : 0.9576059850374065
+}, {
+  "id" : 105,
+  "text" : "afrikaans",
+  "lang" : "en",
+  "confidence" : 0.95448798988622
+}, {
+  "id" : 106,
+  "text" : "statically",
+  "lang" : "en",
+  "confidence" : 0.9538834951456311
+}, {
+  "id" : 107,
+  "text" : "produtos",
+  "lang" : "en",
+  "confidence" : 0.9532710280373832
+}, {
+  "id" : 108,
+  "text" : "kombi",
+  "lang" : "en",
+  "confidence" : 0.9527027027027027
+}, {
+  "id" : 109,
+  "text" : "yahoo",
+  "lang" : "en",
+  "confidence" : 0.9517349334724758
+}, {
+  "id" : 110,
+  "text" : "latinoam",
+  "lang" : "en",
+  "confidence" : 0.9494736842105264
+}, {
+  "id" : 111,
+  "text" : "spreadsheets",
+  "lang" : "en",
+  "confidence" : 0.9489795918367347
+}, {
+  "id" : 112,
+  "text" : "kolo",
+  "lang" : "en",
+  "confidence" : 0.9473684210526315
+}, {
+  "id" : 113,
+  "text" : "bellsouth",
+  "lang" : "en",
+  "confidence" : 0.9473684210526315
+}, {
+  "id" : 114,
+  "text" : "alipay",
+  "lang" : "en",
+  "confidence" : 0.9467213114754098
+}, {
+  "id" : 115,
+  "text" : "euskara",
+  "lang" : "en",
+  "confidence" : 0.9453961456102784
+}, {
+  "id" : 116,
+  "text" : "getelementbyid",
+  "lang" : "en",
+  "confidence" : 0.9415584415584416
+}, {
+  "id" : 117,
+  "text" : "eesti",
+  "lang" : "en",
+  "confidence" : 0.9409409409409409
+}, {
+  "id" : 118,
+  "text" : "malicious",
+  "lang" : "en",
+  "confidence" : 0.9378238341968912
+}, {
+  "id" : 119,
+  "text" : "caixa",
+  "lang" : "en",
+  "confidence" : 0.9365079365079365
+}, {
+  "id" : 120,
+  "text" : "signin",
+  "lang" : "en",
+  "confidence" : 0.9354838709677419
+}, {
+  "id" : 121,
+  "text" : "ecg",
+  "lang" : "en",
+  "confidence" : 0.9343065693430657
+}, {
+  "id" : 122,
+  "text" : "lietuvi",
+  "lang" : "en",
+  "confidence" : 0.9308300395256917
+}, {
+  "id" : 123,
+  "text" : "natwest",
+  "lang" : "en",
+  "confidence" : 0.9285714285714286
+}, {
+  "id" : 124,
+  "text" : "vino",
+  "lang" : "en",
+  "confidence" : 0.9265734265734266
+}, {
+  "id" : 125,
+  "text" : "docs",
+  "lang" : "en",
+  "confidence" : 0.9264544456641054
+}, {
+  "id" : 126,
+  "text" : "melayu",
+  "lang" : "en",
+  "confidence" : 0.9263050153531218
+}, {
+  "id" : 127,
+  "text" : "sloven",
+  "lang" : "en",
+  "confidence" : 0.9225037257824144
+}, {
+  "id" : 128,
+  "text" : "hrvatski",
+  "lang" : "en",
+  "confidence" : 0.9224219489120151
+}, {
+  "id" : 129,
+  "text" : "produto",
+  "lang" : "en",
+  "confidence" : 0.920863309352518
+}, {
+  "id" : 130,
+  "text" : "busco",
+  "lang" : "en",
+  "confidence" : 0.9204545454545454
+}, {
+  "id" : 131,
+  "text" : "nude",
+  "lang" : "en",
+  "confidence" : 0.9186217008797654
+}, {
+  "id" : 132,
+  "text" : "minha",
+  "lang" : "en",
+  "confidence" : 0.9184210526315789
+}, {
+  "id" : 133,
+  "text" : "webmail",
+  "lang" : "en",
+  "confidence" : 0.9166666666666666
+}, {
+  "id" : 134,
+  "text" : "whoops",
+  "lang" : "en",
+  "confidence" : 0.9161676646706587
+}, {
+  "id" : 135,
+  "text" : "serene",
+  "lang" : "en",
+  "confidence" : 0.9064748201438849
+}, {
+  "id" : 136,
+  "text" : "gmail",
+  "lang" : "en",
+  "confidence" : 0.90625
+}, {
+  "id" : 137,
+  "text" : "ina",
+  "lang" : "en",
+  "confidence" : 0.905252822778596
+}, {
+  "id" : 138,
+  "text" : "catal",
+  "lang" : "en",
+  "confidence" : 0.9013282732447818
+}, {
+  "id" : 139,
+  "text" : "uncheck",
+  "lang" : "en",
+  "confidence" : 0.896551724137931
+}, {
+  "id" : 140,
+  "text" : "nab",
+  "lang" : "en",
+  "confidence" : 0.8956521739130435
+}, {
+  "id" : 141,
+  "text" : "incompatible",
+  "lang" : "en",
+  "confidence" : 0.8955223880597015
+}, {
+  "id" : 142,
+  "text" : "dito",
+  "lang" : "en",
+  "confidence" : 0.8942307692307693
+}, {
+  "id" : 143,
+  "text" : "terr",
+  "lang" : "en",
+  "confidence" : 0.8940397350993378
+}, {
+  "id" : 144,
+  "text" : "rales",
+  "lang" : "en",
+  "confidence" : 0.8940092165898618
+}, {
+  "id" : 145,
+  "text" : "oubli",
+  "lang" : "en",
+  "confidence" : 0.8932038834951457
+}, {
+  "id" : 146,
+  "text" : "escrito",
+  "lang" : "en",
+  "confidence" : 0.8924731182795699
+}, {
+  "id" : 147,
+  "text" : "filipino",
+  "lang" : "en",
+  "confidence" : 0.8918918918918919
+}, {
+  "id" : 148,
+  "text" : "fragment",
+  "lang" : "en",
+  "confidence" : 0.8895705521472392
+}, {
+  "id" : 149,
+  "text" : "aliexpress",
+  "lang" : "en",
+  "confidence" : 0.886986301369863
+}, {
+  "id" : 150,
+  "text" : "bienvenue",
+  "lang" : "en",
+  "confidence" : 0.8848920863309353
+}, {
+  "id" : 151,
+  "text" : "clienti",
+  "lang" : "en",
+  "confidence" : 0.8842105263157894
+}, {
+  "id" : 152,
+  "text" : "atendimento",
+  "lang" : "en",
+  "confidence" : 0.8817204301075269
+}, {
+  "id" : 153,
+  "text" : "topless",
+  "lang" : "en",
+  "confidence" : 0.8805970149253731
+}, {
+  "id" : 154,
+  "text" : "bokm",
+  "lang" : "en",
+  "confidence" : 0.8803418803418803
+}, {
+  "id" : 155,
+  "text" : "onedrive",
+  "lang" : "en",
+  "confidence" : 0.8793103448275862
+}, {
+  "id" : 156,
+  "text" : "bowen",
+  "lang" : "en",
+  "confidence" : 0.8778280542986425
+}, {
+  "id" : 157,
+  "text" : "espace",
+  "lang" : "en",
+  "confidence" : 0.8778135048231511
+}, {
+  "id" : 158,
+  "text" : "suspended",
+  "lang" : "en",
+  "confidence" : 0.8745819397993311
+}, {
+  "id" : 159,
+  "text" : "sfr",
+  "lang" : "en",
+  "confidence" : 0.8738738738738738
+}, {
+  "id" : 160,
+  "text" : "bahasa",
+  "lang" : "en",
+  "confidence" : 0.871331828442438
+}, {
+  "id" : 161,
+  "text" : "dansk",
+  "lang" : "en",
+  "confidence" : 0.8699045967042498
+}, {
+  "id" : 162,
+  "text" : "basins",
+  "lang" : "en",
+  "confidence" : 0.8682170542635659
+}, {
+  "id" : 163,
+  "text" : "interno",
+  "lang" : "en",
+  "confidence" : 0.8672566371681416
+}, {
+  "id" : 164,
+  "text" : "fiche",
+  "lang" : "en",
+  "confidence" : 0.8623853211009175
+}, {
+  "id" : 165,
+  "text" : "spouts",
+  "lang" : "en",
+  "confidence" : 0.8596491228070176
+}, {
+  "id" : 166,
+  "text" : "pentru",
+  "lang" : "en",
+  "confidence" : 0.859375
+}, {
+  "id" : 167,
+  "text" : "umarex",
+  "lang" : "en",
+  "confidence" : 0.8571428571428571
+}, {
+  "id" : 168,
+  "text" : "magyar",
+  "lang" : "en",
+  "confidence" : 0.8542372881355932
+}, {
+  "id" : 169,
+  "text" : "carpets",
+  "lang" : "en",
+  "confidence" : 0.8493975903614458
+}, {
+  "id" : 170,
+  "text" : "norsk",
+  "lang" : "en",
+  "confidence" : 0.8440905280804694
+}, {
+  "id" : 171,
+  "text" : "paypal",
+  "lang" : "en",
+  "confidence" : 0.842654028436019
+}, {
+  "id" : 172,
+  "text" : "angst",
+  "lang" : "en",
+  "confidence" : 0.8387096774193549
+}, {
+  "id" : 173,
+  "text" : "provider",
+  "lang" : "en",
+  "confidence" : 0.8379578246392897
+}, {
+  "id" : 174,
+  "text" : "numero",
+  "lang" : "en",
+  "confidence" : 0.8379204892966361
+}, {
+  "id" : 175,
+  "text" : "encuentro",
+  "lang" : "en",
+  "confidence" : 0.8365384615384616
+}, {
+  "id" : 176,
+  "text" : "eingeben",
+  "lang" : "en",
+  "confidence" : 0.8317757009345794
+}, {
+  "id" : 177,
+  "text" : "suomi",
+  "lang" : "en",
+  "confidence" : 0.8313356164383562
+}, {
+  "id" : 178,
+  "text" : "archivos",
+  "lang" : "en",
+  "confidence" : 0.828125
+}, {
+  "id" : 179,
+  "text" : "implants",
+  "lang" : "en",
+  "confidence" : 0.8256880733944955
+}, {
+  "id" : 180,
+  "text" : "juno",
+  "lang" : "en",
+  "confidence" : 0.8248175182481752
+}, {
+  "id" : 181,
+  "text" : "empresa",
+  "lang" : "en",
+  "confidence" : 0.8238341968911918
+}, {
+  "id" : 182,
+  "text" : "existe",
+  "lang" : "en",
+  "confidence" : 0.8211382113821138
+}, {
+  "id" : 183,
+  "text" : "ved",
+  "lang" : "en",
+  "confidence" : 0.8201058201058201
+}, {
+  "id" : 184,
+  "text" : "juros",
+  "lang" : "en",
+  "confidence" : 0.8179581795817958
+}, {
+  "id" : 185,
+  "text" : "demande",
+  "lang" : "en",
+  "confidence" : 0.8145161290322581
+}, {
+  "id" : 186,
+  "text" : "accessori",
+  "lang" : "en",
+  "confidence" : 0.8137254901960784
+}, {
+  "id" : 187,
+  "text" : "rmb",
+  "lang" : "en",
+  "confidence" : 0.8135593220338984
+}, {
+  "id" : 188,
+  "text" : "clientes",
+  "lang" : "en",
+  "confidence" : 0.8130841121495327
+}, {
+  "id" : 189,
+  "text" : "infringement",
+  "lang" : "en",
+  "confidence" : 0.8129675810473815
+}, {
+  "id" : 190,
+  "text" : "redirect",
+  "lang" : "en",
+  "confidence" : 0.8120805369127517
+}, {
+  "id" : 191,
+  "text" : "gales",
+  "lang" : "en",
+  "confidence" : 0.8106508875739645
+}, {
+  "id" : 192,
+  "text" : "cymraeg",
+  "lang" : "en",
+  "confidence" : 0.8098159509202454
+}, {
+  "id" : 193,
+  "text" : "fargo",
+  "lang" : "en",
+  "confidence" : 0.80859375
+}, {
+  "id" : 194,
+  "text" : "svenska",
+  "lang" : "en",
+  "confidence" : 0.8083735909822867
+}, {
+  "id" : 195,
+  "text" : "accelerating",
+  "lang" : "en",
+  "confidence" : 0.8083333333333333
+}, {
+  "id" : 196,
+  "text" : "msn",
+  "lang" : "en",
+  "confidence" : 0.8074245939675174
+}, {
+  "id" : 197,
+  "text" : "brasil",
+  "lang" : "en",
+  "confidence" : 0.8070784177654406
+}, {
+  "id" : 198,
+  "text" : "tina",
+  "lang" : "en",
+  "confidence" : 0.8053311793214862
+}, {
+  "id" : 199,
+  "text" : "portugu",
+  "lang" : "en",
+  "confidence" : 0.8040228322913835
+}, {
+  "id" : 200,
+  "text" : "incorrect",
+  "lang" : "en",
+  "confidence" : 0.8025751072961373
+}, {
+  "id" : 201,
+  "text" : "passe",
+  "lang" : "en",
+  "confidence" : 0.7993827160493827
+}, {
+  "id" : 202,
+  "text" : "recognised",
+  "lang" : "en",
+  "confidence" : 0.7980769230769231
+}, {
+  "id" : 203,
+  "text" : "lorem",
+  "lang" : "en",
+  "confidence" : 0.7943548387096774
+}, {
+  "id" : 204,
+  "text" : "contato",
+  "lang" : "en",
+  "confidence" : 0.7939698492462312
+}, {
+  "id" : 205,
+  "text" : "deprecated",
+  "lang" : "en",
+  "confidence" : 0.7919621749408984
+}, {
+  "id" : 206,
+  "text" : "italia",
+  "lang" : "en",
+  "confidence" : 0.7894736842105263
+}, {
+  "id" : 207,
+  "text" : "mobiles",
+  "lang" : "en",
+  "confidence" : 0.7878787878787878
+}, {
+  "id" : 208,
+  "text" : "grates",
+  "lang" : "en",
+  "confidence" : 0.7862068965517242
+}, {
+  "id" : 209,
+  "text" : "iji",
+  "lang" : "en",
+  "confidence" : 0.7857142857142857
+}, {
+  "id" : 210,
+  "text" : "intl",
+  "lang" : "en",
+  "confidence" : 0.7847082494969819
+}, {
+  "id" : 211,
+  "text" : "loader",
+  "lang" : "en",
+  "confidence" : 0.7824267782426778
+}, {
+  "id" : 212,
+  "text" : "comcast",
+  "lang" : "en",
+  "confidence" : 0.7807486631016043
+}, {
+  "id" : 213,
+  "text" : "attachment",
+  "lang" : "en",
+  "confidence" : 0.7798617966436328
+}, {
+  "id" : 214,
+  "text" : "ascension",
+  "lang" : "en",
+  "confidence" : 0.7771428571428571
+}, {
+  "id" : 215,
+  "text" : "validate",
+  "lang" : "en",
+  "confidence" : 0.775
+}, {
+  "id" : 216,
+  "text" : "documents",
+  "lang" : "en",
+  "confidence" : 0.764344262295082
+}, {
+  "id" : 217,
+  "text" : "mot",
+  "lang" : "en",
+  "confidence" : 0.7621951219512195
+}, {
+  "id" : 218,
+  "text" : "nederlands",
+  "lang" : "en",
+  "confidence" : 0.7601043024771839
+}, {
+  "id" : 219,
+  "text" : "denied",
+  "lang" : "en",
+  "confidence" : 0.752112676056338
+}, {
+  "id" : 220,
+  "text" : "polski",
+  "lang" : "en",
+  "confidence" : 0.7510885341074021
+}, {
+  "id" : 221,
+  "text" : "mua",
+  "lang" : "en",
+  "confidence" : 0.7465437788018433
+}, {
+  "id" : 222,
+  "text" : "rica",
+  "lang" : "en",
+  "confidence" : 0.7432712215320911
+}, {
+  "id" : 223,
+  "text" : "mailbox",
+  "lang" : "en",
+  "confidence" : 0.7394366197183099
+}, {
+  "id" : 224,
+  "text" : "passwords",
+  "lang" : "en",
+  "confidence" : 0.7377622377622378
+}, {
+  "id" : 225,
+  "text" : "validating",
+  "lang" : "en",
+  "confidence" : 0.7377049180327869
+}, {
+  "id" : 226,
+  "text" : "signed",
+  "lang" : "en",
+  "confidence" : 0.7371721778791334
+}, {
+  "id" : 227,
+  "text" : "macao",
+  "lang" : "en",
+  "confidence" : 0.7371134020618557
+}, {
+  "id" : 228,
+  "text" : "shaving",
+  "lang" : "en",
+  "confidence" : 0.735973597359736
+}, {
+  "id" : 229,
+  "text" : "indonesia",
+  "lang" : "en",
+  "confidence" : 0.732934131736527
+}, {
+  "id" : 230,
+  "text" : "naked",
+  "lang" : "en",
+  "confidence" : 0.7327127659574468
+}, {
+  "id" : 231,
+  "text" : "scam",
+  "lang" : "en",
+  "confidence" : 0.7317073170731707
+}, {
+  "id" : 232,
+  "text" : "vergessen",
+  "lang" : "en",
+  "confidence" : 0.728
+}, {
+  "id" : 233,
+  "text" : "compra",
+  "lang" : "en",
+  "confidence" : 0.7244094488188977
+}, {
+  "id" : 234,
+  "text" : "volver",
+  "lang" : "en",
+  "confidence" : 0.7241379310344828
+}, {
+  "id" : 235,
+  "text" : "outlook",
+  "lang" : "en",
+  "confidence" : 0.723342939481268
+}, {
+  "id" : 236,
+  "text" : "var",
+  "lang" : "en",
+  "confidence" : 0.7219730941704036
+}, {
+  "id" : 237,
+  "text" : "dns",
+  "lang" : "en",
+  "confidence" : 0.7192982456140351
+}, {
+  "id" : 238,
+  "text" : "portugal",
+  "lang" : "en",
+  "confidence" : 0.718409236690186
+}, {
+  "id" : 239,
+  "text" : "lao",
+  "lang" : "en",
+  "confidence" : 0.7178217821782178
+}, {
+  "id" : 240,
+  "text" : "conta",
+  "lang" : "en",
+  "confidence" : 0.7121212121212122
+}, {
+  "id" : 241,
+  "text" : "rom",
+  "lang" : "en",
+  "confidence" : 0.7117726657645467
+}, {
+  "id" : 242,
+  "text" : "adresse",
+  "lang" : "en",
+  "confidence" : 0.7116883116883117
+}, {
+  "id" : 243,
+  "text" : "credentials",
+  "lang" : "en",
+  "confidence" : 0.7105263157894737
+}, {
+  "id" : 244,
+  "text" : "julian",
+  "lang" : "en",
+  "confidence" : 0.7101449275362319
+}, {
+  "id" : 245,
+  "text" : "banking",
+  "lang" : "en",
+  "confidence" : 0.7084063047285464
+}, {
+  "id" : 246,
+  "text" : "kitty",
+  "lang" : "en",
+  "confidence" : 0.7062314540059347
+}, {
+  "id" : 247,
+  "text" : "informations",
+  "lang" : "en",
+  "confidence" : 0.7002881844380403
+} ]

@@ -1,0 +1,32 @@
+{
+	"overallThreshold":0.335,
+	"domainAgeThreshold":12,
+	"dotsThreshold":1,
+	"emptyLinksThreshold":0.33,
+	"punctuationThreshold":23,
+	"ranges": {
+		"green":{"lowerEndpoint":0.0,"lowerBoundType":"CLOSED","upperEndpoint":0.18100160917919833,"upperBoundType":"OPEN"},
+		"yellow":{"lowerEndpoint":0.18100160917919833,"lowerBoundType":"CLOSED","upperEndpoint":0.48369723900042105,"upperBoundType":"OPEN"},
+		"red":{"lowerEndpoint":0.48369723900042105,"lowerBoundType":"CLOSED","upperEndpoint":1.0,"upperBoundType":"CLOSED"}
+	},
+	"tasks": {
+		"DomainAgeTask":{"confidence":0.6196897296589644,"truePositive":0.28175396508063444,"trueNegative":0.9458451247748907,"lowerSafetyLimit":0.0,"upperSafetyLimit":1.0,"threshold":0.0},
+		"DotsTask":{"confidence":0.5626875,"truePositive":0.271625,"trueNegative":0.85375,"lowerSafetyLimit":0.0,"upperSafetyLimit":1.0,"threshold":0.0},
+		"EmptyLinksTask":{"confidence":0.6550625,"truePositive":0.346125,"trueNegative":0.964,"lowerSafetyLimit":0.0,"upperSafetyLimit":1.0,"threshold":0.0},
+		"FormTagsTask":{"confidence":0.6661875,"truePositive":0.509375,"trueNegative":0.823,"lowerSafetyLimit":0.0,"upperSafetyLimit":1.0,"threshold":0.0},
+		"FrameTask":{"confidence":0.4531875,"truePositive":0.0675,"trueNegative":0.838875,"lowerSafetyLimit":0.0,"upperSafetyLimit":1.0,"threshold":0.0},
+		"InputTagsTask":{"confidence":0.40175,"truePositive":0.713625,"trueNegative":0.089875,"lowerSafetyLimit":0.0,"upperSafetyLimit":1.0,"threshold":0.0},
+		"IPAddressTask":{"confidence":0.5025,"truePositive":0.005,"trueNegative":1.0,"lowerSafetyLimit":0.0,"upperSafetyLimit":0.0,"threshold":0.0},
+		"MetaTagsTask":{"confidence":0.632875,"truePositive":0.36175,"trueNegative":0.904,"lowerSafetyLimit":0.0,"upperSafetyLimit":0.99,"threshold":0.75},
+		"NoLinksBodyTask":{"confidence":0.5569375,"truePositive":0.114125,"trueNegative":0.99975,"lowerSafetyLimit":0.0,"upperSafetyLimit":0.0,"threshold":0.0},
+		"NonmatchingUrlTask":{"confidence":0.4984375,"truePositive":0.001625,"trueNegative":0.99525,"lowerSafetyLimit":0.0,"upperSafetyLimit":1.0,"threshold":0.0},
+		"OnlyScriptTask":{"confidence":0.515875,"truePositive":0.032,"trueNegative":0.99975,"lowerSafetyLimit":0.0,"upperSafetyLimit":0.0,"threshold":0.0},
+		"PlaintextContentTask":{"confidence":0.70625,"truePositive":0.557625,"trueNegative":0.854875,"lowerSafetyLimit":0.0,"upperSafetyLimit":1.0,"threshold":0.87},
+		"PunctuationTask":{"confidence":0.506375,"truePositive":0.017375,"trueNegative":0.995375,"lowerSafetyLimit":0.0,"upperSafetyLimit":1.0,"threshold":0.0},
+		"SuspiciousLinksTask":{"confidence":0.39325,"truePositive":0.11625,"trueNegative":0.67025,"lowerSafetyLimit":0.0,"upperSafetyLimit":1.0,"threshold":0.0},
+		"SuspiciousScriptContentTask":{"confidence":0.7078125,"truePositive":0.430625,"trueNegative":0.985,"lowerSafetyLimit":0.0,"upperSafetyLimit":0.99,"threshold":0.97},
+		"SuspiciousUrlTask":{"confidence":0.548,"truePositive":0.1345,"trueNegative":0.9615,"lowerSafetyLimit":0.0,"upperSafetyLimit":1.0,"threshold":0.0},
+		"TitleTask":{"confidence":0.7778125,"truePositive":0.767375,"trueNegative":0.78825,"lowerSafetyLimit":0.0,"upperSafetyLimit":1.0,"threshold":0.0},
+		"WebsiteIdentityTask":{"confidence":0.5826875,"truePositive":0.23525,"trueNegative":0.930125,"lowerSafetyLimit":0.0,"upperSafetyLimit":1.0,"threshold":0.0}
+	}
+}

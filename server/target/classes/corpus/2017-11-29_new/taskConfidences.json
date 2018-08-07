@@ -1,0 +1,8 @@
+{
+  "PunctuationTask" : {
+    "threshold" : 0.0,
+    "confidence" : 0.506375,
+    "truePositive" : 0.017375,
+    "trueNegative" : 0.995375
+  }
+}

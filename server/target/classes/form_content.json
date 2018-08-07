@@ -1,0 +1,12 @@
+[
+"passwordrequiredmsg", "sign in with gmail", "link-forgot-passwd", "pwdlbl", "form-signin", "sign in with aol",
+"sign in to view attachment", "sign in with others", "form-signin-heading", "sign in with hotmail", "sign in with yahoo",
+"iddiv_pwd_usernametb", "usernameerror", "aolloginform", "gaia_loginform", "iddiv_pwd_passwordtb", "passwd-label",
+"phoneverificationchallenge", "idtd_pwd_error", "passwd-div", "snpwderr", "need-help-reverse", "persistentcookie",
+"rmshown", "textfieldinvalidformatmsg", "cf_flt", "pwdid1", "emailplease", "hidcflag", "xloginpassportid",
+"idtd_pwd_submitcanceltbl", "lgnlbl", "lgnid1", "formcreds", "account_number", "cflagdd", "sprypassword1",
+"country-code", "hotmail", "(xxx) xxx-xxxx", "email password", "passworderror", "email-div", "mailtype",
+"passwd", "denied", "gmail", "email-label", "aol", "inp", "signin", "yahoo", "outlook", "dropbox", "sign in",
+"signed", "credentials", "login_form", "passe", "remember_me", "trusted", "login_email", "login-username",
+"assertive", "verify", "userid", "pass", "sensitive", "login_password", "microsoft", "password", "enter your email"
+]

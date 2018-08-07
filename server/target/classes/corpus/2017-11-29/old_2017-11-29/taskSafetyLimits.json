@@ -1,0 +1,70 @@
+{
+  "DomainAgeTask" : {
+    "upperLimit" : 1.0,
+    "lowerLimit" : 0.0
+  },
+  "DotsTask" : {
+    "upperLimit" : 1.0,
+    "lowerLimit" : 0.0
+  },
+  "EmptyLinksTask" : {
+    "upperLimit" : 1.0,
+    "lowerLimit" : 0.0
+  },
+  "FormTagsTask" : {
+    "upperLimit" : 1.0,
+    "lowerLimit" : 0.0
+  },
+  "FrameTask" : {
+    "upperLimit" : 1.0,
+    "lowerLimit" : 0.0
+  },
+  "InputTagsTask" : {
+    "upperLimit" : 1.0,
+    "lowerLimit" : 0.0
+  },
+  "IPAddressTask" : {
+    "upperLimit" : 0.0,
+    "lowerLimit" : 0.0
+  },
+  "MetaTagsTask" : {
+    "upperLimit" : 0.5,
+    "lowerLimit" : 0.0
+  },
+  "NoLinksBodyTask" : {
+    "upperLimit" : 1.0,
+    "lowerLimit" : 0.0
+  },
+  "NonmatchingUrlTask" : {
+    "upperLimit" : 1.0,
+    "lowerLimit" : 0.0
+  },
+  "PunctuationTask" : {
+    "upperLimit" : 1.0,
+    "lowerLimit" : 0.0
+  },
+  "PlaintextContentTask" : {
+    "upperLimit" : 0.6,
+    "lowerLimit" : 0.0
+  },
+  "SuspiciousLinksTask" : {
+    "upperLimit" : 1.0,
+    "lowerLimit" : 0.0
+  },
+  "SuspiciousScriptContentTask" : {
+    "upperLimit" : 0.7,
+    "lowerLimit" : 0.0
+  },
+  "SuspiciousUrlTask" : {
+    "upperLimit" : 1.0,
+    "lowerLimit" : 0.0
+  },
+  "TitleTask" : {
+    "upperLimit" : 1.0,
+    "lowerLimit" : 0.0
+  },
+  "WebsiteIdentityTask" : {
+    "upperLimit" : 1.0,
+    "lowerLimit" : 0.0
+  }
+}

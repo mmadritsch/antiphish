@@ -1,0 +1,8 @@
+version: 0.01
+
+logging:
+  level: INFO
+  loggers:
+    com.da: DEBUG
+server:
+  rootPath: /api/*

@@ -1,0 +1,7 @@
+{
+  "accuracy" : 0.84171875,
+  "truePositive" : 0.78125,
+  "falseNegative" : 0.21875,
+  "trueNegative" : 0.9021875,
+  "falsePositive" : 0.0978125
+}

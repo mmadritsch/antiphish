@@ -1,0 +1,74 @@
+{
+  "DomainAgeTask" : {
+    "threshold" : 0.0,
+    "confidence" : 0.6207805907172996
+  },
+  "DotsTask" : {
+    "threshold" : 0.11999999999999998,
+    "confidence" : 0.55965
+  },
+  "EmptyLinksTask" : {
+    "threshold" : 0.3300000000000001,
+    "confidence" : 0.6208
+  },
+  "FormTagsTask" : {
+    "threshold" : 0.0,
+    "confidence" : 0.61445
+  },
+  "FrameTask" : {
+    "threshold" : 0.0,
+    "confidence" : 0.4625
+  },
+  "InputTagsTask" : {
+    "threshold" : 0.0,
+    "confidence" : 0.40175
+  },
+  "IPAddressTask" : {
+    "threshold" : 0.0,
+    "confidence" : 0.50295
+  },
+  "MetaTagsTask" : {
+    "threshold" : 0.20000000000000004,
+    "confidence" : 0.5
+  },
+  "NoLinksBodyTask" : {
+    "threshold" : 0.0,
+    "confidence" : 0.56575
+  },
+  "NonmatchingUrlTask" : {
+    "threshold" : 0.0,
+    "confidence" : 0.4986
+  },
+  "OnlyScriptTask" : {
+    "threshold" : 0.0,
+    "confidence" : 0.5243
+  },
+  "PunctuationTask" : {
+    "threshold" : 0.3300000000000001,
+    "confidence" : 0.5054
+  },
+  "PlaintextContentTask" : {
+    "threshold" : 0.10999999999999999,
+    "confidence" : 0.5078
+  },
+  "SuspiciousLinksTask" : {
+    "threshold" : 0.0,
+    "confidence" : 0.39875
+  },
+  "SuspiciousScriptContentTask" : {
+    "threshold" : 0.5000000000000002,
+    "confidence" : 0.5
+  },
+  "SuspiciousUrlTask" : {
+    "threshold" : 0.0,
+    "confidence" : 0.5494
+  },
+  "TitleTask" : {
+    "threshold" : 0.0,
+    "confidence" : 0.7659
+  },
+  "WebsiteIdentityTask" : {
+    "threshold" : 0.0,
+    "confidence" : 0.55835
+  }
+}

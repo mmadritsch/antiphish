@@ -1,0 +1,11 @@
+[
+	{"id":0,"content":"location","confidence":0.5},
+	{"id":1,"content":"location.href","confidence":0.5},
+	{"id":2,"content":"top.location.href","confidence":0.5},
+	{"id":3,"content":"document.location","confidence":0.5},
+	{"id":4,"content":"document.location.href","confidence":0.5},
+	{"id":5,"content":"window.location","confidence":0.5},
+	{"id":6,"content":"window.location.href","confidence":0.5},
+	{"id":7,"content":"window.location.replace","confidence":0.5},
+	{"id":8,"content":"window.location.assign","confidence":0.5}
+]

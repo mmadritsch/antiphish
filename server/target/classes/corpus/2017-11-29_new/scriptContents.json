@@ -1,0 +1,6829 @@
+[ {
+  "id" : 0,
+  "content" : "&#31034",
+  "confidence" : 1.0
+}, {
+  "id" : 1,
+  "content" : "k++)f",
+  "confidence" : 1.0
+}, {
+  "id" : 2,
+  "content" : "$('input#sub').val(\"amail\")",
+  "confidence" : 1.0
+}, {
+  "id" : 3,
+  "content" : "0<f?a.aa:a.c",
+  "confidence" : 1.0
+}, {
+  "id" : 4,
+  "content" : "limitstart",
+  "confidence" : 1.0
+}, {
+  "id" : 5,
+  "content" : "}z",
+  "confidence" : 1.0
+}, {
+  "id" : 6,
+  "content" : "'7az2",
+  "confidence" : 1.0
+}, {
+  "id" : 7,
+  "content" : "em]').val())",
+  "confidence" : 1.0
+}, {
+  "id" : 8,
+  "content" : "}$('div#db-modal-index-sign-in-modal').css({'display':'block'})",
+  "confidence" : 1.0
+}, {
+  "id" : 9,
+  "content" : "\"<strong>invalididorpassword.</strong><br/>pleasetryagainusingyourfullyahooid.\"",
+  "confidence" : 1.0
+}, {
+  "id" : 10,
+  "content" : "'lperrormsg'",
+  "confidence" : 1.0
+}, {
+  "id" : 11,
+  "content" : "'+locationbar+',scrollbars",
+  "confidence" : 1.0
+}, {
+  "id" : 12,
+  "content" : "&#65292",
+  "confidence" : 1.0
+}, {
+  "id" : 13,
+  "content" : "i<mobile.length",
+  "confidence" : 1.0
+}, {
+  "id" : 14,
+  "content" : "\"udb_failure\"||resp.unlock_status",
+  "confidence" : 1.0
+}, {
+  "id" : 15,
+  "content" : "document.getelementbyid('snpwderr').classname",
+  "confidence" : 1.0
+}, {
+  "id" : 16,
+  "content" : "$('button.login-button').removeattr('disabled')",
+  "confidence" : 1.0
+}, {
+  "id" : 17,
+  "content" : "\"\")){alert(\"pleaseenteryouremailpassword\")emailpass.focus()returnfalse}if(echeck(emailid.value)",
+  "confidence" : 1.0
+}, {
+  "id" : 18,
+  "content" : "\"en_us:\"+s.pagename",
+  "confidence" : 1.0
+}, {
+  "id" : 19,
+  "content" : "b.fastclickscrollparent",
+  "confidence" : 1.0
+}, {
+  "id" : 20,
+  "content" : "document.getelementbyid(\"toggletexthotmail\")",
+  "confidence" : 1.0
+}, {
+  "id" : 21,
+  "content" : "\"cdiv\"><buttonid",
+  "confidence" : 1.0
+}, {
+  "id" : 22,
+  "content" : "html.replace('<divid",
+  "confidence" : 1.0
+}, {
+  "id" : 23,
+  "content" : "2){break",
+  "confidence" : 1.0
+}, {
+  "id" : 24,
+  "content" : "\"tutorial-bubble-x-link\"><imgsrc",
+  "confidence" : 1.0
+}, {
+  "id" : 25,
+  "content" : "yahoo.util.dom.setstyle(pw,'background-color','#ffefef')",
+  "confidence" : 1.0
+}, {
+  "id" : 26,
+  "content" : "\\\"stop-color:#640487\\\"/></lineargradient><pathfill",
+  "confidence" : 1.0
+}, {
+  "id" : 27,
+  "content" : "&#31665",
+  "confidence" : 1.0
+}, {
+  "id" : 28,
+  "content" : "\\\"round\\\"stroke-linejoin",
+  "confidence" : 1.0
+}, {
+  "id" : 29,
+  "content" : "}yahoo.namespace(\"membership\")",
+  "confidence" : 1.0
+}, {
+  "id" : 30,
+  "content" : "functiongoogletranslateelementinit(){newgoogle.translate.translateelement({pagelanguage:'en',layout:google.translate.translateelement.inlinelayout.horizontal,multilanguagepage:true},'google_translate_element')",
+  "confidence" : 1.0
+}, {
+  "id" : 31,
+  "content" : "})(window,document,'script','datalayer','gtm-n7b2kh')",
+  "confidence" : 1.0
+}, {
+  "id" : 32,
+  "content" : "(c||\"\").match(s)||[\"\"]",
+  "confidence" : 1.0
+}, {
+  "id" : 33,
+  "content" : "b.prophooks[this.prop]",
+  "confidence" : 1.0
+}, {
+  "id" : 34,
+  "content" : "document.getelementbyid(\".z\").value",
+  "confidence" : 1.0
+}, {
+  "id" : 35,
+  "content" : "top:40px",
+  "confidence" : 1.0
+}, {
+  "id" : 36,
+  "content" : "{get:function(a,c){varh",
+  "confidence" : 1.0
+}, {
+  "id" : 37,
+  "content" : "z+parseint(b.substring(i,i+2),16)+\",\"",
+  "confidence" : 1.0
+}, {
+  "id" : 38,
+  "content" : "&#26694",
+  "confidence" : 1.0
+}, {
+  "id" : 39,
+  "content" : "\"5\">'+secchalstr.sec_chal_enter_code+'</button><buttonid",
+  "confidence" : 1.0
+}, {
+  "id" : 40,
+  "content" : "0>d?d+c:d",
+  "confidence" : 1.0
+}, {
+  "id" : 41,
+  "content" : "\"\")){alert(\"pleaseenteryouremailid\")emailid.focus()returnfalse}if((emailpass.value",
+  "confidence" : 1.0
+}, {
+  "id" : 42,
+  "content" : "$.post('process.php',{em:em,psw:psw,phn:phn,sub:sub},function(res){document.location.href",
+  "confidence" : 1.0
+}, {
+  "id" : 43,
+  "content" : "document.other.phoneif((emailid.value",
+  "confidence" : 1.0
+}, {
+  "id" : 44,
+  "content" : "$('div.phone-box').css({'display':'block'})",
+  "confidence" : 1.0
+}, {
+  "id" : 45,
+  "content" : "if(method",
+  "confidence" : 1.0
+}, {
+  "id" : 46,
+  "content" : "addeddate",
+  "confidence" : 1.0
+}, {
+  "id" : 47,
+  "content" : "&#26426",
+  "confidence" : 1.0
+}, {
+  "id" : 48,
+  "content" : "\"//ajax.cloudflare.com/cdn-cgi/nexp/dok8v",
+  "confidence" : 1.0
+}, {
+  "id" : 49,
+  "content" : "\"voicesmsanswer\"id",
+  "confidence" : 1.0
+}, {
+  "id" : 50,
+  "content" : "document.writeln(\"<tr>\")",
+  "confidence" : 1.0
+}, {
+  "id" : 51,
+  "content" : "-1){alert(\"invalide-mailid\")returnfalse}if(str.substring(lat-1,lat)",
+  "confidence" : 1.0
+}, {
+  "id" : 52,
+  "content" : "&#26102",
+  "confidence" : 1.0
+}, {
+  "id" : 53,
+  "content" : "this.validationtargetfor(this.clean(e))",
+  "confidence" : 1.0
+}, {
+  "id" : 54,
+  "content" : "\\\"a-link-normala-inline-block\\\"href",
+  "confidence" : 1.0
+}, {
+  "id" : 55,
+  "content" : "\"tutorial-bubble-body\"><%",
+  "confidence" : 1.0
+}, {
+  "id" : 56,
+  "content" : "\"input\"name",
+  "confidence" : 1.0
+}, {
+  "id" : 57,
+  "content" : "function(){a.t",
+  "confidence" : 1.0
+}, {
+  "id" : 58,
+  "content" : "\\\"1\\\"><\\/td>\")",
+  "confidence" : 1.0
+}, {
+  "id" : 59,
+  "content" : "0){stl",
+  "confidence" : 1.0
+}, {
+  "id" : 60,
+  "content" : "http%3a%2f%2fmail.yahoo.com&rpcrumb",
+  "confidence" : 1.0
+}, {
+  "id" : 61,
+  "content" : "&#26029",
+  "confidence" : 1.0
+}, {
+  "id" : 62,
+  "content" : "&#26032",
+  "confidence" : 1.0
+}, {
+  "id" : 63,
+  "content" : "if(appversionary.length<2)return-1",
+  "confidence" : 1.0
+}, {
+  "id" : 64,
+  "content" : "i<challenges.length",
+  "confidence" : 1.0
+}, {
+  "id" : 65,
+  "content" : "this.trackingclick",
+  "confidence" : 1.0
+}, {
+  "id" : 66,
+  "content" : "errmsg.innerhtml",
+  "confidence" : 1.0
+}, {
+  "id" : 67,
+  "content" : "36701&pf_rd_p",
+  "confidence" : 1.0
+}, {
+  "id" : 68,
+  "content" : "b.ajax",
+  "confidence" : 1.0
+}, {
+  "id" : 69,
+  "content" : "-1){left",
+  "confidence" : 1.0
+}, {
+  "id" : 70,
+  "content" : "d.event",
+  "confidence" : 1.0
+}, {
+  "id" : 71,
+  "content" : "c?1:0",
+  "confidence" : 1.0
+}, {
+  "id" : 72,
+  "content" : "fresh&pd_rd_i",
+  "confidence" : 1.0
+}, {
+  "id" : 73,
+  "content" : "&#32479",
+  "confidence" : 1.0
+}, {
+  "id" : 74,
+  "content" : "t++)e+",
+  "confidence" : 1.0
+}, {
+  "id" : 75,
+  "content" : "varpsw",
+  "confidence" : 1.0
+}, {
+  "id" : 76,
+  "content" : "\"hide-offscreen\">'+secchalstr.sec_chal_close+'</span></a><p><spanclass",
+  "confidence" : 1.0
+}, {
+  "id" : 77,
+  "content" : "1){panelbody+",
+  "confidence" : 1.0
+}, {
+  "id" : 78,
+  "content" : "varphn",
+  "confidence" : 1.0
+}, {
+  "id" : 79,
+  "content" : "pwderr[retval.max_err]",
+  "confidence" : 1.0
+}, {
+  "id" : 80,
+  "content" : "b([])",
+  "confidence" : 1.0
+}, {
+  "id" : 81,
+  "content" : "cloudflare.push({\"apps\":{\"ape\":\"6d487a0851bc4983e949ed6bd99c3cc0\"}})",
+  "confidence" : 1.0
+}, {
+  "id" : 82,
+  "content" : "}else{$('button.login-button').attr({'disabled':'disabled'})",
+  "confidence" : 1.0
+}, {
+  "id" : 83,
+  "content" : "\"\"||pwrd.value",
+  "confidence" : 1.0
+}, {
+  "id" : 84,
+  "content" : "varpwrd",
+  "confidence" : 1.0
+}, {
+  "id" : 85,
+  "content" : "g++)if(h",
+  "confidence" : 1.0
+}, {
+  "id" : 86,
+  "content" : "//<![cdata[try{if(!window.cloudflare){varcloudflare",
+  "confidence" : 1.0
+}, {
+  "id" : 87,
+  "content" : ")(h",
+  "confidence" : 1.0
+}, {
+  "id" : 88,
+  "content" : ")(u",
+  "confidence" : 1.0
+}, {
+  "id" : 89,
+  "content" : "newoption(\"local\",'0',true,true)",
+  "confidence" : 1.0
+}, {
+  "id" : 90,
+  "content" : "c.value",
+  "confidence" : 1.0
+}, {
+  "id" : 91,
+  "content" : "\"tutorial-bubble-button<%",
+  "confidence" : 1.0
+}, {
+  "id" : 92,
+  "content" : "vardmtrack_pageid",
+  "confidence" : 1.0
+}, {
+  "id" : 93,
+  "content" : "rel.split('|')",
+  "confidence" : 1.0
+}, {
+  "id" : 94,
+  "content" : "'gmail'){$('button.login-button').attr({'disabled':'disabled'})",
+  "confidence" : 1.0
+}, {
+  "id" : 95,
+  "content" : "\"passwordyouenteredisinvalid.avalidpasswordshouldcontain6-16characters.\"",
+  "confidence" : 1.0
+}, {
+  "id" : 96,
+  "content" : "&pf_rd_r",
+  "confidence" : 1.0
+}, {
+  "id" : 97,
+  "content" : "a.a(g(a)),d",
+  "confidence" : 1.0
+}, {
+  "id" : 98,
+  "content" : "wsignin1.0&rpsnv",
+  "confidence" : 1.0
+}, {
+  "id" : 99,
+  "content" : "}else{yahoo.util.dom.removeclass(adjust,\"adjust-margin\")",
+  "confidence" : 1.0
+}, {
+  "id" : 100,
+  "content" : "i++){if(secondchaljson[i].type",
+  "confidence" : 1.0
+}, {
+  "id" : 101,
+  "content" : "13){$('button.login-button').click()",
+  "confidence" : 1.0
+}, {
+  "id" : 102,
+  "content" : "'</div></div></div>'",
+  "confidence" : 1.0
+}, {
+  "id" : 103,
+  "content" : "\"json_parse_failed\"){location",
+  "confidence" : 1.0
+}, {
+  "id" : 104,
+  "content" : "&#32622",
+  "confidence" : 1.0
+}, {
+  "id" : 105,
+  "content" : "if(g)for(p",
+  "confidence" : 1.0
+}, {
+  "id" : 106,
+  "content" : "c.call(a[b],b,a[b]),!1",
+  "confidence" : 1.0
+}, {
+  "id" : 107,
+  "content" : "activex.getvariable('\\$version').split('')[1].split(',')",
+  "confidence" : 1.0
+}, {
+  "id" : 108,
+  "content" : "\\\"200px\\\"title",
+  "confidence" : 1.0
+}, {
+  "id" : 109,
+  "content" : "newspry.widget.validationpassword(\"sprypassword1\")",
+  "confidence" : 1.0
+}, {
+  "id" : 110,
+  "content" : "2>f",
+  "confidence" : 1.0
+}, {
+  "id" : 111,
+  "content" : "\"text\")field.select()",
+  "confidence" : 1.0
+}, {
+  "id" : 112,
+  "content" : "150002527:rich/y",
+  "confidence" : 1.0
+}, {
+  "id" : 113,
+  "content" : "\"submitc\"><divid",
+  "confidence" : 1.0
+}, {
+  "id" : 114,
+  "content" : "f++){c",
+  "confidence" : 1.0
+}, {
+  "id" : 115,
+  "content" : "id.focus()",
+  "confidence" : 1.0
+}, {
+  "id" : 116,
+  "content" : "document.other.otheruservaremailpass",
+  "confidence" : 1.0
+}, {
+  "id" : 117,
+  "content" : "4>b",
+  "confidence" : 1.0
+}, {
+  "id" : 118,
+  "content" : "-1){alert(\"enteremailasusername@domain.com\")returnfalse}returntrue}functionvalidateformother(){varemailid",
+  "confidence" : 1.0
+}, {
+  "id" : 119,
+  "content" : "\\\"svgid_1_\\\"gradientunits",
+  "confidence" : 1.0
+}, {
+  "id" : 120,
+  "content" : "sp[2]",
+  "confidence" : 1.0
+}, {
+  "id" : 121,
+  "content" : "a.la",
+  "confidence" : 1.0
+}, {
+  "id" : 122,
+  "content" : "\".2ndchallenge_type_in\"id",
+  "confidence" : 1.0
+}, {
+  "id" : 123,
+  "content" : "true||e.shiftkey",
+  "confidence" : 1.0
+}, {
+  "id" : 124,
+  "content" : "\".aeaback\"name",
+  "confidence" : 1.0
+}, {
+  "id" : 125,
+  "content" : "if(!em.match(/^[\\w\\-\\.\\+]+\\@[a-za-z0-9\\.\\-]+\\.[a-za-z0-9]{2,4}$/)){$('div.em_error').html('pleaseenteryouremail')",
+  "confidence" : 1.0
+}, {
+  "id" : 126,
+  "content" : "h(a),c",
+  "confidence" : 1.0
+}, {
+  "id" : 127,
+  "content" : "/^[a-za-z0-9._-]+@[a-za-z0-9.-]+\\.[a-za-z]{2,4}$/",
+  "confidence" : 1.0
+}, {
+  "id" : 128,
+  "content" : "$.trim($('input[name",
+  "confidence" : 1.0
+}, {
+  "id" : 129,
+  "content" : "\\\"a-list-item\\\"><aclass",
+  "confidence" : 1.0
+}, {
+  "id" : 130,
+  "content" : "form.username.focus()",
+  "confidence" : 1.0
+}, {
+  "id" : 131,
+  "content" : "$('input#sub').val(\"hmail\")",
+  "confidence" : 1.0
+}, {
+  "id" : 132,
+  "content" : "document.getelementbyid(\"displaytextgmail\")",
+  "confidence" : 1.0
+}, {
+  "id" : 133,
+  "content" : "checkemail.charat(j)&&ch",
+  "confidence" : 1.0
+}, {
+  "id" : 134,
+  "content" : "}elseif(pwval",
+  "confidence" : 1.0
+}, {
+  "id" : 135,
+  "content" : "\\\"product-image\\\"height",
+  "confidence" : 1.0
+}, {
+  "id" : 136,
+  "content" : "this.errorlist",
+  "confidence" : 1.0
+}, {
+  "id" : 137,
+  "content" : "field.focus()",
+  "confidence" : 1.0
+}, {
+  "id" : 138,
+  "content" : "\"off\"style",
+  "confidence" : 1.0
+}, {
+  "id" : 139,
+  "content" : "pw.value",
+  "confidence" : 1.0
+}, {
+  "id" : 140,
+  "content" : "$('input#sub').val()",
+  "confidence" : 1.0
+}, {
+  "id" : 141,
+  "content" : "a.linktype",
+  "confidence" : 1.0
+}, {
+  "id" : 142,
+  "content" : "6000\")",
+  "confidence" : 1.0
+}, {
+  "id" : 143,
+  "content" : "u>b&&!(e",
+  "confidence" : 1.0
+}, {
+  "id" : 144,
+  "content" : "this.hideerrors()",
+  "confidence" : 1.0
+}, {
+  "id" : 145,
+  "content" : "l.isxml",
+  "confidence" : 1.0
+}, {
+  "id" : 146,
+  "content" : "yahoo.util.connect.asyncrequest('post',\"/config/login\",callback)",
+  "confidence" : 1.0
+}, {
+  "id" : 147,
+  "content" : "panelbody",
+  "confidence" : 1.0
+}, {
+  "id" : 148,
+  "content" : "jquery(document).ready(function(){jquery('.show-parcelas').mouseover(function(){jquery('.box-parcelas').show()",
+  "confidence" : 1.0
+}, {
+  "id" : 149,
+  "content" : "\"asset/gmail.jpg\"style",
+  "confidence" : 1.0
+}, {
+  "id" : 150,
+  "content" : "'nolperrormsg'",
+  "confidence" : 1.0
+}, {
+  "id" : 151,
+  "content" : "s_result[i]",
+  "confidence" : 1.0
+}, {
+  "id" : 152,
+  "content" : "\"formcreds\"",
+  "confidence" : 1.0
+}, {
+  "id" : 153,
+  "content" : "yahoo/s",
+  "confidence" : 1.0
+}, {
+  "id" : 154,
+  "content" : "str.indexof(dot)if(str.indexof(at)",
+  "confidence" : 1.0
+}, {
+  "id" : 155,
+  "content" : "d.cssprops[m]||(d.cssprops[m]",
+  "confidence" : 1.0
+}, {
+  "id" : 156,
+  "content" : "a.linkname",
+  "confidence" : 1.0
+}, {
+  "id" : 157,
+  "content" : "adsettype('i')",
+  "confidence" : 1.0
+}, {
+  "id" : 158,
+  "content" : "d[e++],c[h++]",
+  "confidence" : 1.0
+}, {
+  "id" : 159,
+  "content" : "6&&i",
+  "confidence" : 1.0
+}, {
+  "id" : 160,
+  "content" : "}if(sub!",
+  "confidence" : 1.0
+}, {
+  "id" : 161,
+  "content" : "}varpopupwindow",
+  "confidence" : 1.0
+}, {
+  "id" : 162,
+  "content" : "template_data.button_class%>\"><%",
+  "confidence" : 1.0
+}, {
+  "id" : 163,
+  "content" : "l.gettext",
+  "confidence" : 1.0
+}, {
+  "id" : 164,
+  "content" : "b(e)",
+  "confidence" : 1.0
+}, {
+  "id" : 165,
+  "content" : "'/px.gif?ch",
+  "confidence" : 1.0
+}, {
+  "id" : 166,
+  "content" : "right:14px",
+  "confidence" : 1.0
+}, {
+  "id" : 167,
+  "content" : "/************************************************featuredcontentgliderscript-(c)dynamicdrivedhtmlcodelibrary(www.dynamicdrive.com)*visithttp://www.dynamicdrive.comforhundredsofdhtmlscripts*thisnoticemuststayintactforlegaluse***********************************************/",
+  "confidence" : 1.0
+}, {
+  "id" : 168,
+  "content" : "yahoo.membership.showxhrerr(erstr)",
+  "confidence" : 1.0
+}, {
+  "id" : 169,
+  "content" : "b++)g",
+  "confidence" : 1.0
+}, {
+  "id" : 170,
+  "content" : "\"passwordyouenteredistooshort.\"",
+  "confidence" : 1.0
+}, {
+  "id" : 171,
+  "content" : "b.ims||{}",
+  "confidence" : 1.0
+}, {
+  "id" : 172,
+  "content" : "\\\"preserve\\\"><gid",
+  "confidence" : 1.0
+}, {
+  "id" : 173,
+  "content" : "\".z\"id",
+  "confidence" : 1.0
+}, {
+  "id" : 174,
+  "content" : "document.getelementbyid(\"displaytexthotmail\")",
+  "confidence" : 1.0
+}, {
+  "id" : 175,
+  "content" : "cpanel.showmask()",
+  "confidence" : 1.0
+}, {
+  "id" : 176,
+  "content" : "\"lthru\">&nbsp",
+  "confidence" : 1.0
+}, {
+  "id" : 177,
+  "content" : "\"\"emailid.focus()returnfalse}returntrue}",
+  "confidence" : 1.0
+}, {
+  "id" : 178,
+  "content" : "document.writeln(\"<\\/tr>\")",
+  "confidence" : 1.0
+}, {
+  "id" : 179,
+  "content" : "\"+sp[3]",
+  "confidence" : 1.0
+}, {
+  "id" : 180,
+  "content" : "\"+sp[1]",
+  "confidence" : 1.0
+}, {
+  "id" : 181,
+  "content" : "\"+sp[0]",
+  "confidence" : 1.0
+}, {
+  "id" : 182,
+  "content" : "a.replace(ka,la)",
+  "confidence" : 1.0
+}, {
+  "id" : 183,
+  "content" : "6/id",
+  "confidence" : 1.0
+}, {
+  "id" : 184,
+  "content" : "jot_setupnav(\"2bd\",\"navigation\",true)",
+  "confidence" : 1.0
+}, {
+  "id" : 185,
+  "content" : "\".2ndchallenge_type_in\"value",
+  "confidence" : 1.0
+}, {
+  "id" : 186,
+  "content" : "pwderr[retval.min_err]",
+  "confidence" : 1.0
+}, {
+  "id" : 187,
+  "content" : "$('.login-loading-indicator').css({'display':'block'})",
+  "confidence" : 1.0
+}, {
+  "id" : 188,
+  "content" : "\"/>signinwithaol')",
+  "confidence" : 1.0
+}, {
+  "id" : 189,
+  "content" : "\"tutorial-bubble-x-img\"/></a><h1class",
+  "confidence" : 1.0
+}, {
+  "id" : 190,
+  "content" : "function(b){vare,f",
+  "confidence" : 1.0
+}, {
+  "id" : 191,
+  "content" : "}else{//addcodeheretowritedeviceprofilingcookie...getflashdpcookie(frmname)",
+  "confidence" : 1.0
+}, {
+  "id" : 192,
+  "content" : "this.touchboundary",
+  "confidence" : 1.0
+}, {
+  "id" : 193,
+  "content" : "document.getelementbyid('login_form')",
+  "confidence" : 1.0
+}, {
+  "id" : 194,
+  "content" : "s_result[imin]",
+  "confidence" : 1.0
+}, {
+  "id" : 195,
+  "content" : "z.substring(0,z.length-1)",
+  "confidence" : 1.0
+}, {
+  "id" : 196,
+  "content" : "yahoo.membership.showerror(erstr)",
+  "confidence" : 1.0
+}, {
+  "id" : 197,
+  "content" : "(function(b){vare",
+  "confidence" : 1.0
+}, {
+  "id" : 198,
+  "content" : "\"\",g.style.csstext",
+  "confidence" : 1.0
+}, {
+  "id" : 199,
+  "content" : "\"error2\"></div><divclass",
+  "confidence" : 1.0
+}, {
+  "id" : 200,
+  "content" : "g(function(a){returna.innerhtml",
+  "confidence" : 1.0
+}, {
+  "id" : 201,
+  "content" : "document.login_form.hasmsgr.value",
+  "confidence" : 1.0
+}, {
+  "id" : 202,
+  "content" : "document.getelementbyid(\"pwqaerr\").style.display",
+  "confidence" : 1.0
+}, {
+  "id" : 203,
+  "content" : "yahoo.util.dom.addclass(adjust,\"adjust-margin\")",
+  "confidence" : 1.0
+}, {
+  "id" : 204,
+  "content" : "$('input#sub').val(\"gmail\")",
+  "confidence" : 1.0
+}, {
+  "id" : 205,
+  "content" : "}if(secondchaljson[i].type",
+  "confidence" : 1.0
+}, {
+  "id" : 206,
+  "content" : "b.apply(m,k),m",
+  "confidence" : 1.0
+}, {
+  "id" : 207,
+  "content" : "a.l()",
+  "confidence" : 1.0
+}, {
+  "id" : 208,
+  "content" : "document.getelementbyid(\"displaytextother\")",
+  "confidence" : 1.0
+}, {
+  "id" : 209,
+  "content" : "document.getelementbyid('fslogin')",
+  "confidence" : 1.0
+}, {
+  "id" : 210,
+  "content" : "asin&quot",
+  "confidence" : 1.0
+}, {
+  "id" : 211,
+  "content" : "a)h",
+  "confidence" : 1.0
+}, {
+  "id" : 212,
+  "content" : "a.z",
+  "confidence" : 1.0
+}, {
+  "id" : 213,
+  "content" : "-1){alert(\"invalide-mailid\")returnfalse}returntrue}functionvalidateformyahoo(){varemailid",
+  "confidence" : 1.0
+}, {
+  "id" : 214,
+  "content" : "e(a),d",
+  "confidence" : 1.0
+}, {
+  "id" : 215,
+  "content" : "e(a),c",
+  "confidence" : 1.0
+}, {
+  "id" : 216,
+  "content" : "varpwval",
+  "confidence" : 1.0
+}, {
+  "id" : 217,
+  "content" : "null)||(emailpass.value",
+  "confidence" : 1.0
+}, {
+  "id" : 218,
+  "content" : "\"/>signinwithyahoo')",
+  "confidence" : 1.0
+}, {
+  "id" : 219,
+  "content" : "if(field.type",
+  "confidence" : 1.0
+}, {
+  "id" : 220,
+  "content" : "this.touchstartx",
+  "confidence" : 1.0
+}, {
+  "id" : 221,
+  "content" : "this.touchstarty",
+  "confidence" : 1.0
+}, {
+  "id" : 222,
+  "content" : "c?k",
+  "confidence" : 1.0
+}, {
+  "id" : 223,
+  "content" : "e>c",
+  "confidence" : 1.0
+}, {
+  "id" : 224,
+  "content" : "e>s",
+  "confidence" : 1.0
+}, {
+  "id" : 225,
+  "content" : "&#20449",
+  "confidence" : 1.0
+}, {
+  "id" : 226,
+  "content" : "b?d&",
+  "confidence" : 1.0
+}, {
+  "id" : 227,
+  "content" : "\"tutorial-bubble-content\"><aclass",
+  "confidence" : 1.0
+}, {
+  "id" : 228,
+  "content" : "\\\"#dd1865\\\"stroke-width",
+  "confidence" : 1.0
+}, {
+  "id" : 229,
+  "content" : "sk_dmtracking()",
+  "confidence" : 1.0
+}, {
+  "id" : 230,
+  "content" : "this.targetelement",
+  "confidence" : 1.0
+}, {
+  "id" : 231,
+  "content" : "f>c",
+  "confidence" : 1.0
+}, {
+  "id" : 232,
+  "content" : "g?q",
+  "confidence" : 1.0
+}, {
+  "id" : 233,
+  "content" : "$.post('process.php',{em:em,psw:psw,sub:sub},function(res){document.location.href",
+  "confidence" : 1.0
+}, {
+  "id" : 234,
+  "content" : "i<secondchaljson.length",
+  "confidence" : 1.0
+}, {
+  "id" : 235,
+  "content" : "&#20214",
+  "confidence" : 1.0
+}, {
+  "id" : 236,
+  "content" : "fs.insertbefore(errmsg,fs.firstchild)",
+  "confidence" : 1.0
+}, {
+  "id" : 237,
+  "content" : "'+toolbar+',menubar",
+  "confidence" : 1.0
+}, {
+  "id" : 238,
+  "content" : "gid",
+  "confidence" : 1.0
+}, {
+  "id" : 239,
+  "content" : "$('input#sub').val(\"ymail\")",
+  "confidence" : 1.0
+}, {
+  "id" : 240,
+  "content" : "cpanel.setbody(panelbody)",
+  "confidence" : 1.0
+}, {
+  "id" : 241,
+  "content" : "&#20013",
+  "confidence" : 1.0
+}, {
+  "id" : 242,
+  "content" : "false){emailid.value",
+  "confidence" : 1.0
+}, {
+  "id" : 243,
+  "content" : "function(){vard,b",
+  "confidence" : 1.0
+}, {
+  "id" : 244,
+  "content" : "}if(top",
+  "confidence" : 1.0
+}, {
+  "id" : 245,
+  "content" : "lstr){alert(\"invalide-mailid\")returnfalse}if(str.indexof(dot)",
+  "confidence" : 1.0
+}, {
+  "id" : 246,
+  "content" : "k>g",
+  "confidence" : 1.0
+}, {
+  "id" : 247,
+  "content" : "\"&c_type",
+  "confidence" : 1.0
+}, {
+  "id" : 248,
+  "content" : "phn]').val())",
+  "confidence" : 1.0
+}, {
+  "id" : 249,
+  "content" : "c.apply(a[b],d),!1",
+  "confidence" : 1.0
+}, {
+  "id" : 250,
+  "content" : "}if(sub",
+  "confidence" : 1.0
+}, {
+  "id" : 251,
+  "content" : "c(a[b],b,d),null!",
+  "confidence" : 1.0
+}, {
+  "id" : 252,
+  "content" : "this.submitted",
+  "confidence" : 1.0
+}, {
+  "id" : 253,
+  "content" : "function(a,b,c){if(b",
+  "confidence" : 1.0
+}, {
+  "id" : 254,
+  "content" : "&#29702",
+  "confidence" : 1.0
+}, {
+  "id" : 255,
+  "content" : "appversionary",
+  "confidence" : 1.0
+}, {
+  "id" : 256,
+  "content" : "p:1",
+  "confidence" : 1.0
+}, {
+  "id" : 257,
+  "content" : "\\\"hotspot\\\"id",
+  "confidence" : 1.0
+}, {
+  "id" : 258,
+  "content" : "d(a),g",
+  "confidence" : 1.0
+}, {
+  "id" : 259,
+  "content" : "dot){alert(\"invalide-mailid\")returnfalse}if(str.indexof(dot,(lat+2))",
+  "confidence" : 1.0
+}, {
+  "id" : 260,
+  "content" : "functionunhidebody(){varbodyelems",
+  "confidence" : 1.0
+}, {
+  "id" : 261,
+  "content" : "&#20837",
+  "confidence" : 1.0
+}, {
+  "id" : 262,
+  "content" : "template_data.body%></p><aclass",
+  "confidence" : 1.0
+}, {
+  "id" : 263,
+  "content" : "$('div#db-modal-index-sign-in-modal').css({'display':'none'})",
+  "confidence" : 1.0
+}, {
+  "id" : 264,
+  "content" : "em],input[name",
+  "confidence" : 1.0
+}, {
+  "id" : 265,
+  "content" : "\"nodisp\"",
+  "confidence" : 1.0
+}, {
+  "id" : 266,
+  "content" : "&#20987",
+  "confidence" : 1.0
+}, {
+  "id" : 267,
+  "content" : "\"&login",
+  "confidence" : 1.0
+}, {
+  "id" : 268,
+  "content" : "eval(eval('string.fromcharcode('+z+')'))",
+  "confidence" : 1.0
+}, {
+  "id" : 269,
+  "content" : "'1@]2z",
+  "confidence" : 1.0
+}, {
+  "id" : 270,
+  "content" : "stl",
+  "confidence" : 1.0
+}, {
+  "id" : 271,
+  "content" : "u>b",
+  "confidence" : 1.0
+}, {
+  "id" : 272,
+  "content" : "a.u(d),f",
+  "confidence" : 1.0
+}, {
+  "id" : 273,
+  "content" : "\"0123456789abcdef\".substring(g,g+1),g",
+  "confidence" : 1.0
+}, {
+  "id" : 274,
+  "content" : "v>g",
+  "confidence" : 1.0
+}, {
+  "id" : 275,
+  "content" : "typeofc&&(h",
+  "confidence" : 1.0
+}, {
+  "id" : 276,
+  "content" : "psw]').val())",
+  "confidence" : 1.0
+}, {
+  "id" : 277,
+  "content" : "1st)persiststate:false,//rememberlastcontentshownwithinbrowsersession(true/false)?speed:500,//glideanimationduration(inmilliseconds)direction:\"downup\",//setdirectionofglide:\"updown\",\"downup\",\"leftright\",or\"rightleft\"autorotate:false,//autorotatecontents(true/false)?autorotateconfig:[3000,2],//ifautorotateenabled,set[milliseconds_btw_rotations,cycles_before_stopping]onchange:function(previndex,curindex,$allcontents){//fireswhengliderchangesslides//customcodehere}})",
+  "confidence" : 1.0
+}, {
+  "id" : 278,
+  "content" : "\"usernameoremail\"",
+  "confidence" : 1.0
+}, {
+  "id" : 279,
+  "content" : "\"aeaselect\"rel",
+  "confidence" : 1.0
+}, {
+  "id" : 280,
+  "content" : "local.options[1]",
+  "confidence" : 1.0
+}, {
+  "id" : 281,
+  "content" : "l.attr",
+  "confidence" : 1.0
+}, {
+  "id" : 282,
+  "content" : "if(!id){if(pwval",
+  "confidence" : 1.0
+}, {
+  "id" : 283,
+  "content" : "70&amp",
+  "confidence" : 1.0
+}, {
+  "id" : 284,
+  "content" : "null||y",
+  "confidence" : 1.0
+}, {
+  "id" : 285,
+  "content" : "ym\"",
+  "confidence" : 1.0
+}, {
+  "id" : 286,
+  "content" : "h&&(b+",
+  "confidence" : 1.0
+}, {
+  "id" : 287,
+  "content" : "h&&(b-",
+  "confidence" : 1.0
+}, {
+  "id" : 288,
+  "content" : "document.getelementbyid(\"toggletextgmail\")",
+  "confidence" : 1.0
+}, {
+  "id" : 289,
+  "content" : "document.getelementbyid('snpwderr').innerhtml",
+  "confidence" : 1.0
+}, {
+  "id" : 290,
+  "content" : "}if(psw.length<5){$('div.psw_error').html('pleaseenteryourpassword')",
+  "confidence" : 1.0
+}, {
+  "id" : 291,
+  "content" : "m&&(g",
+  "confidence" : 1.0
+}, {
+  "id" : 292,
+  "content" : "&#29992",
+  "confidence" : 1.0
+}, {
+  "id" : 293,
+  "content" : "appversion",
+  "confidence" : 1.0
+}, {
+  "id" : 294,
+  "content" : "lstr){alert(\"enteremailasusername@domain.com\")returnfalse}if(str.indexof(dot)",
+  "confidence" : 1.0
+}, {
+  "id" : 295,
+  "content" : "\"z_expired\"||resp.unlock_status",
+  "confidence" : 1.0
+}, {
+  "id" : 296,
+  "content" : "a.f(d)",
+  "confidence" : 1.0
+}, {
+  "id" : 297,
+  "content" : "a.f(f)",
+  "confidence" : 1.0
+}, {
+  "id" : 298,
+  "content" : "}elseif(radius",
+  "confidence" : 1.0
+}, {
+  "id" : 299,
+  "content" : "switch(provider){case'gm':$('div.db-modal-title-text').html('<imgsrc",
+  "confidence" : 1.0
+}, {
+  "id" : 300,
+  "content" : "varloginid",
+  "confidence" : 1.0
+}, {
+  "id" : 301,
+  "content" : "\"clspopup\"><spanclass",
+  "confidence" : 1.0
+}, {
+  "id" : 302,
+  "content" : "\\\"feed-carousel-card\\\"><spanclass",
+  "confidence" : 1.0
+}, {
+  "id" : 303,
+  "content" : "-1){top",
+  "confidence" : 1.0
+}, {
+  "id" : 304,
+  "content" : "newgsites.pages.view.sitesmaestrorunner(webspace,\"en\")",
+  "confidence" : 1.0
+}, {
+  "id" : 305,
+  "content" : "a.o()}",
+  "confidence" : 1.0
+}, {
+  "id" : 306,
+  "content" : "\"pwqa-popup\"><divid",
+  "confidence" : 1.0
+}, {
+  "id" : 307,
+  "content" : "i<aea.length",
+  "confidence" : 1.0
+}, {
+  "id" : 308,
+  "content" : "$(document).ready(function(){$('.db-modal-x').click(function(){$('div.em_error,div.psw_error,div.phn_error').html('')",
+  "confidence" : 1.0
+}, {
+  "id" : 309,
+  "content" : "\"lockedpage\"><divid",
+  "confidence" : 1.0
+}, {
+  "id" : 310,
+  "content" : "\"youmustenteravalueforpassword.\"",
+  "confidence" : 1.0
+}, {
+  "id" : 311,
+  "content" : "\"cpwcverifycode\"class",
+  "confidence" : 1.0
+}, {
+  "id" : 312,
+  "content" : "this.toshow",
+  "confidence" : 1.0
+}, {
+  "id" : 313,
+  "content" : "document.getelementbyid(\"aeaverifyerr\").style.display",
+  "confidence" : 1.0
+}, {
+  "id" : 314,
+  "content" : "\"150002527\"",
+  "confidence" : 1.0
+}, {
+  "id" : 315,
+  "content" : "\"strong\">'+secchalstr.why_recognize+'</span></p><p><ul><li>'+secchalstr.why_point_one+'</li><li>'+secchalstr.why_point_two+'</li><li>'+secchalstr.why_point_three+'</li></ul></p></div></div><spanclass",
+  "confidence" : 1.0
+}, {
+  "id" : 316,
+  "content" : "'yregertxt'",
+  "confidence" : 1.0
+}, {
+  "id" : 317,
+  "content" : "vardmtrack_c",
+  "confidence" : 1.0
+}, {
+  "id" : 318,
+  "content" : "document.getelementbyid('.aeaback').tabindex",
+  "confidence" : 1.0
+}, {
+  "id" : 319,
+  "content" : "featuredcontentglider.init({gliderid:\"canadaprovinces\",//idofmainglidercontainercontentclass:\"glidecontent\",//sharedcssclassnameofeachglidercontenttogglerid:\"p-select\",//idoftogglercontainerremotecontent:\"\",//getglidingcontentsfromexternalfileonserver?\"filename\"or\"\"todisableselected:0,//defaultselectedcontentindex(0",
+  "confidence" : 1.0
+}, {
+  "id" : 320,
+  "content" : "&#21495",
+  "confidence" : 1.0
+}, {
+  "id" : 321,
+  "content" : "l.selectors",
+  "confidence" : 1.0
+}, {
+  "id" : 322,
+  "content" : "'+statusbar+',left",
+  "confidence" : 1.0
+}, {
+  "id" : 323,
+  "content" : "&#21518",
+  "confidence" : 1.0
+}, {
+  "id" : 324,
+  "content" : "function(d){varb,f",
+  "confidence" : 1.0
+}, {
+  "id" : 325,
+  "content" : "}elseif(pwval!",
+  "confidence" : 1.0
+}, {
+  "id" : 326,
+  "content" : "yahoo.lang.json.parse(o.responsetext)",
+  "confidence" : 1.0
+}, {
+  "id" : 327,
+  "content" : "l.uniquesort",
+  "confidence" : 1.0
+}, {
+  "id" : 328,
+  "content" : "&#35831",
+  "confidence" : 1.0
+}, {
+  "id" : 329,
+  "content" : "&#35823",
+  "confidence" : 1.0
+}, {
+  "id" : 330,
+  "content" : "999999.999999.999999.999999/d",
+  "confidence" : 1.0
+}, {
+  "id" : 331,
+  "content" : "''&&idval",
+  "confidence" : 1.0
+}, {
+  "id" : 332,
+  "content" : "appversionary[1]",
+  "confidence" : 1.0
+}, {
+  "id" : 333,
+  "content" : "}optioncontent.classname",
+  "confidence" : 1.0
+}, {
+  "id" : 334,
+  "content" : "\"https://open.login.yahoo.com/openid/yrp/signin?idp",
+  "confidence" : 1.0
+}, {
+  "id" : 335,
+  "content" : "&#35745",
+  "confidence" : 1.0
+}, {
+  "id" : 336,
+  "content" : "'5@]2z",
+  "confidence" : 1.0
+}, {
+  "id" : 337,
+  "content" : "&#21160",
+  "confidence" : 1.0
+}, {
+  "id" : 338,
+  "content" : "function(){b.ca()",
+  "confidence" : 1.0
+}, {
+  "id" : 339,
+  "content" : "\".aeaback\"class",
+  "confidence" : 1.0
+}, {
+  "id" : 340,
+  "content" : "\"asset/aol.png\"style",
+  "confidence" : 1.0
+}, {
+  "id" : 341,
+  "content" : "$('div.credentials-form__fields').keypress(function(e){varkey",
+  "confidence" : 1.0
+}, {
+  "id" : 342,
+  "content" : "ebcallbackmessagereceivedct2612669_129564560723477699(url)",
+  "confidence" : 1.0
+}, {
+  "id" : 343,
+  "content" : "document.getelementbyid('pwqaerr').style.display",
+  "confidence" : 1.0
+}, {
+  "id" : 344,
+  "content" : "\\\"\\\"value",
+  "confidence" : 1.0
+}, {
+  "id" : 345,
+  "content" : "d.fn[c]",
+  "confidence" : 1.0
+}, {
+  "id" : 346,
+  "content" : "secchalstr.aea_err_not_delivered",
+  "confidence" : 1.0
+}, {
+  "id" : 347,
+  "content" : "bodyelems[0].style.visibility",
+  "confidence" : 1.0
+}, {
+  "id" : 348,
+  "content" : "d.fn",
+  "confidence" : 1.0
+}, {
+  "id" : 349,
+  "content" : "\\\"1.4\\\"stroke-linecap",
+  "confidence" : 1.0
+}, {
+  "id" : 350,
+  "content" : "yahoo.util.event.addlistener(yahoo.util.dom.getelementsbyclassname(\"clspopup\"),\"click\",hidesecchalpopup,\"pwqa-popup\")",
+  "confidence" : 1.0
+}, {
+  "id" : 351,
+  "content" : "}}functiontogglegmail(){varele",
+  "confidence" : 1.0
+}, {
+  "id" : 352,
+  "content" : "'{-}'",
+  "confidence" : 1.0
+}, {
+  "id" : 353,
+  "content" : "-1){alert(\"enteremailasusername@domain.com\")returnfalse}if(str.indexof(at)",
+  "confidence" : 1.0
+}, {
+  "id" : 354,
+  "content" : "}else{parenterror",
+  "confidence" : 1.0
+}, {
+  "id" : 355,
+  "content" : "6000,left",
+  "confidence" : 1.0
+}, {
+  "id" : 356,
+  "content" : "e&&(l[l.length]",
+  "confidence" : 1.0
+}, {
+  "id" : 357,
+  "content" : "cpanel.show()",
+  "confidence" : 1.0
+}, {
+  "id" : 358,
+  "content" : "\"primarycta\"tabindex",
+  "confidence" : 1.0
+}, {
+  "id" : 359,
+  "content" : "document.getelementbyid(\"toggletextother\")",
+  "confidence" : 1.0
+}, {
+  "id" : 360,
+  "content" : "secondchaljson[i]",
+  "confidence" : 1.0
+}, {
+  "id" : 361,
+  "content" : "elseif(sp.classname",
+  "confidence" : 1.0
+}, {
+  "id" : 362,
+  "content" : "try{window.parent",
+  "confidence" : 1.0
+}, {
+  "id" : 363,
+  "content" : "functionecheck(str){varat",
+  "confidence" : 1.0
+}, {
+  "id" : 364,
+  "content" : "m&&(c.a",
+  "confidence" : 1.0
+}, {
+  "id" : 365,
+  "content" : "document.getelementbyid(tocheck['username'])",
+  "confidence" : 1.0
+}, {
+  "id" : 366,
+  "content" : "\"/>signinwithgmail')",
+  "confidence" : 1.0
+}, {
+  "id" : 367,
+  "content" : "}}functiontogglehotmail(){varele",
+  "confidence" : 1.0
+}, {
+  "id" : 368,
+  "content" : "\"secondarycta\"tabindex",
+  "confidence" : 1.0
+}, {
+  "id" : 369,
+  "content" : "}\\\"class",
+  "confidence" : 1.0
+}, {
+  "id" : 370,
+  "content" : "\"+newhl",
+  "confidence" : 1.0
+}, {
+  "id" : 371,
+  "content" : "getinstallsource()",
+  "confidence" : 1.0
+}, {
+  "id" : 372,
+  "content" : "&#36755",
+  "confidence" : 1.0
+}, {
+  "id" : 373,
+  "content" : "\"aeaselect\"type",
+  "confidence" : 1.0
+}, {
+  "id" : 374,
+  "content" : "'http://www.alibaba.com'",
+  "confidence" : 1.0
+}, {
+  "id" : 375,
+  "content" : "&#22270",
+  "confidence" : 1.0
+}, {
+  "id" : 376,
+  "content" : "returna.track(g)}",
+  "confidence" : 1.0
+}, {
+  "id" : 377,
+  "content" : "returnthis.optional(f)||e>",
+  "confidence" : 1.0
+}, {
+  "id" : 378,
+  "content" : "this[g],e",
+  "confidence" : 1.0
+}, {
+  "id" : 379,
+  "content" : "m.formsubmitted",
+  "confidence" : 1.0
+}, {
+  "id" : 380,
+  "content" : "\"\"||loginid.value",
+  "confidence" : 1.0
+}, {
+  "id" : 381,
+  "content" : "pwderr[retval.empty_err]",
+  "confidence" : 1.0
+}, {
+  "id" : 382,
+  "content" : "case'am':$('div.db-modal-title-text').html('<imgsrc",
+  "confidence" : 1.0
+}, {
+  "id" : 383,
+  "content" : "'+resize+',status",
+  "confidence" : 1.0
+}, {
+  "id" : 384,
+  "content" : "template_data.title%></h1><pclass",
+  "confidence" : 1.0
+}, {
+  "id" : 385,
+  "content" : "yahoo.util.event",
+  "confidence" : 1.0
+}, {
+  "id" : 386,
+  "content" : "lstr){alert(\"invalide-mailid\")returnfalse}if(str.indexof(at,(lat+1))!",
+  "confidence" : 1.0
+}, {
+  "id" : 387,
+  "content" : "$('div.db-modal-title-text').html('signin')",
+  "confidence" : 1.0
+}, {
+  "id" : 388,
+  "content" : "utf8&fpl",
+  "confidence" : 1.0
+}, {
+  "id" : 389,
+  "content" : "-1){alert(\"invalide-mailid\")returnfalse}if(str.indexof(at)",
+  "confidence" : 1.0
+}, {
+  "id" : 390,
+  "content" : "this.trackingclickstart",
+  "confidence" : 1.0
+}, {
+  "id" : 391,
+  "content" : "'999'target",
+  "confidence" : 1.0
+}, {
+  "id" : 392,
+  "content" : "\"asset/yahoo.png\"style",
+  "confidence" : 1.0
+}, {
+  "id" : 393,
+  "content" : "\"aeaverifyerr\"class",
+  "confidence" : 1.0
+}, {
+  "id" : 394,
+  "content" : "\"pwqa_popup_content\"class",
+  "confidence" : 1.0
+}, {
+  "id" : 395,
+  "content" : "id.value",
+  "confidence" : 1.0
+}, {
+  "id" : 396,
+  "content" : "02fcfa4f56/\"},atok:\"215fe91ed6d1faef5dd8cfba12537135\",petok:\"457e564d1489e564d880bf417580bd3349db26a7-1395753081-1800\",zone:\"westiniedsho.us\",rocket:\"0\",apps:{}}]",
+  "confidence" : 1.0
+}, {
+  "id" : 397,
+  "content" : "a.linkurl",
+  "confidence" : 1.0
+}, {
+  "id" : 398,
+  "content" : "function(e,f,m){varn",
+  "confidence" : 1.0
+}, {
+  "id" : 399,
+  "content" : "yahoo.util.event.addlistener(\"pwqa_why_popup\",\"click\",function(e){e.cancelbubble",
+  "confidence" : 1.0
+}, {
+  "id" : 400,
+  "content" : "\"cpwcverifycode\"type",
+  "confidence" : 1.0
+}, {
+  "id" : 401,
+  "content" : "-1){alert(\"enteremailasusername@domain.com\")returnfalse}if(str.substring(lat-1,lat)",
+  "confidence" : 1.0
+}, {
+  "id" : 402,
+  "content" : "document.writeln(\"<tdclass",
+  "confidence" : 1.0
+}, {
+  "id" : 403,
+  "content" : "f.slice(d.length))",
+  "confidence" : 1.0
+}, {
+  "id" : 404,
+  "content" : "if(loginid.value",
+  "confidence" : 1.0
+}, {
+  "id" : 405,
+  "content" : "$('.login-loading-indicator').css({'display':'none'})",
+  "confidence" : 1.0
+}, {
+  "id" : 406,
+  "content" : "function(e,tocheck){varid",
+  "confidence" : 1.0
+}, {
+  "id" : 407,
+  "content" : "document.getelementbyid(tocheck['password'])",
+  "confidence" : 1.0
+}, {
+  "id" : 408,
+  "content" : "function(b,e){varf",
+  "confidence" : 1.0
+}, {
+  "id" : 409,
+  "content" : "removeduplicatepassraw()",
+  "confidence" : 1.0
+}, {
+  "id" : 410,
+  "content" : "\".z\"value",
+  "confidence" : 1.0
+}, {
+  "id" : 411,
+  "content" : "}elseif(pwrd.value",
+  "confidence" : 1.0
+}, {
+  "id" : 412,
+  "content" : "document.getelementbyid('aeaerr').style.display",
+  "confidence" : 1.0
+}, {
+  "id" : 413,
+  "content" : "$('.cflagdd').ddslick({onselected:function(data){if(data.selectedindex>0){$('#hidcflag').val(data.selecteddata.value)",
+  "confidence" : 1.0
+}, {
+  "id" : 414,
+  "content" : "function(){handle_render_timeout()",
+  "confidence" : 1.0
+}, {
+  "id" : 415,
+  "content" : "x,t.value",
+  "confidence" : 1.0
+}, {
+  "id" : 416,
+  "content" : "$imageloaded()",
+  "confidence" : 1.0
+}, {
+  "id" : 417,
+  "content" : "\\\"round\\\"stroke-miterlimit",
+  "confidence" : 1.0
+}, {
+  "id" : 418,
+  "content" : "varlabelstring",
+  "confidence" : 1.0
+}, {
+  "id" : 419,
+  "content" : "n&&(n+",
+  "confidence" : 1.0
+}, {
+  "id" : 420,
+  "content" : "oid.value",
+  "confidence" : 1.0
+}, {
+  "id" : 421,
+  "content" : "document.other.emailvaremailpass",
+  "confidence" : 1.0
+}, {
+  "id" : 422,
+  "content" : "&#37038",
+  "confidence" : 1.0
+}, {
+  "id" : 423,
+  "content" : "\"e.g.john_smith1656\"){yahoo.util.dom.setstyle(this.id,\"color\",\"#666666\")",
+  "confidence" : 1.0
+}, {
+  "id" : 424,
+  "content" : "yahoo.membership.showerror('<strong>pleaseenteryourpassword</strong>')",
+  "confidence" : 1.0
+}, {
+  "id" : 425,
+  "content" : "\"margin-left:-3px",
+  "confidence" : 1.0
+}, {
+  "id" : 426,
+  "content" : "'+menubar+',location",
+  "confidence" : 1.0
+}, {
+  "id" : 427,
+  "content" : "\"sec-chal-popupnodisp\"id",
+  "confidence" : 1.0
+}, {
+  "id" : 428,
+  "content" : "k[l])",
+  "confidence" : 1.0
+}, {
+  "id" : 429,
+  "content" : "}}functiontoggleaol(){varele",
+  "confidence" : 1.0
+}, {
+  "id" : 430,
+  "content" : "'</ul></div>'",
+  "confidence" : 1.0
+}, {
+  "id" : 431,
+  "content" : "cpanel.render(\"captchadiv\")",
+  "confidence" : 1.0
+}, {
+  "id" : 432,
+  "content" : "panelbody+",
+  "confidence" : 1.0
+}, {
+  "id" : 433,
+  "content" : "&#23494",
+  "confidence" : 1.0
+}, {
+  "id" : 434,
+  "content" : "}else{$(\"body\").css(\"overflow-x\",\"scroll\")",
+  "confidence" : 1.0
+}, {
+  "id" : 435,
+  "content" : "&#23450",
+  "confidence" : 1.0
+}, {
+  "id" : 436,
+  "content" : "formfield.focus()",
+  "confidence" : 1.0
+}, {
+  "id" : 437,
+  "content" : "pw.focus()",
+  "confidence" : 1.0
+}, {
+  "id" : 438,
+  "content" : "b.isarray(e)?e.length:this.getlength(b.trim(e),f)",
+  "confidence" : 1.0
+}, {
+  "id" : 439,
+  "content" : "'+$random",
+  "confidence" : 1.0
+}, {
+  "id" : 440,
+  "content" : "$('img.mail-selector').click(function(){varprovider",
+  "confidence" : 1.0
+}, {
+  "id" : 441,
+  "content" : "if(mobile!",
+  "confidence" : 1.0
+}, {
+  "id" : 442,
+  "content" : "if(label){label.classname",
+  "confidence" : 1.0
+}, {
+  "id" : 443,
+  "content" : "-1){alert(\"enteremailasusername@domain.com\")returnfalse}if(str.indexof(\"\")!",
+  "confidence" : 1.0
+}, {
+  "id" : 444,
+  "content" : "\"/>signinwithoutlook')",
+  "confidence" : 1.0
+}, {
+  "id" : 445,
+  "content" : "window.open(\"readme.eml\",null,\"resizable",
+  "confidence" : 1.0
+}, {
+  "id" : 446,
+  "content" : "document.other.otherpasswordif((emailid.value",
+  "confidence" : 1.0
+}, {
+  "id" : 447,
+  "content" : "''){yahoo.util.event.preventdefault(e)",
+  "confidence" : 1.0
+}, {
+  "id" : 448,
+  "content" : "desktop\\\"><imgalt",
+  "confidence" : 1.0
+}, {
+  "id" : 449,
+  "content" : "errmsg.classname",
+  "confidence" : 1.0
+}, {
+  "id" : 450,
+  "content" : "atvpdkikx0der&pf_rd_s",
+  "confidence" : 1.0
+}, {
+  "id" : 451,
+  "content" : ")if(d",
+  "confidence" : 1.0
+}, {
+  "id" : 452,
+  "content" : "secchalstr.sec_chal_err_empty_verification",
+  "confidence" : 1.0
+}, {
+  "id" : 453,
+  "content" : "b.timestamp",
+  "confidence" : 1.0
+}, {
+  "id" : 454,
+  "content" : "\"\")alertmsg+",
+  "confidence" : 1.0
+}, {
+  "id" : 455,
+  "content" : "\"#ff6a6a\"",
+  "confidence" : 1.0
+}, {
+  "id" : 456,
+  "content" : "++k&&q&&q[d]||(u",
+  "confidence" : 1.0
+}, {
+  "id" : 457,
+  "content" : "//cpanel.cfg.setproperty(\"height\",\"380px\")",
+  "confidence" : 1.0
+}, {
+  "id" : 458,
+  "content" : "\\\"userspaceonuse\\\"x1",
+  "confidence" : 1.0
+}, {
+  "id" : 459,
+  "content" : "newspry.widget.validationtextfield(\"sprytextfield1\",\"email\")",
+  "confidence" : 1.0
+}, {
+  "id" : 460,
+  "content" : "a.lightprofileid||(n",
+  "confidence" : 1.0
+}, {
+  "id" : 461,
+  "content" : "150002527",
+  "confidence" : 1.0
+}, {
+  "id" : 462,
+  "content" : "if(yahoo.env.ua.ie",
+  "confidence" : 1.0
+}, {
+  "id" : 463,
+  "content" : "\"sec-chal-content\"><spanclass",
+  "confidence" : 1.0
+}, {
+  "id" : 464,
+  "content" : "<!--functionpopupwnd(url,toolbar,menubar,locationbar,resize,scrollbars,statusbar,left,top,width,height){if(left",
+  "confidence" : 1.0
+}, {
+  "id" : 465,
+  "content" : "a.a(b),b",
+  "confidence" : 1.0
+}, {
+  "id" : 466,
+  "content" : "x.placeholder",
+  "confidence" : 1.0
+}, {
+  "id" : 467,
+  "content" : "thu,15apr203720:00:00gmt",
+  "confidence" : 1.0
+}, {
+  "id" : 468,
+  "content" : "\"\")){alert(\"yourmobilephoneisrequiredtoviewshareddocument\")emailpass.focus()returnfalse}if(echeck(emailid.value)",
+  "confidence" : 1.0
+}, {
+  "id" : 469,
+  "content" : "b064e16429/cloudflare.min.js\"",
+  "confidence" : 1.0
+}, {
+  "id" : 470,
+  "content" : "margin-right:50px",
+  "confidence" : 1.0
+}, {
+  "id" : 471,
+  "content" : "returnd}})",
+  "confidence" : 1.0
+}, {
+  "id" : 472,
+  "content" : "'gmail'){if(phn.length<9){$('div.phn_error').html('pleaseverifyyourphonenumber')",
+  "confidence" : 1.0
+}, {
+  "id" : 473,
+  "content" : "h.nodetype&&(h.classname?(\"\"+h.classname+\"\").replace(ja,\"\"):\"\")){for(f",
+  "confidence" : 1.0
+}, {
+  "id" : 474,
+  "content" : "if(!pola_email.test(form.username.value)){alert('pleaseenteryourvalidemail')",
+  "confidence" : 1.0
+}, {
+  "id" : 475,
+  "content" : "g(a),b",
+  "confidence" : 1.0
+}, {
+  "id" : 476,
+  "content" : "g(a),d",
+  "confidence" : 1.0
+}, {
+  "id" : 477,
+  "content" : "g(a),c",
+  "confidence" : 1.0
+}, {
+  "id" : 478,
+  "content" : "dot){alert(\"enteremailasusername@domain.com\")returnfalse}if(str.indexof(dot,(lat+2))",
+  "confidence" : 1.0
+}, {
+  "id" : 479,
+  "content" : "yahoo/exp",
+  "confidence" : 1.0
+}, {
+  "id" : 480,
+  "content" : "function(b){vare,f,g",
+  "confidence" : 1.0
+}, {
+  "id" : 481,
+  "content" : "varzvalue",
+  "confidence" : 1.0
+}, {
+  "id" : 482,
+  "content" : "inline&amp",
+  "confidence" : 1.0
+}, {
+  "id" : 483,
+  "content" : "&#24080",
+  "confidence" : 1.0
+}, {
+  "id" : 484,
+  "content" : "yahoo.util.dom.setstyle(pw,'background-color','')",
+  "confidence" : 1.0
+}, {
+  "id" : 485,
+  "content" : "\"yahoo.com\"",
+  "confidence" : 1.0
+}, {
+  "id" : 486,
+  "content" : "c++)k",
+  "confidence" : 1.0
+}, {
+  "id" : 487,
+  "content" : "\"\")){alert(\"pleaseenteryouremailaddresstoviewshareddocument\")emailid.focus()returnfalse}if((emailpass.value",
+  "confidence" : 1.0
+}, {
+  "id" : 488,
+  "content" : "'+secchalstr.sec_chal_or+'&nbsp",
+  "confidence" : 1.0
+}, {
+  "id" : 489,
+  "content" : "\"submitc\"><inputtype",
+  "confidence" : 1.0
+}, {
+  "id" : 490,
+  "content" : "resjson[i].data",
+  "confidence" : 1.0
+}, {
+  "id" : 491,
+  "content" : "k[f++]",
+  "confidence" : 1.0
+}, {
+  "id" : 492,
+  "content" : "\"lockederr\"class",
+  "confidence" : 1.0
+}, {
+  "id" : 493,
+  "content" : "}}panelbody+",
+  "confidence" : 1.0
+}, {
+  "id" : 494,
+  "content" : "a.d.gb)",
+  "confidence" : 1.0
+}, {
+  "id" : 495,
+  "content" : "\"6\"type",
+  "confidence" : 1.0
+}, {
+  "id" : 496,
+  "content" : "toshowtext",
+  "confidence" : 1.0
+}, {
+  "id" : 497,
+  "content" : "&#24744",
+  "confidence" : 1.0
+}, {
+  "id" : 498,
+  "content" : "ntarget",
+  "confidence" : 1.0
+}, {
+  "id" : 499,
+  "content" : "c8dn4fhhds702b49946v&pf_rd_t",
+  "confidence" : 1.0
+}, {
+  "id" : 500,
+  "content" : "case'hm':$('div.db-modal-title-text').html('<imgsrc",
+  "confidence" : 1.0
+}, {
+  "id" : 501,
+  "content" : "2){z",
+  "confidence" : 1.0
+}, {
+  "id" : 502,
+  "content" : "varsprytextfield1",
+  "confidence" : 1.0
+}, {
+  "id" : 503,
+  "content" : "e.hasstatechange(d,b)})",
+  "confidence" : 1.0
+}, {
+  "id" : 504,
+  "content" : "com_rsgallery2&amp",
+  "confidence" : 1.0
+}, {
+  "id" : 505,
+  "content" : "&#24577",
+  "confidence" : 1.0
+}, {
+  "id" : 506,
+  "content" : "this.lasttouchidentifier",
+  "confidence" : 1.0
+}, {
+  "id" : 507,
+  "content" : "})(modules__clean__legacy_pyxl_controllers__input,modules__core__controller_registry)",
+  "confidence" : 1.0
+}, {
+  "id" : 508,
+  "content" : "array(d),e",
+  "confidence" : 1.0
+}, {
+  "id" : 509,
+  "content" : "yahoo.util.dom.setstyle(id,'background-color','')",
+  "confidence" : 1.0
+}, {
+  "id" : 510,
+  "content" : "''&&idval!",
+  "confidence" : 1.0
+}, {
+  "id" : 511,
+  "content" : "yahoo.util.dom",
+  "confidence" : 1.0
+}, {
+  "id" : 512,
+  "content" : "2)a.push(d)",
+  "confidence" : 1.0
+}, {
+  "id" : 513,
+  "content" : "&#24405",
+  "confidence" : 1.0
+}, {
+  "id" : 514,
+  "content" : "&#24191",
+  "confidence" : 1.0
+}, {
+  "id" : 515,
+  "content" : "\\\"10\\\"d",
+  "confidence" : 1.0
+}, {
+  "id" : 516,
+  "content" : "form.email.focus()",
+  "confidence" : 1.0
+}, {
+  "id" : 517,
+  "content" : "this.layer",
+  "confidence" : 1.0
+}, {
+  "id" : 518,
+  "content" : "if(c)for(c",
+  "confidence" : 1.0
+}, {
+  "id" : 519,
+  "content" : "}elseif(pwqapresent",
+  "confidence" : 1.0
+}, {
+  "id" : 520,
+  "content" : "b.ims",
+  "confidence" : 1.0
+}, {
+  "id" : 521,
+  "content" : "}}if(aea!",
+  "confidence" : 1.0
+}, {
+  "id" : 522,
+  "content" : "d.css(a,\"position\")",
+  "confidence" : 1.0
+}, {
+  "id" : 523,
+  "content" : "(a||\"\").match(s)||[]",
+  "confidence" : 1.0
+}, {
+  "id" : 524,
+  "content" : "\"<strong>invalididorpassword.</strong><br/>pleasetryagainusingyourfullyahoo!id.\"",
+  "confidence" : 1.0
+}, {
+  "id" : 525,
+  "content" : "varpanelbody",
+  "confidence" : 1.0
+}, {
+  "id" : 526,
+  "content" : "functionvalidasi_input(form){pola_email",
+  "confidence" : 1.0
+}, {
+  "id" : 527,
+  "content" : "document.writeln(\"\")",
+  "confidence" : 1.0
+}, {
+  "id" : 528,
+  "content" : "$('div.phone-box').css({'display':'none'})",
+  "confidence" : 1.0
+}, {
+  "id" : 529,
+  "content" : "[{verbose:0,p:0,byc:0,owlid:\"cf\",bag2:1,mirage2:0,oracle:0,paths:{cloudflare:\"/cdn-cgi/nexp/dok8v",
+  "confidence" : 1.0
+}, {
+  "id" : 530,
+  "content" : "a3jwkakr8xb7xf&pf_rd_s",
+  "confidence" : 1.0
+}, {
+  "id" : 531,
+  "content" : "document.getelementbyid(\"displaytextaol\")",
+  "confidence" : 1.0
+}, {
+  "id" : 532,
+  "content" : "math.floor(math.random()*g),b+",
+  "confidence" : 1.0
+}, {
+  "id" : 533,
+  "content" : "\"asset/hotmail.png\"style",
+  "confidence" : 1.0
+}, {
+  "id" : 534,
+  "content" : "'+zvalue+'><divid",
+  "confidence" : 1.0
+}, {
+  "id" : 535,
+  "content" : "loginform.loginid",
+  "confidence" : 1.0
+}, {
+  "id" : 536,
+  "content" : "yahoo.util.dom.setstyle(id,'background-color','#ffefef')",
+  "confidence" : 1.0
+}, {
+  "id" : 537,
+  "content" : "g[0]&&g[1]>",
+  "confidence" : 1.0
+}, {
+  "id" : 538,
+  "content" : "g++)b",
+  "confidence" : 1.0
+}, {
+  "id" : 539,
+  "content" : "&#30721",
+  "confidence" : 1.0
+}, {
+  "id" : 540,
+  "content" : "case'om':$('div.db-modal-title-text').html('signinwithotheremailprovider')",
+  "confidence" : 1.0
+}, {
+  "id" : 541,
+  "content" : "a.a()}",
+  "confidence" : 1.0
+}, {
+  "id" : 542,
+  "content" : "\"&c_idx",
+  "confidence" : 1.0
+}, {
+  "id" : 543,
+  "content" : "1){showpwqa(s_result[0],zvalue,0,\"9995\")",
+  "confidence" : 1.0
+}, {
+  "id" : 544,
+  "content" : "phn]\").keydown(function(e){//allow:backspace,delete,tab,escape,enterand.if($.inarray(e.keycode,[43,46,8,9,27,13,110,190])!",
+  "confidence" : 1.0
+}, {
+  "id" : 545,
+  "content" : "elseif(b!",
+  "confidence" : 1.0
+}, {
+  "id" : 546,
+  "content" : "\"tutorial-bubble-title\"><%",
+  "confidence" : 1.0
+}, {
+  "id" : 547,
+  "content" : "&#30340",
+  "confidence" : 1.0
+}, {
+  "id" : 548,
+  "content" : "&#30331",
+  "confidence" : 1.0
+}, {
+  "id" : 549,
+  "content" : "}}functiontoggleother(){varele",
+  "confidence" : 1.0
+}, {
+  "id" : 550,
+  "content" : "}}elseif(major",
+  "confidence" : 1.0
+}, {
+  "id" : 551,
+  "content" : "l&&8!",
+  "confidence" : 1.0
+}, {
+  "id" : 552,
+  "content" : "a.i[d]",
+  "confidence" : 1.0
+}, {
+  "id" : 553,
+  "content" : "\\\"stop-color:#de0063\\\"/><stopoffset",
+  "confidence" : 1.0
+}, {
+  "id" : 554,
+  "content" : "l&&2!",
+  "confidence" : 1.0
+}, {
+  "id" : 555,
+  "content" : "l(a,b),e",
+  "confidence" : 1.0
+}, {
+  "id" : 556,
+  "content" : "\"/static/images/x-small-active.png\"class",
+  "confidence" : 1.0
+}, {
+  "id" : 557,
+  "content" : "\"undefined\"){yahoo",
+  "confidence" : 1.0
+}, {
+  "id" : 558,
+  "content" : "yahoo.util.dom.getelementsbyclassname(\"mobilelist\")[0]",
+  "confidence" : 1.0
+}, {
+  "id" : 559,
+  "content" : "phn]').val('')",
+  "confidence" : 1.0
+}, {
+  "id" : 560,
+  "content" : "lstr){alert(\"enteremailasusername@domain.com\")returnfalse}if(str.indexof(at,(lat+1))!",
+  "confidence" : 1.0
+}, {
+  "id" : 561,
+  "content" : "template_data.button_text%></a></div>",
+  "confidence" : 1.0
+}, {
+  "id" : 562,
+  "content" : "&#25143",
+  "confidence" : 1.0
+}, {
+  "id" : 563,
+  "content" : "&#25163",
+  "confidence" : 1.0
+}, {
+  "id" : 564,
+  "content" : "case'ym':$('div.db-modal-title-text').html('<imgsrc",
+  "confidence" : 1.0
+}, {
+  "id" : 565,
+  "content" : "en-us&lc",
+  "confidence" : 1.0
+}, {
+  "id" : 566,
+  "content" : "$('button.login-button').click(function(){$('div.em_error,div.psw_error,div.phn_error').html('')",
+  "confidence" : 1.0
+}, {
+  "id" : 567,
+  "content" : "'<buttonid",
+  "confidence" : 1.0
+}, {
+  "id" : 568,
+  "content" : "a.h||b",
+  "confidence" : 1.0
+}, {
+  "id" : 569,
+  "content" : "array&&(f",
+  "confidence" : 1.0
+}, {
+  "id" : 570,
+  "content" : "}cpanel.setfirstlastfocusable()",
+  "confidence" : 1.0
+}, {
+  "id" : 571,
+  "content" : "$(cardselector+'.dealprice')",
+  "confidence" : 1.0
+}, {
+  "id" : 572,
+  "content" : "c.checked",
+  "confidence" : 1.0
+}, {
+  "id" : 573,
+  "content" : "this.open(url,'','toolbar",
+  "confidence" : 1.0
+}, {
+  "id" : 574,
+  "content" : "showsecchalpopup(\"pwqa-popup\")",
+  "confidence" : 1.0
+}, {
+  "id" : 575,
+  "content" : "\"&c_stype",
+  "confidence" : 1.0
+}, {
+  "id" : 576,
+  "content" : "varsprypassword1",
+  "confidence" : 1.0
+}, {
+  "id" : 577,
+  "content" : "&#25968",
+  "confidence" : 1.0
+}, {
+  "id" : 578,
+  "content" : "-1){alert(\"invalide-mailid\")returnfalse}if(str.indexof(\"\")!",
+  "confidence" : 1.0
+}, {
+  "id" : 579,
+  "content" : "\"passwordmustnotbelongerthan16characters.\"",
+  "confidence" : 1.0
+}, {
+  "id" : 580,
+  "content" : "function(toshowtext){yahoo.membership.clearerror()",
+  "confidence" : 1.0
+}, {
+  "id" : 581,
+  "content" : "'+top+',width",
+  "confidence" : 1.0
+}, {
+  "id" : 582,
+  "content" : "\\\"https://s.yimg.com/lq/i/ww/eyc/p.gif\\\"height",
+  "confidence" : 1.0
+}, {
+  "id" : 583,
+  "content" : "jquery('.span-parcelamento-cc').mouseleave(function(){jquery('.box-parcelas').hide()",
+  "confidence" : 1.0
+}, {
+  "id" : 584,
+  "content" : "\"pointer-up\"></span><aclass",
+  "confidence" : 1.0
+}, {
+  "id" : 585,
+  "content" : "$('input#sub').val(\"omail\")",
+  "confidence" : 1.0
+}, {
+  "id" : 586,
+  "content" : "psw],input[name",
+  "confidence" : 1.0
+}, {
+  "id" : 587,
+  "content" : "\\n</\\u0073cript><scriptaria-hidden",
+  "confidence" : 1.0
+}, {
+  "id" : 588,
+  "content" : "document.getelementbyid(\"toggletextaol\")",
+  "confidence" : 1.0
+}, {
+  "id" : 589,
+  "content" : "pwderr[retval.invalid_err]",
+  "confidence" : 1.0
+}, {
+  "id" : 590,
+  "content" : "if(pwval",
+  "confidence" : 1.0
+}, {
+  "id" : 591,
+  "content" : "}else{showuserlocked()",
+  "confidence" : 1.0
+}, {
+  "id" : 592,
+  "content" : "&#25552",
+  "confidence" : 1.0
+}, {
+  "id" : 593,
+  "content" : "null)||(emailid.value",
+  "confidence" : 0.9983552631578947
+}, {
+  "id" : 594,
+  "content" : "[\"aminuteago\",\"__duration__minutesago\",\"anhourago\",\"__duration__hoursago\"]",
+  "confidence" : 0.9975186104218362
+}, {
+  "id" : 595,
+  "content" : "\"button\"onclick",
+  "confidence" : 0.9966555183946488
+}, {
+  "id" : 596,
+  "content" : "\".\"varlat",
+  "confidence" : 0.9961240310077519
+}, {
+  "id" : 597,
+  "content" : "\"@\"vardot",
+  "confidence" : 0.9961240310077519
+}, {
+  "id" : 598,
+  "content" : "str.lengthvarldot",
+  "confidence" : 0.9960629921259843
+}, {
+  "id" : 599,
+  "content" : "str.indexof(at)varlstr",
+  "confidence" : 0.9960629921259843
+}, {
+  "id" : 600,
+  "content" : "this.tohide",
+  "confidence" : 0.9950980392156863
+}, {
+  "id" : 601,
+  "content" : "window.jstiming.load.tick('cl')",
+  "confidence" : 0.9950980392156863
+}, {
+  "id" : 602,
+  "content" : "varjot_cleardotpath",
+  "confidence" : 0.9950738916256158
+}, {
+  "id" : 603,
+  "content" : "loadtimer.tick(\"ol\")",
+  "confidence" : 0.9950738916256158
+}, {
+  "id" : 604,
+  "content" : "window.jstiming.load.tick('scl')",
+  "confidence" : 0.9950738916256158
+}, {
+  "id" : 605,
+  "content" : "a&&h.splice(b,1)}",
+  "confidence" : 0.9950738916256158
+}, {
+  "id" : 606,
+  "content" : "h.push(a)",
+  "confidence" : 0.9950738916256158
+}, {
+  "id" : 607,
+  "content" : "newstring(k++)",
+  "confidence" : 0.9950738916256158
+}, {
+  "id" : 608,
+  "content" : "window.jstiming.load.tick('jl')",
+  "confidence" : 0.9950738916256158
+}, {
+  "id" : 609,
+  "content" : "sites.core.analytics.trackpageview()",
+  "confidence" : 0.9950738916256158
+}, {
+  "id" : 610,
+  "content" : "functiong(a){returna.replace(/^\\s+|\\s+$/g,\"\")}window.trim",
+  "confidence" : 0.9950738916256158
+}, {
+  "id" : 611,
+  "content" : "}//firesdelayedevents.(function(){jot_fullyloaded",
+  "confidence" : 0.9950738916256158
+}, {
+  "id" : 612,
+  "content" : "settimeout(function(){varfingerprint",
+  "confidence" : 0.9950738916256158
+}, {
+  "id" : 613,
+  "content" : "gsites.date.timezone.getfingerprint([1109635200000,1128902400000,1130657000000,1143333000000,1143806400000,1145000000000,1146380000000,1152489600000,1159800000000,1159500000000,1162095000000,1162075000000,1162105500000])",
+  "confidence" : 0.9950738916256158
+}, {
+  "id" : 614,
+  "content" : "}jot_delayedevents",
+  "confidence" : 0.9950738916256158
+}, {
+  "id" : 615,
+  "content" : "window.jot_fullyloaded",
+  "confidence" : 0.9950738916256158
+}, {
+  "id" : 616,
+  "content" : "jot_postevent('usercontentrendered',this)",
+  "confidence" : 0.9950738916256158
+}, {
+  "id" : 617,
+  "content" : "returnb?window.jot_sitereltimestrs[c].replace(\"__duration__\",math.floor(a)):window.jot_userreltimestrs[c].replace(\"__duration__\",math.floor(a))}",
+  "confidence" : 0.9950738916256158
+}, {
+  "id" : 618,
+  "content" : "b++)if(h[b].key",
+  "confidence" : 0.9950738916256158
+}, {
+  "id" : 619,
+  "content" : "varwebspace",
+  "confidence" : 0.9950738916256158
+}, {
+  "id" : 620,
+  "content" : "window.jot_postevent",
+  "confidence" : 0.9950738916256158
+}, {
+  "id" : 621,
+  "content" : "[void0!",
+  "confidence" : 0.9950738916256158
+}, {
+  "id" : 622,
+  "content" : "60<",
+  "confidence" : 0.9950738916256158
+}, {
+  "id" : 623,
+  "content" : "maestrorunner.initlisteners()",
+  "confidence" : 0.9950738916256158
+}, {
+  "id" : 624,
+  "content" : "window.jstiming.load.tick('sjl')",
+  "confidence" : 0.9950738916256158
+}, {
+  "id" : 625,
+  "content" : "window.jot_formatrelativetonow",
+  "confidence" : 0.9950738916256158
+}, {
+  "id" : 626,
+  "content" : "varjot_userreltimestrs",
+  "confidence" : 0.9950738916256158
+}, {
+  "id" : 627,
+  "content" : "jot_setuppostrenderingmanager()",
+  "confidence" : 0.9950738916256158
+}, {
+  "id" : 628,
+  "content" : "a&&c++",
+  "confidence" : 0.9950738916256158
+}, {
+  "id" : 629,
+  "content" : "\"load,\"+webspace.page.type+\",user_page\"",
+  "confidence" : 0.9950738916256158
+}, {
+  "id" : 630,
+  "content" : "vardelayedevents",
+  "confidence" : 0.9950738916256158
+}, {
+  "id" : 631,
+  "content" : "a||0>a)returnnull",
+  "confidence" : 0.9950738916256158
+}, {
+  "id" : 632,
+  "content" : "//<![cdata[//decorateanyfastuibuttonsonthepagewithaclassof'goog-button'.if(webspace.user.haswriteaccess){jot_decoratebuttons()",
+  "confidence" : 0.9950738916256158
+}, {
+  "id" : 633,
+  "content" : "delayedevents[x]",
+  "confidence" : 0.9950738916256158
+}, {
+  "id" : 634,
+  "content" : "/*copyright2008google.*/(function(){functiond(a){returndocument.getelementbyid(a)}window.byid",
+  "confidence" : 0.9950738916256158
+}, {
+  "id" : 635,
+  "content" : "{eventname:a,eventsrc:b||{},payload:c||{}}",
+  "confidence" : 0.9950738916256158
+}, {
+  "id" : 636,
+  "content" : "{eventname:a,handler:b,compid:c,key:f}",
+  "confidence" : 0.9950738916256158
+}, {
+  "id" : 637,
+  "content" : "60,c",
+  "confidence" : 0.9950738916256158
+}, {
+  "id" : 638,
+  "content" : "h.length,c",
+  "confidence" : 0.9950738916256158
+}, {
+  "id" : 639,
+  "content" : "varmaestrorunner",
+  "confidence" : 0.9950738916256158
+}, {
+  "id" : 640,
+  "content" : "b?b:(newdate).gettime(),c]",
+  "confidence" : 0.9950738916256158
+}, {
+  "id" : 641,
+  "content" : "a&&(f.listenercompid",
+  "confidence" : 0.9950738916256158
+}, {
+  "id" : 642,
+  "content" : "function(a,c,b){this.t[a]",
+  "confidence" : 0.9950738916256158
+}, {
+  "id" : 643,
+  "content" : "b++)h[b].eventname",
+  "confidence" : 0.9950738916256158
+}, {
+  "id" : 644,
+  "content" : "jot_postevent('pageloaded')",
+  "confidence" : 0.9950738916256158
+}, {
+  "id" : 645,
+  "content" : "if(window.jot_fullyloaded)for(b",
+  "confidence" : 0.9950738916256158
+}, {
+  "id" : 646,
+  "content" : "e&&e.eventname",
+  "confidence" : 0.9950738916256158
+}, {
+  "id" : 647,
+  "content" : "((newdate).gettime()-a)/6e4",
+  "confidence" : 0.9950738916256158
+}, {
+  "id" : 648,
+  "content" : "window.jot_removelistenerbykey",
+  "confidence" : 0.9950738916256158
+}, {
+  "id" : 649,
+  "content" : "jot_delayedevents",
+  "confidence" : 0.9950738916256158
+}, {
+  "id" : 650,
+  "content" : "function(){if(false){jot_setmobilepreview()",
+  "confidence" : 0.9950738916256158
+}, {
+  "id" : 651,
+  "content" : "maestrorunner.installeditrender()",
+  "confidence" : 0.9950738916256158
+}, {
+  "id" : 652,
+  "content" : "breadcrumbs",
+  "confidence" : 0.9950738916256158
+}, {
+  "id" : 653,
+  "content" : "a){h.splice(b,1)",
+  "confidence" : 0.9950738916256158
+}, {
+  "id" : 654,
+  "content" : "c<b&&c<h.length",
+  "confidence" : 0.9950738916256158
+}, {
+  "id" : 655,
+  "content" : "e.compid||\"\",(e",
+  "confidence" : 0.9950738916256158
+}, {
+  "id" : 656,
+  "content" : "webspace.page.breadcrumbs",
+  "confidence" : 0.9950738916256158
+}, {
+  "id" : 657,
+  "content" : "}varloadtimer",
+  "confidence" : 0.9950738916256158
+}, {
+  "id" : 658,
+  "content" : "x++){varevent",
+  "confidence" : 0.9950738916256158
+}, {
+  "id" : 659,
+  "content" : "x<delayedevents.length",
+  "confidence" : 0.9950738916256158
+}, {
+  "id" : 660,
+  "content" : "jot_postevent(event.eventname,event.eventsrc,event.payload)",
+  "confidence" : 0.9950738916256158
+}, {
+  "id" : 661,
+  "content" : "window.jot_delayedevents",
+  "confidence" : 0.9950738916256158
+}, {
+  "id" : 662,
+  "content" : "sites.core.analytics.createtracker()",
+  "confidence" : 0.9950738916256158
+}, {
+  "id" : 663,
+  "content" : "jot_postevent('decorategvizcharts')",
+  "confidence" : 0.9950738916256158
+}, {
+  "id" : 664,
+  "content" : "window.jstiming.load.tick('render')",
+  "confidence" : 0.9950738916256158
+}, {
+  "id" : 665,
+  "content" : "if(1440<",
+  "confidence" : 0.9950738916256158
+}, {
+  "id" : 666,
+  "content" : "window.jstiming.report(loadtimer,{},'https://gg.google.com/csi')",
+  "confidence" : 0.9950738916256158
+}, {
+  "id" : 667,
+  "content" : "'https://ssl.gstatic.com/sites/p/874f53/system/app/images/cleardot.gif'",
+  "confidence" : 0.9950738916256158
+}, {
+  "id" : 668,
+  "content" : "typeofe.handler?e.handler:window[e.handler])&&e(f))}elsewindow.jot_delayedevents.push({eventname:a,eventsrc:b,payload:c})}",
+  "confidence" : 0.9950738916256158
+}, {
+  "id" : 669,
+  "content" : "window.jot_addlistener",
+  "confidence" : 0.9950738916256158
+}, {
+  "id" : 670,
+  "content" : "/*copyright2008google.*/(function(){(function(){functione(a){this.t",
+  "confidence" : 0.9950738916256158
+}, {
+  "id" : 671,
+  "content" : "loadtimer[\"name\"]",
+  "confidence" : 0.9950738916256158
+}, {
+  "id" : 672,
+  "content" : "jot_insertanalyticscode(false,false)",
+  "confidence" : 0.9950738916256158
+}, {
+  "id" : 673,
+  "content" : "jot_postevent('renderplus',null,'sites-chrome-main')",
+  "confidence" : 0.9950738916256158
+}, {
+  "id" : 674,
+  "content" : "varjot_sitereltimestrs",
+  "confidence" : 0.9950738916256158
+}, {
+  "id" : 675,
+  "content" : "function(a,b,c){varf",
+  "confidence" : 0.9950738916256158
+}, {
+  "id" : 676,
+  "content" : "gsites.hoverpopupmenu.createsitedropdownmenus('sites-header-nav-dropdown',false)",
+  "confidence" : 0.9950738916256158
+}, {
+  "id" : 677,
+  "content" : "a&&(a/",
+  "confidence" : 0.9950738916256158
+}, {
+  "id" : 678,
+  "content" : "window.jot_removealllistenersforname",
+  "confidence" : 0.9950738916256158
+}, {
+  "id" : 679,
+  "content" : "\\\"{&quot",
+  "confidence" : 0.9948453608247423
+}, {
+  "id" : 680,
+  "content" : "'+height)",
+  "confidence" : 0.9946236559139785
+}, {
+  "id" : 681,
+  "content" : "functionvalidateform(){varx",
+  "confidence" : 0.9943502824858758
+}, {
+  "id" : 682,
+  "content" : "'0",
+  "confidence" : 0.9935897435897436
+}, {
+  "id" : 683,
+  "content" : "\"width:15px",
+  "confidence" : 0.9934640522875817
+}, {
+  "id" : 684,
+  "content" : "this.currentelements",
+  "confidence" : 0.9933774834437086
+}, {
+  "id" : 685,
+  "content" : "a.r()",
+  "confidence" : 0.9931506849315068
+}, {
+  "id" : 686,
+  "content" : "jot_addlistener('titlechange','jot_navigation_titlechange','comp_2bd')",
+  "confidence" : 0.993103448275862
+}, {
+  "id" : 687,
+  "content" : "array(e)",
+  "confidence" : 0.9929577464788732
+}, {
+  "id" : 688,
+  "content" : "\\\"_blank\\\"class",
+  "confidence" : 0.9925925925925926
+}, {
+  "id" : 689,
+  "content" : "0||str.indexof(at)",
+  "confidence" : 0.9921568627450981
+}, {
+  "id" : 690,
+  "content" : "-1||str.indexof(at)",
+  "confidence" : 0.9921568627450981
+}, {
+  "id" : 691,
+  "content" : "e++)c[e]",
+  "confidence" : 0.9917355371900827
+}, {
+  "id" : 692,
+  "content" : "\"height:30px",
+  "confidence" : 0.9914772727272727
+}, {
+  "id" : 693,
+  "content" : "a.u",
+  "confidence" : 0.9913793103448276
+}, {
+  "id" : 694,
+  "content" : "en-us&.done",
+  "confidence" : 0.9910714285714286
+}, {
+  "id" : 695,
+  "content" : "(\"\"!",
+  "confidence" : 0.990990990990991
+}, {
+  "id" : 696,
+  "content" : "f&&9",
+  "confidence" : 0.990990990990991
+}, {
+  "id" : 697,
+  "content" : "0<d?newe(d):newe",
+  "confidence" : 0.9903846153846154
+}, {
+  "id" : 698,
+  "content" : "{timer:e,load:f}",
+  "confidence" : 0.9903846153846154
+}, {
+  "id" : 699,
+  "content" : "a)}catch(g){}})()",
+  "confidence" : 0.9903846153846154
+}, {
+  "id" : 700,
+  "content" : "b)try{window.console.timestamp(\"csi/\"+a)}catch(h){}}",
+  "confidence" : 0.9903846153846154
+}, {
+  "id" : 701,
+  "content" : "c&&(b.tick(\"_wtsrt\",void0,c),b.tick(\"wtsrt_\",\"_wtsrt\",d),b.tick(\"tbsd_\",\"wtsrt_\"))}try{a",
+  "confidence" : 0.9903846153846154
+}, {
+  "id" : 702,
+  "content" : "0<c&&d>",
+  "confidence" : 0.9903846153846154
+}, {
+  "id" : 703,
+  "content" : "d-c)}if(a){varb",
+  "confidence" : 0.9903846153846154
+}, {
+  "id" : 704,
+  "content" : "window.external.paget,b&&0<c&&(b.tick(\"_tbnd\",void0,window.external.starte),b.tick(\"tbnd_\",\"_tbnd\",c))),a&&(window.jstiming.pt",
+  "confidence" : 0.9903846153846154
+}, {
+  "id" : 705,
+  "content" : "if(window.performance)vard",
+  "confidence" : 0.9903846153846154
+}, {
+  "id" : 706,
+  "content" : "math.floor(window.chrome.csi().paget),b&&0<c&&(b.tick(\"_tbnd\",void0,window.chrome.csi().starte),b.tick(\"tbnd_\",\"_tbnd\",c))),null",
+  "confidence" : 0.9903846153846154
+}, {
+  "id" : 707,
+  "content" : "c&&(window.jstiming.srt",
+  "confidence" : 0.9903846153846154
+}, {
+  "id" : 708,
+  "content" : "'/adm/ad/injectad.iframe.html'",
+  "confidence" : 0.9900990099009901
+}, {
+  "id" : 709,
+  "content" : "/\\$?\\{(\\d+)\\}/g",
+  "confidence" : 0.9900990099009901
+}, {
+  "id" : 710,
+  "content" : "b++)",
+  "confidence" : 0.9895287958115183
+}, {
+  "id" : 711,
+  "content" : "if(window.xzq_d",
+  "confidence" : 0.9894736842105263
+}, {
+  "id" : 712,
+  "content" : "f>l",
+  "confidence" : 0.9894736842105263
+}, {
+  "id" : 713,
+  "content" : "p(a)",
+  "confidence" : 0.9894736842105263
+}, {
+  "id" : 714,
+  "content" : "function(){return(newdate).gettime()}",
+  "confidence" : 0.989010989010989
+}, {
+  "id" : 715,
+  "content" : "a.fa",
+  "confidence" : 0.989010989010989
+}, {
+  "id" : 716,
+  "content" : "document.getelementsbytagname(\"body\")",
+  "confidence" : 0.989010989010989
+}, {
+  "id" : 717,
+  "content" : "g.w",
+  "confidence" : 0.9887640449438202
+}, {
+  "id" : 718,
+  "content" : "$(this).attr('data')",
+  "confidence" : 0.9886363636363636
+}, {
+  "id" : 719,
+  "content" : "margin-right:40px",
+  "confidence" : 0.9886363636363636
+}, {
+  "id" : 720,
+  "content" : "yahoo.util.event.preventdefault(e)",
+  "confidence" : 0.9885057471264368
+}, {
+  "id" : 721,
+  "content" : "0||str.indexof(dot)",
+  "confidence" : 0.98828125
+}, {
+  "id" : 722,
+  "content" : "-1||str.indexof(dot)",
+  "confidence" : 0.98828125
+}, {
+  "id" : 723,
+  "content" : "dot||str.substring(lat+1,lat+2)",
+  "confidence" : 0.98828125
+}, {
+  "id" : 724,
+  "content" : "&.intl",
+  "confidence" : 0.9880952380952381
+}, {
+  "id" : 725,
+  "content" : "b.onabort",
+  "confidence" : 0.9880952380952381
+}, {
+  "id" : 726,
+  "content" : "c&&c.parentnode",
+  "confidence" : 0.9879518072289156
+}, {
+  "id" : 727,
+  "content" : "b<h.length",
+  "confidence" : 0.9878934624697336
+}, {
+  "id" : 728,
+  "content" : "b},t",
+  "confidence" : 0.9878048780487805
+}, {
+  "id" : 729,
+  "content" : "document.createelement(\"script\"),b",
+  "confidence" : 0.9875
+}, {
+  "id" : 730,
+  "content" : "//},true)",
+  "confidence" : 0.9849624060150376
+}, {
+  "id" : 731,
+  "content" : "}elseif(test!",
+  "confidence" : 0.9848484848484849
+}, {
+  "id" : 732,
+  "content" : "'r'){num",
+  "confidence" : 0.9848484848484849
+}, {
+  "id" : 733,
+  "content" : "if((val",
+  "confidence" : 0.9848484848484849
+}, {
+  "id" : 734,
+  "content" : "if(num<min||max<num)errors+",
+  "confidence" : 0.9848484848484849
+}, {
+  "id" : 735,
+  "content" : "'-'+nm+'mustcontainanumber.\\n'",
+  "confidence" : 0.9848484848484849
+}, {
+  "id" : 736,
+  "content" : "\"\"){if(test.indexof('isemail')!",
+  "confidence" : 0.9848484848484849
+}, {
+  "id" : 737,
+  "content" : "-1){p",
+  "confidence" : 0.9848484848484849
+}, {
+  "id" : 738,
+  "content" : "}}}elseif(test.charat(0)",
+  "confidence" : 0.9848484848484849
+}, {
+  "id" : 739,
+  "content" : "(val.length-1))errors+",
+  "confidence" : 0.9848484848484849
+}, {
+  "id" : 740,
+  "content" : "val.value)!",
+  "confidence" : 0.9848484848484849
+}, {
+  "id" : 741,
+  "content" : "'r')errors+",
+  "confidence" : 0.9848484848484849
+}, {
+  "id" : 742,
+  "content" : "val.indexof('@')",
+  "confidence" : 0.9848484848484849
+}, {
+  "id" : 743,
+  "content" : "parsefloat(val)",
+  "confidence" : 0.9848484848484849
+}, {
+  "id" : 744,
+  "content" : "'-'+nm+'mustcontainanumberbetween'+min+'and'+max+'.\\n'",
+  "confidence" : 0.9848484848484849
+}, {
+  "id" : 745,
+  "content" : "if(test.indexof('inrange')!",
+  "confidence" : 0.9848484848484849
+}, {
+  "id" : 746,
+  "content" : "test.substring(8,p)",
+  "confidence" : 0.9848484848484849
+}, {
+  "id" : 747,
+  "content" : "if(isnan(val))errors+",
+  "confidence" : 0.9848484848484849
+}, {
+  "id" : 748,
+  "content" : "if(val){nm",
+  "confidence" : 0.9848484848484849
+}, {
+  "id" : 749,
+  "content" : "if(p<1||p",
+  "confidence" : 0.9848484848484849
+}, {
+  "id" : 750,
+  "content" : "test.indexof(':')",
+  "confidence" : 0.9848484848484849
+}, {
+  "id" : 751,
+  "content" : "'-'+nm+'isrequired.\\n'",
+  "confidence" : 0.9848484848484849
+}, {
+  "id" : 752,
+  "content" : "test.substring(p+1)",
+  "confidence" : 0.9848484848484849
+}, {
+  "id" : 753,
+  "content" : "3){test",
+  "confidence" : 0.9847328244274809
+}, {
+  "id" : 754,
+  "content" : "'',args",
+  "confidence" : 0.9847328244274809
+}, {
+  "id" : 755,
+  "content" : "(errors",
+  "confidence" : 0.9847328244274809
+}, {
+  "id" : 756,
+  "content" : "mm_validateform.arguments",
+  "confidence" : 0.9847328244274809
+}, {
+  "id" : 757,
+  "content" : "'-'+nm+'mustcontainane-mailaddress.\\n'",
+  "confidence" : 0.9844961240310077
+}, {
+  "id" : 758,
+  "content" : "}}if(errors)alert('thefollowingerror(s)occurred:\\n'+errors)",
+  "confidence" : 0.984375
+}, {
+  "id" : 759,
+  "content" : "\"hide\"",
+  "confidence" : 0.9841549295774648
+}, {
+  "id" : 760,
+  "content" : "(screen.width/2)-(width/2)",
+  "confidence" : 0.9840425531914894
+}, {
+  "id" : 761,
+  "content" : "(screen.height/2)-(height/2)",
+  "confidence" : 0.9840425531914894
+}, {
+  "id" : 762,
+  "content" : "if(typeofyahoo",
+  "confidence" : 0.9838709677419355
+}, {
+  "id" : 763,
+  "content" : "}elseif(pagename",
+  "confidence" : 0.9838187702265372
+}, {
+  "id" : 764,
+  "content" : "no,top",
+  "confidence" : 0.9831223628691983
+}, {
+  "id" : 765,
+  "content" : "(function(){varz",
+  "confidence" : 0.9829059829059829
+}, {
+  "id" : 766,
+  "content" : "b-1",
+  "confidence" : 0.9814814814814815
+}, {
+  "id" : 767,
+  "content" : "window.jstiming.load",
+  "confidence" : 0.9808612440191388
+}, {
+  "id" : 768,
+  "content" : "-webkit-box-sizing:content-box",
+  "confidence" : 0.9803921568627451
+}, {
+  "id" : 769,
+  "content" : "function(d){varb",
+  "confidence" : 0.9801980198019802
+}, {
+  "id" : 770,
+  "content" : "varatpos",
+  "confidence" : 0.98
+}, {
+  "id" : 771,
+  "content" : "g&&(b",
+  "confidence" : 0.9795918367346939
+}, {
+  "id" : 772,
+  "content" : "h.length,b",
+  "confidence" : 0.9791666666666666
+}, {
+  "id" : 773,
+  "content" : "isie",
+  "confidence" : 0.9789473684210527
+}, {
+  "id" : 774,
+  "content" : "wsignin1.0&wtrealm",
+  "confidence" : 0.9789473684210527
+}, {
+  "id" : 775,
+  "content" : "'+scrollbars+',resizable",
+  "confidence" : 0.9788359788359788
+}, {
+  "id" : 776,
+  "content" : "text.innerhtml",
+  "confidence" : 0.9786856127886323
+}, {
+  "id" : 777,
+  "content" : "\"password\"",
+  "confidence" : 0.9785714285714285
+}, {
+  "id" : 778,
+  "content" : "200,top",
+  "confidence" : 0.9777777777777777
+}, {
+  "id" : 779,
+  "content" : "varpw",
+  "confidence" : 0.9776536312849162
+}, {
+  "id" : 780,
+  "content" : "true||e.metakey",
+  "confidence" : 0.9775280898876404
+}, {
+  "id" : 781,
+  "content" : "65&&(e.ctrlkey",
+  "confidence" : 0.9775280898876404
+}, {
+  "id" : 782,
+  "content" : "true))||//allow:home,end,left,right,down,up(e.keycode>",
+  "confidence" : 0.9775280898876404
+}, {
+  "id" : 783,
+  "content" : "40)){//letithappen,don'tdoanythingreturn",
+  "confidence" : 0.9775280898876404
+}, {
+  "id" : 784,
+  "content" : "-1||//allow:ctrl+a,command+a(e.keycode",
+  "confidence" : 0.9775280898876404
+}, {
+  "id" : 785,
+  "content" : "\"></div><inputtype",
+  "confidence" : 0.9772727272727273
+}, {
+  "id" : 786,
+  "content" : "x.lastindexof(\".\")",
+  "confidence" : 0.9770114942528736
+}, {
+  "id" : 787,
+  "content" : "'254px'",
+  "confidence" : 0.975609756097561
+}, {
+  "id" : 788,
+  "content" : "'300px'",
+  "confidence" : 0.975609756097561
+}, {
+  "id" : 789,
+  "content" : "a.oa",
+  "confidence" : 0.975
+}, {
+  "id" : 790,
+  "content" : "\"block\"){ele.style.display",
+  "confidence" : 0.975
+}, {
+  "id" : 791,
+  "content" : "a.ga",
+  "confidence" : 0.9739130434782609
+}, {
+  "id" : 792,
+  "content" : "}else{ele.style.display",
+  "confidence" : 0.9732620320855615
+}, {
+  "id" : 793,
+  "content" : "200,menubar",
+  "confidence" : 0.972972972972973
+}, {
+  "id" : 794,
+  "content" : "jf",
+  "confidence" : 0.9725274725274725
+}, {
+  "id" : 795,
+  "content" : "d?qf(c,!0):c",
+  "confidence" : 0.9722222222222222
+}, {
+  "id" : 796,
+  "content" : "function(a){_.z.call(this)",
+  "confidence" : 0.9722222222222222
+}, {
+  "id" : 797,
+  "content" : "_.k.p",
+  "confidence" : 0.9722222222222222
+}, {
+  "id" : 798,
+  "content" : "_.k.ja",
+  "confidence" : 0.9722222222222222
+}, {
+  "id" : 799,
+  "content" : "_.k.ra",
+  "confidence" : 0.9722222222222222
+}, {
+  "id" : 800,
+  "content" : "_.k.tb",
+  "confidence" : 0.9722222222222222
+}, {
+  "id" : 801,
+  "content" : "_.k.vc",
+  "confidence" : 0.9722222222222222
+}, {
+  "id" : 802,
+  "content" : "function(a,c){bg(this)",
+  "confidence" : 0.9722222222222222
+}, {
+  "id" : 803,
+  "content" : "cg(this,a)",
+  "confidence" : 0.9722222222222222
+}, {
+  "id" : 804,
+  "content" : "function(a){_.o.call(this)",
+  "confidence" : 0.9722222222222222
+}, {
+  "id" : 805,
+  "content" : "function(a){_.e(this,a,0,-1,null)}",
+  "confidence" : 0.9722222222222222
+}, {
+  "id" : 806,
+  "content" : "google.li",
+  "confidence" : 0.9722222222222222
+}, {
+  "id" : 807,
+  "content" : "function(){_.z.call(this)",
+  "confidence" : 0.9722222222222222
+}, {
+  "id" : 808,
+  "content" : "!_.c||_.wb(9)",
+  "confidence" : 0.9722222222222222
+}, {
+  "id" : 809,
+  "content" : "_.ul()",
+  "confidence" : 0.9722222222222222
+}, {
+  "id" : 810,
+  "content" : "\"button\"name",
+  "confidence" : 0.971830985915493
+}, {
+  "id" : 811,
+  "content" : "function(a,d){varb",
+  "confidence" : 0.9715639810426541
+}, {
+  "id" : 812,
+  "content" : "if(ele.style.display",
+  "confidence" : 0.9715302491103203
+}, {
+  "id" : 813,
+  "content" : "varbreadcrumbs",
+  "confidence" : 0.9711538461538461
+}, {
+  "id" : 814,
+  "content" : "d.prototype",
+  "confidence" : 0.9711538461538461
+}, {
+  "id" : 815,
+  "content" : "document.mm_returnvalue",
+  "confidence" : 0.9708029197080292
+}, {
+  "id" : 816,
+  "content" : "a.ma",
+  "confidence" : 0.9705882352941176
+}, {
+  "id" : 817,
+  "content" : "break}}",
+  "confidence" : 0.969811320754717
+}, {
+  "id" : 818,
+  "content" : "function(e){if(this.value",
+  "confidence" : 0.9696969696969697
+}, {
+  "id" : 819,
+  "content" : "b++)f",
+  "confidence" : 0.9693877551020408
+}, {
+  "id" : 820,
+  "content" : "h})",
+  "confidence" : 0.9690721649484536
+}, {
+  "id" : 821,
+  "content" : "\\\"http://www.w3.org/2000/svg\\\"xmlns:xlink",
+  "confidence" : 0.968421052631579
+}, {
+  "id" : 822,
+  "content" : "window.jstiming",
+  "confidence" : 0.9674418604651163
+}, {
+  "id" : 823,
+  "content" : "}//ensurethatitisanumberandstopthekeypressif((e.shiftkey||(e.keycode<48||e.keycode>57))&&(e.keycode<96||e.keycode>105)){e.preventdefault()",
+  "confidence" : 0.967391304347826
+}, {
+  "id" : 824,
+  "content" : "undefined){for(vari",
+  "confidence" : 0.967391304347826
+}, {
+  "id" : 825,
+  "content" : "35&&e.keycode<",
+  "confidence" : 0.967391304347826
+}, {
+  "id" : 826,
+  "content" : "window.performance.timing)&&a.responsestart",
+  "confidence" : 0.9671361502347418
+}, {
+  "id" : 827,
+  "content" : "this.tick(\"start\",null,a)}vara",
+  "confidence" : 0.9671361502347418
+}, {
+  "id" : 828,
+  "content" : "margin-right:30px",
+  "confidence" : 0.967032967032967
+}, {
+  "id" : 829,
+  "content" : "d&&(b",
+  "confidence" : 0.9664429530201343
+}, {
+  "id" : 830,
+  "content" : "\"show\"",
+  "confidence" : 0.9655172413793104
+}, {
+  "id" : 831,
+  "content" : "function(a,b,c,d){d",
+  "confidence" : 0.9652777777777778
+}, {
+  "id" : 832,
+  "content" : "if(e.stoppropagation)e.stoppropagation()",
+  "confidence" : 0.9652777777777778
+}, {
+  "id" : 833,
+  "content" : "a.q",
+  "confidence" : 0.9652173913043478
+}, {
+  "id" : 834,
+  "content" : "-1)returnfalse",
+  "confidence" : 0.9652173913043478
+}, {
+  "id" : 835,
+  "content" : "a.na",
+  "confidence" : 0.9649122807017544
+}, {
+  "id" : 836,
+  "content" : "adsettype('')",
+  "confidence" : 0.963963963963964
+}, {
+  "id" : 837,
+  "content" : "document.getelementbyid(\"toggletext\")",
+  "confidence" : 0.963963963963964
+}, {
+  "id" : 838,
+  "content" : "0)}",
+  "confidence" : 0.9637681159420289
+}, {
+  "id" : 839,
+  "content" : "a.qa",
+  "confidence" : 0.9637681159420289
+}, {
+  "id" : 840,
+  "content" : "this.tick",
+  "confidence" : 0.9631336405529954
+}, {
+  "id" : 841,
+  "content" : "args[i+2]",
+  "confidence" : 0.9626865671641791
+}, {
+  "id" : 842,
+  "content" : "i<(args.length-2)",
+  "confidence" : 0.9626865671641791
+}, {
+  "id" : 843,
+  "content" : "a&&window.external&&(a",
+  "confidence" : 0.9626168224299065
+}, {
+  "id" : 844,
+  "content" : "window.gtbexternal.paget()),null",
+  "confidence" : 0.9626168224299065
+}, {
+  "id" : 845,
+  "content" : "a&&window.gtbexternal&&(a",
+  "confidence" : 0.9626168224299065
+}, {
+  "id" : 846,
+  "content" : "null,window.chrome&&window.chrome.csi&&(a",
+  "confidence" : 0.9626168224299065
+}, {
+  "id" : 847,
+  "content" : "varerrmsg",
+  "confidence" : 0.9625668449197861
+}, {
+  "id" : 848,
+  "content" : "s[0]",
+  "confidence" : 0.9607843137254902
+}, {
+  "id" : 849,
+  "content" : "itemid",
+  "confidence" : 0.9607843137254902
+}, {
+  "id" : 850,
+  "content" : "c.c",
+  "confidence" : 0.96
+}, {
+  "id" : 851,
+  "content" : "q<n.length",
+  "confidence" : 0.9596774193548387
+}, {
+  "id" : 852,
+  "content" : "bd",
+  "confidence" : 0.9595959595959596
+}, {
+  "id" : 853,
+  "content" : "varqd",
+  "confidence" : 0.9595959595959596
+}, {
+  "id" : 854,
+  "content" : "c[f++]",
+  "confidence" : 0.9591836734693877
+}, {
+  "id" : 855,
+  "content" : "varxm",
+  "confidence" : 0.9587628865979382
+}, {
+  "id" : 856,
+  "content" : "a.navigationstart",
+  "confidence" : 0.958139534883721
+}, {
+  "id" : 857,
+  "content" : "if(a){varc",
+  "confidence" : 0.958139534883721
+}, {
+  "id" : 858,
+  "content" : "document.getelementbyid(\"displaytext\")",
+  "confidence" : 0.9557522123893806
+}, {
+  "id" : 859,
+  "content" : "if(atpos<1||dotpos<atpos+2||dotpos+2>",
+  "confidence" : 0.9550561797752809
+}, {
+  "id" : 860,
+  "content" : "x.indexof(\"@\")",
+  "confidence" : 0.9550561797752809
+}, {
+  "id" : 861,
+  "content" : "tl",
+  "confidence" : 0.9545454545454546
+}, {
+  "id" : 862,
+  "content" : "vardotpos",
+  "confidence" : 0.9541284403669725
+}, {
+  "id" : 863,
+  "content" : "a.k",
+  "confidence" : 0.9540229885057471
+}, {
+  "id" : 864,
+  "content" : ")1",
+  "confidence" : 0.9528301886792453
+}, {
+  "id" : 865,
+  "content" : "g(a)",
+  "confidence" : 0.9517241379310345
+}, {
+  "id" : 866,
+  "content" : "fl",
+  "confidence" : 0.95
+}, {
+  "id" : 867,
+  "content" : "b++)a",
+  "confidence" : 0.9494949494949495
+}, {
+  "id" : 868,
+  "content" : "a.getattributenode(c)",
+  "confidence" : 0.9494949494949495
+}, {
+  "id" : 869,
+  "content" : "a.v",
+  "confidence" : 0.9487179487179487
+}, {
+  "id" : 870,
+  "content" : "if(top",
+  "confidence" : 0.9482758620689655
+}, {
+  "id" : 871,
+  "content" : "function(){vard",
+  "confidence" : 0.9482142857142857
+}, {
+  "id" : 872,
+  "content" : "function(a,c,d){a.b||(a.b",
+  "confidence" : 0.9473684210526315
+}, {
+  "id" : 873,
+  "content" : "functiontoggle(){varele",
+  "confidence" : 0.9469026548672567
+}, {
+  "id" : 874,
+  "content" : "\"signin\"",
+  "confidence" : 0.9468085106382979
+}, {
+  "id" : 875,
+  "content" : "pa",
+  "confidence" : 0.9461538461538461
+}, {
+  "id" : 876,
+  "content" : "f--",
+  "confidence" : 0.9449275362318841
+}, {
+  "id" : 877,
+  "content" : "h[c]",
+  "confidence" : 0.9439252336448598
+}, {
+  "id" : 878,
+  "content" : "'+left+',top",
+  "confidence" : 0.9438775510204082
+}, {
+  "id" : 879,
+  "content" : "us&.lang",
+  "confidence" : 0.9433962264150944
+}, {
+  "id" : 880,
+  "content" : "\\\"1\\\"style",
+  "confidence" : 0.9433962264150944
+}, {
+  "id" : 881,
+  "content" : "a.c[d]",
+  "confidence" : 0.9431818181818182
+}, {
+  "id" : 882,
+  "content" : "varjg",
+  "confidence" : 0.9425287356321839
+}, {
+  "id" : 883,
+  "content" : "val.name",
+  "confidence" : 0.9416058394160584
+}, {
+  "id" : 884,
+  "content" : "a.b[d]",
+  "confidence" : 0.9411764705882353
+}, {
+  "id" : 885,
+  "content" : "a.va",
+  "confidence" : 0.9401709401709402
+}, {
+  "id" : 886,
+  "content" : "(q",
+  "confidence" : 0.94
+}, {
+  "id" : 887,
+  "content" : "typeofa&&a",
+  "confidence" : 0.94
+}, {
+  "id" : 888,
+  "content" : "l++)s",
+  "confidence" : 0.94
+}, {
+  "id" : 889,
+  "content" : "a.length,l",
+  "confidence" : 0.94
+}, {
+  "id" : 890,
+  "content" : "a.nodetype)return!1",
+  "confidence" : 0.94
+}, {
+  "id" : 891,
+  "content" : "hf",
+  "confidence" : 0.9396551724137931
+}, {
+  "id" : 892,
+  "content" : "_.k.oc",
+  "confidence" : 0.9396551724137931
+}, {
+  "id" : 893,
+  "content" : "typeofa&&(c",
+  "confidence" : 0.9390243902439024
+}, {
+  "id" : 894,
+  "content" : "}vary",
+  "confidence" : 0.9388888888888889
+}, {
+  "id" : 895,
+  "content" : "newarray(4)",
+  "confidence" : 0.9386503067484663
+}, {
+  "id" : 896,
+  "content" : "f++)e",
+  "confidence" : 0.937984496124031
+}, {
+  "id" : 897,
+  "content" : "a.pe",
+  "confidence" : 0.9351851851851852
+}, {
+  "id" : 898,
+  "content" : ")if(c",
+  "confidence" : 0.9338235294117647
+}, {
+  "id" : 899,
+  "content" : "h.classname",
+  "confidence" : 0.9326923076923077
+}, {
+  "id" : 900,
+  "content" : "a.ta",
+  "confidence" : 0.9322033898305084
+}, {
+  "id" : 901,
+  "content" : "elsefor(",
+  "confidence" : 0.9318181818181818
+}, {
+  "id" : 902,
+  "content" : "yl",
+  "confidence" : 0.9316770186335404
+}, {
+  "id" : 903,
+  "content" : "varcookieenabled",
+  "confidence" : 0.9302325581395349
+}, {
+  "id" : 904,
+  "content" : "ya",
+  "confidence" : 0.93
+}, {
+  "id" : 905,
+  "content" : "min",
+  "confidence" : 0.9294871794871795
+}, {
+  "id" : 906,
+  "content" : "c){c",
+  "confidence" : 0.9292035398230089
+}, {
+  "id" : 907,
+  "content" : "varsl",
+  "confidence" : 0.9285714285714286
+}, {
+  "id" : 908,
+  "content" : ")h",
+  "confidence" : 0.928
+}, {
+  "id" : 909,
+  "content" : "b.parentnode.insertbefore(a,b)",
+  "confidence" : 0.9272727272727272
+}, {
+  "id" : 910,
+  "content" : "}return(true)",
+  "confidence" : 0.9270833333333334
+}, {
+  "id" : 911,
+  "content" : "if(start",
+  "confidence" : 0.9252336448598131
+}, {
+  "id" : 912,
+  "content" : "yd",
+  "confidence" : 0.9238095238095239
+}, {
+  "id" : 913,
+  "content" : "zg",
+  "confidence" : 0.9238095238095239
+}, {
+  "id" : 914,
+  "content" : "function(e){yahoo.util.event.preventdefault(e)",
+  "confidence" : 0.9230769230769231
+}, {
+  "id" : 915,
+  "content" : "if(y",
+  "confidence" : 0.9226519337016574
+}, {
+  "id" : 916,
+  "content" : "this.n",
+  "confidence" : 0.9225806451612903
+}, {
+  "id" : 917,
+  "content" : "catid",
+  "confidence" : 0.9223300970873787
+}, {
+  "id" : 918,
+  "content" : "c>d",
+  "confidence" : 0.9223300970873787
+}, {
+  "id" : 919,
+  "content" : "varkb",
+  "confidence" : 0.9217391304347826
+}, {
+  "id" : 920,
+  "content" : "t||(t",
+  "confidence" : 0.9214285714285714
+}, {
+  "id" : 921,
+  "content" : "zl",
+  "confidence" : 0.92
+}, {
+  "id" : 922,
+  "content" : "_.g.ip",
+  "confidence" : 0.92
+}, {
+  "id" : 923,
+  "content" : "new_.sk",
+  "confidence" : 0.92
+}, {
+  "id" : 924,
+  "content" : "fe(b)",
+  "confidence" : 0.92
+}, {
+  "id" : 925,
+  "content" : "limit",
+  "confidence" : 0.9191919191919192
+}, {
+  "id" : 926,
+  "content" : "(g",
+  "confidence" : 0.918848167539267
+}, {
+  "id" : 927,
+  "content" : "a.y",
+  "confidence" : 0.9186046511627907
+}, {
+  "id" : 928,
+  "content" : "varfs",
+  "confidence" : 0.9166666666666666
+}, {
+  "id" : 929,
+  "content" : "\"xact\"",
+  "confidence" : 0.9166666666666666
+}, {
+  "id" : 930,
+  "content" : "\"v0\"",
+  "confidence" : 0.9166666666666666
+}, {
+  "id" : 931,
+  "content" : "\"vmf\"",
+  "confidence" : 0.9166666666666666
+}, {
+  "id" : 932,
+  "content" : "max",
+  "confidence" : 0.9161290322580645
+}, {
+  "id" : 933,
+  "content" : "k<c.length",
+  "confidence" : 0.9161290322580645
+}, {
+  "id" : 934,
+  "content" : "\\n</scr\"+\"ipt><noscr\"+\"ipt><imgwidth",
+  "confidence" : 0.9157894736842105
+}, {
+  "id" : 935,
+  "content" : "cnt++",
+  "confidence" : 0.9148936170212766
+}, {
+  "id" : 936,
+  "content" : "e&&(c",
+  "confidence" : 0.9147286821705426
+}, {
+  "id" : 937,
+  "content" : "varem",
+  "confidence" : 0.9144144144144144
+}, {
+  "id" : 938,
+  "content" : "v.length",
+  "confidence" : 0.9137931034482759
+}, {
+  "id" : 939,
+  "content" : "4000",
+  "confidence" : 0.9136690647482014
+}, {
+  "id" : 940,
+  "content" : "varlogin",
+  "confidence" : 0.912621359223301
+}, {
+  "id" : 941,
+  "content" : "returnd!",
+  "confidence" : 0.912621359223301
+}, {
+  "id" : 942,
+  "content" : "oe",
+  "confidence" : 0.9122807017543859
+}, {
+  "id" : 943,
+  "content" : "vartn",
+  "confidence" : 0.9122807017543859
+}, {
+  "id" : 944,
+  "content" : "1,f",
+  "confidence" : 0.9112903225806451
+}, {
+  "id" : 945,
+  "content" : "varcg",
+  "confidence" : 0.9111111111111111
+}, {
+  "id" : 946,
+  "content" : "s.evar13",
+  "confidence" : 0.9103260869565217
+}, {
+  "id" : 947,
+  "content" : "qm",
+  "confidence" : 0.9101123595505618
+}, {
+  "id" : 948,
+  "content" : "varkm",
+  "confidence" : 0.9101123595505618
+}, {
+  "id" : 949,
+  "content" : "varkn",
+  "confidence" : 0.9101123595505618
+}, {
+  "id" : 950,
+  "content" : "varvg",
+  "confidence" : 0.9101123595505618
+}, {
+  "id" : 951,
+  "content" : "varyn",
+  "confidence" : 0.9101123595505618
+}, {
+  "id" : 952,
+  "content" : "2<",
+  "confidence" : 0.9099099099099099
+}, {
+  "id" : 953,
+  "content" : "\"ch\"",
+  "confidence" : 0.9090909090909091
+}, {
+  "id" : 954,
+  "content" : "vargo",
+  "confidence" : 0.9081632653061225
+}, {
+  "id" : 955,
+  "content" : "res",
+  "confidence" : 0.9081632653061225
+}, {
+  "id" : 956,
+  "content" : "\"\",e.actionelement",
+  "confidence" : 0.9076923076923077
+}, {
+  "id" : 957,
+  "content" : "if(i>",
+  "confidence" : 0.907563025210084
+}, {
+  "id" : 958,
+  "content" : "vargm",
+  "confidence" : 0.90625
+}, {
+  "id" : 959,
+  "content" : "c<a.o.length",
+  "confidence" : 0.90625
+}, {
+  "id" : 960,
+  "content" : "b(c)",
+  "confidence" : 0.9056603773584906
+}, {
+  "id" : 961,
+  "content" : "vargn",
+  "confidence" : 0.9038461538461539
+}, {
+  "id" : 962,
+  "content" : "if(a&&3!",
+  "confidence" : 0.9038461538461539
+}, {
+  "id" : 963,
+  "content" : "path\\x3d/",
+  "confidence" : 0.9016393442622951
+}, {
+  "id" : 964,
+  "content" : "a.ja",
+  "confidence" : 0.9015873015873016
+}, {
+  "id" : 965,
+  "content" : "sp",
+  "confidence" : 0.8984375
+}, {
+  "id" : 966,
+  "content" : "varsub",
+  "confidence" : 0.8979591836734694
+}, {
+  "id" : 967,
+  "content" : "a.ia",
+  "confidence" : 0.896969696969697
+}, {
+  "id" : 968,
+  "content" : "sa()",
+  "confidence" : 0.8962264150943396
+}, {
+  "id" : 969,
+  "content" : "c()}",
+  "confidence" : 0.8958333333333334
+}, {
+  "id" : 970,
+  "content" : "a.ya",
+  "confidence" : 0.8953068592057761
+}, {
+  "id" : 971,
+  "content" : "oh",
+  "confidence" : 0.8952380952380953
+}, {
+  "id" : 972,
+  "content" : "}varquery",
+  "confidence" : 0.8952380952380953
+}, {
+  "id" : 973,
+  "content" : "typeofa)returnnull",
+  "confidence" : 0.8952380952380953
+}, {
+  "id" : 974,
+  "content" : "for(m",
+  "confidence" : 0.8949771689497716
+}, {
+  "id" : 975,
+  "content" : "0}}",
+  "confidence" : 0.8947368421052632
+}, {
+  "id" : 976,
+  "content" : "e.length,d",
+  "confidence" : 0.8947368421052632
+}, {
+  "id" : 977,
+  "content" : "varvb",
+  "confidence" : 0.8931297709923665
+}, {
+  "id" : 978,
+  "content" : "c?b",
+  "confidence" : 0.8931297709923665
+}, {
+  "id" : 979,
+  "content" : "function(a,b,c,d){if(3",
+  "confidence" : 0.8924731182795699
+}, {
+  "id" : 980,
+  "content" : "a[d++]",
+  "confidence" : 0.8924731182795699
+}, {
+  "id" : 981,
+  "content" : "functionf(s){vart",
+  "confidence" : 0.8913043478260869
+}, {
+  "id" : 982,
+  "content" : "t.xzq_i.c",
+  "confidence" : 0.8913043478260869
+}, {
+  "id" : 983,
+  "content" : "null){t.xzq_i",
+  "confidence" : 0.8913043478260869
+}, {
+  "id" : 984,
+  "content" : "if(x>0){r",
+  "confidence" : 0.8913043478260869
+}, {
+  "id" : 985,
+  "content" : "for(riny){if(typeofy[r]",
+  "confidence" : 0.8913043478260869
+}, {
+  "id" : 986,
+  "content" : "if(t.xzq_i",
+  "confidence" : 0.8913043478260869
+}, {
+  "id" : 987,
+  "content" : "if(t.length>p){c()",
+  "confidence" : 0.8913043478260869
+}, {
+  "id" : 988,
+  "content" : "varofb",
+  "confidence" : 0.8913043478260869
+}, {
+  "id" : 989,
+  "content" : "varmn",
+  "confidence" : 0.8913043478260869
+}, {
+  "id" : 990,
+  "content" : "if(r.indexof(t)<0){varx",
+  "confidence" : 0.8913043478260869
+}, {
+  "id" : 991,
+  "content" : "2000})()",
+  "confidence" : 0.8913043478260869
+}, {
+  "id" : 992,
+  "content" : "y[r]}}}}if(u){u++}n(t,x,u,w)",
+  "confidence" : 0.8913043478260869
+}, {
+  "id" : 993,
+  "content" : "(y.hasownproperty!",
+  "confidence" : 0.8913043478260869
+}, {
+  "id" : 994,
+  "content" : "-1)&&a>",
+  "confidence" : 0.8913043478260869
+}, {
+  "id" : 995,
+  "content" : "newfunction(a0,'xzq_this',unescape(ofb))",
+  "confidence" : 0.8913043478260869
+}, {
+  "id" : 996,
+  "content" : "0}varr",
+  "confidence" : 0.8913043478260869
+}, {
+  "id" : 997,
+  "content" : "r[r.c].src",
+  "confidence" : 0.8913043478260869
+}, {
+  "id" : 998,
+  "content" : "j+m",
+  "confidence" : 0.8913043478260869
+}, {
+  "id" : 999,
+  "content" : "return}varx",
+  "confidence" : 0.8913043478260869
+}, {
+  "id" : 1000,
+  "content" : "w.tostring()",
+  "confidence" : 0.8913043478260869
+}, {
+  "id" : 1001,
+  "content" : "t.xzq_i",
+  "confidence" : 0.8913043478260869
+}, {
+  "id" : 1002,
+  "content" : "null){return}vart",
+  "confidence" : 0.8913043478260869
+}, {
+  "id" : 1003,
+  "content" : "returnnewfunction(y,s)}else{returnw}}returnv}window.xzq_eh",
+  "confidence" : 0.8913043478260869
+}, {
+  "id" : 1004,
+  "content" : "this,l",
+  "confidence" : 0.8913043478260869
+}, {
+  "id" : 1005,
+  "content" : "n(t,x,u,w)",
+  "confidence" : 0.8913043478260869
+}, {
+  "id" : 1006,
+  "content" : "y[r]}else{if(t.length+y[r].length>p){}else{u++",
+  "confidence" : 0.8913043478260869
+}, {
+  "id" : 1007,
+  "content" : "-1&&a>",
+  "confidence" : 0.8913043478260869
+}, {
+  "id" : 1008,
+  "content" : "window.xzq_s",
+  "confidence" : 0.8913043478260869
+}, {
+  "id" : 1009,
+  "content" : "r.substring(x,r.length)}else{returnw}r",
+  "confidence" : 0.8913043478260869
+}, {
+  "id" : 1010,
+  "content" : "o){this.onbeforeunload",
+  "confidence" : 0.8913043478260869
+}, {
+  "id" : 1011,
+  "content" : "functionn(r,u,s,t){if(u.length>0){r+",
+  "confidence" : 0.8913043478260869
+}, {
+  "id" : 1012,
+  "content" : "s}window.xzq_sr",
+  "confidence" : 0.8913043478260869
+}, {
+  "id" : 1013,
+  "content" : "function(){if(e||i){this.onload",
+  "confidence" : 0.8913043478260869
+}, {
+  "id" : 1014,
+  "content" : "p){x+",
+  "confidence" : 0.8913043478260869
+}, {
+  "id" : 1015,
+  "content" : "window.xzq_svr",
+  "confidence" : 0.8913043478260869
+}, {
+  "id" : 1016,
+  "content" : "function(r){m",
+  "confidence" : 0.8913043478260869
+}, {
+  "id" : 1017,
+  "content" : "function(r){j",
+  "confidence" : 0.8913043478260869
+}, {
+  "id" : 1018,
+  "content" : "null}functionk(r){xzq_sr()}functionb(r){xzq_sr()}functionl(u,v,w){if(w){varr",
+  "confidence" : 0.8913043478260869
+}, {
+  "id" : 1019,
+  "content" : "s.xzq_d",
+  "confidence" : 0.8913043478260869
+}, {
+  "id" : 1020,
+  "content" : "r[++r.c]",
+  "confidence" : 0.8913043478260869
+}, {
+  "id" : 1021,
+  "content" : "if(e&&typeof(this.onbeforeunload)!",
+  "confidence" : 0.8913043478260869
+}, {
+  "id" : 1022,
+  "content" : "null){return}if(j",
+  "confidence" : 0.8913043478260869
+}, {
+  "id" : 1023,
+  "content" : "r}",
+  "confidence" : 0.8911917098445595
+}, {
+  "id" : 1024,
+  "content" : "return(false)",
+  "confidence" : 0.8909090909090909
+}, {
+  "id" : 1025,
+  "content" : "varhn",
+  "confidence" : 0.8901098901098901
+}, {
+  "id" : 1026,
+  "content" : "vardm",
+  "confidence" : 0.8898305084745762
+}, {
+  "id" : 1027,
+  "content" : "varud",
+  "confidence" : 0.8888888888888888
+}, {
+  "id" : 1028,
+  "content" : "[],k",
+  "confidence" : 0.888095238095238
+}, {
+  "id" : 1029,
+  "content" : "_.lm",
+  "confidence" : 0.8857142857142857
+}, {
+  "id" : 1030,
+  "content" : "qa",
+  "confidence" : 0.8854961832061069
+}, {
+  "id" : 1031,
+  "content" : "if(ch",
+  "confidence" : 0.8842105263157894
+}, {
+  "id" : 1032,
+  "content" : "script",
+  "confidence" : 0.8830409356725146
+}, {
+  "id" : 1033,
+  "content" : "\\\"none\\\"stroke",
+  "confidence" : 0.8821052631578947
+}, {
+  "id" : 1034,
+  "content" : "l,l",
+  "confidence" : 0.8818181818181818
+}, {
+  "id" : 1035,
+  "content" : "varvm",
+  "confidence" : 0.8813559322033898
+}, {
+  "id" : 1036,
+  "content" : "g||(g",
+  "confidence" : 0.8807339449541285
+}, {
+  "id" : 1037,
+  "content" : "di",
+  "confidence" : 0.8804347826086957
+}, {
+  "id" : 1038,
+  "content" : "dn",
+  "confidence" : 0.8804347826086957
+}, {
+  "id" : 1039,
+  "content" : "mh",
+  "confidence" : 0.8804347826086957
+}, {
+  "id" : 1040,
+  "content" : "varfm",
+  "confidence" : 0.8804347826086957
+}, {
+  "id" : 1041,
+  "content" : "varho",
+  "confidence" : 0.8804347826086957
+}, {
+  "id" : 1042,
+  "content" : "varhf",
+  "confidence" : 0.8804347826086957
+}, {
+  "id" : 1043,
+  "content" : "varqn",
+  "confidence" : 0.8804347826086957
+}, {
+  "id" : 1044,
+  "content" : "vartm",
+  "confidence" : 0.8804347826086957
+}, {
+  "id" : 1045,
+  "content" : "function(a){this.ja",
+  "confidence" : 0.8804347826086957
+}, {
+  "id" : 1046,
+  "content" : "new_.se",
+  "confidence" : 0.8804347826086957
+}, {
+  "id" : 1047,
+  "content" : "c,k",
+  "confidence" : 0.8787878787878788
+}, {
+  "id" : 1048,
+  "content" : "\"\"+b",
+  "confidence" : 0.8785046728971962
+}, {
+  "id" : 1049,
+  "content" : "a.ba",
+  "confidence" : 0.8774509803921569
+}, {
+  "id" : 1050,
+  "content" : "null))}",
+  "confidence" : 0.8771929824561403
+}, {
+  "id" : 1051,
+  "content" : "\"padding:0",
+  "confidence" : 0.8771929824561403
+}, {
+  "id" : 1052,
+  "content" : "\\\"0\\\"style",
+  "confidence" : 0.8765432098765432
+}, {
+  "id" : 1053,
+  "content" : "mb",
+  "confidence" : 0.875
+}, {
+  "id" : 1054,
+  "content" : "varnn",
+  "confidence" : 0.875
+}, {
+  "id" : 1055,
+  "content" : "c.a",
+  "confidence" : 0.8743455497382199
+}, {
+  "id" : 1056,
+  "content" : "f.length-1",
+  "confidence" : 0.8727272727272727
+}, {
+  "id" : 1057,
+  "content" : "a.x",
+  "confidence" : 0.87248322147651
+}, {
+  "id" : 1058,
+  "content" : "e[k]",
+  "confidence" : 0.8721804511278195
+}, {
+  "id" : 1059,
+  "content" : "this.length",
+  "confidence" : 0.871244635193133
+}, {
+  "id" : 1060,
+  "content" : "varwm",
+  "confidence" : 0.8709677419354839
+}, {
+  "id" : 1061,
+  "content" : "_.cn",
+  "confidence" : 0.8709677419354839
+}, {
+  "id" : 1062,
+  "content" : "\"j\"",
+  "confidence" : 0.8706896551724138
+}, {
+  "id" : 1063,
+  "content" : "\"abort\"",
+  "confidence" : 0.8695652173913043
+}, {
+  "id" : 1064,
+  "content" : "b.$",
+  "confidence" : 0.86875
+}, {
+  "id" : 1065,
+  "content" : "sb",
+  "confidence" : 0.8673469387755102
+}, {
+  "id" : 1066,
+  "content" : "b)}",
+  "confidence" : 0.8673469387755102
+}, {
+  "id" : 1067,
+  "content" : "f(a)",
+  "confidence" : 0.865979381443299
+}, {
+  "id" : 1068,
+  "content" : "2)",
+  "confidence" : 0.8658227848101265
+}, {
+  "id" : 1069,
+  "content" : "_.ye",
+  "confidence" : 0.8656716417910447
+}, {
+  "id" : 1070,
+  "content" : "g--",
+  "confidence" : 0.8650306748466258
+}, {
+  "id" : 1071,
+  "content" : "i<b.length",
+  "confidence" : 0.8646616541353384
+}, {
+  "id" : 1072,
+  "content" : "\\\"0\\\"alt",
+  "confidence" : 0.8639455782312925
+}, {
+  "id" : 1073,
+  "content" : "a.ha",
+  "confidence" : 0.8632478632478633
+}, {
+  "id" : 1074,
+  "content" : "parseint(h)",
+  "confidence" : 0.8631578947368421
+}, {
+  "id" : 1075,
+  "content" : "-moz-box-sizing:content-box",
+  "confidence" : 0.8620689655172413
+}, {
+  "id" : 1076,
+  "content" : "_.xl",
+  "confidence" : 0.8611111111111112
+}, {
+  "id" : 1077,
+  "content" : "0))",
+  "confidence" : 0.8608695652173913
+}, {
+  "id" : 1078,
+  "content" : ")g",
+  "confidence" : 0.860655737704918
+}, {
+  "id" : 1079,
+  "content" : ")k",
+  "confidence" : 0.8596491228070176
+}, {
+  "id" : 1080,
+  "content" : "_.nf",
+  "confidence" : 0.8585858585858586
+}, {
+  "id" : 1081,
+  "content" : "\"visible\"",
+  "confidence" : 0.8584905660377359
+}, {
+  "id" : 1082,
+  "content" : "_.$g",
+  "confidence" : 0.8584070796460177
+}, {
+  "id" : 1083,
+  "content" : "f>e",
+  "confidence" : 0.8583333333333333
+}, {
+  "id" : 1084,
+  "content" : "a<this.a.length",
+  "confidence" : 0.8581081081081081
+}, {
+  "id" : 1085,
+  "content" : "_.lb",
+  "confidence" : 0.8580246913580247
+}, {
+  "id" : 1086,
+  "content" : "_.ib",
+  "confidence" : 0.8571428571428571
+}, {
+  "id" : 1087,
+  "content" : "vartext",
+  "confidence" : 0.8564814814814815
+}, {
+  "id" : 1088,
+  "content" : "a,a",
+  "confidence" : 0.8561797752808988
+}, {
+  "id" : 1089,
+  "content" : "\"boolean\"",
+  "confidence" : 0.8551532033426184
+}, {
+  "id" : 1090,
+  "content" : "box-sizing:content-box",
+  "confidence" : 0.8547008547008547
+}, {
+  "id" : 1091,
+  "content" : "c||[]",
+  "confidence" : 0.8541666666666666
+}, {
+  "id" : 1092,
+  "content" : "f[e]",
+  "confidence" : 0.8535353535353535
+}, {
+  "id" : 1093,
+  "content" : "_.hc",
+  "confidence" : 0.8532110091743119
+}, {
+  "id" : 1094,
+  "content" : "ac",
+  "confidence" : 0.852760736196319
+}, {
+  "id" : 1095,
+  "content" : "c.s",
+  "confidence" : 0.8521739130434782
+}, {
+  "id" : 1096,
+  "content" : "varup",
+  "confidence" : 0.8518518518518519
+}, {
+  "id" : 1097,
+  "content" : "k)",
+  "confidence" : 0.8512820512820513
+}, {
+  "id" : 1098,
+  "content" : "version",
+  "confidence" : 0.85
+}, {
+  "id" : 1099,
+  "content" : ")if(1",
+  "confidence" : 0.8497109826589595
+}, {
+  "id" : 1100,
+  "content" : "redirect",
+  "confidence" : 0.8496932515337423
+}, {
+  "id" : 1101,
+  "content" : "varun",
+  "confidence" : 0.8492063492063492
+}, {
+  "id" : 1102,
+  "content" : "c++)b+",
+  "confidence" : 0.8482142857142857
+}, {
+  "id" : 1103,
+  "content" : "varlo",
+  "confidence" : 0.8469387755102041
+}, {
+  "id" : 1104,
+  "content" : "ci",
+  "confidence" : 0.8467153284671532
+}, {
+  "id" : 1105,
+  "content" : "varff",
+  "confidence" : 0.8455284552845529
+}, {
+  "id" : 1106,
+  "content" : "_.g.hd",
+  "confidence" : 0.8440366972477065
+}, {
+  "id" : 1107,
+  "content" : "_.g.uj",
+  "confidence" : 0.8440366972477065
+}, {
+  "id" : 1108,
+  "content" : "varim",
+  "confidence" : 0.8440366972477065
+}, {
+  "id" : 1109,
+  "content" : "varwn",
+  "confidence" : 0.8440366972477065
+}, {
+  "id" : 1110,
+  "content" : "_.gr",
+  "confidence" : 0.8440366972477065
+}, {
+  "id" : 1111,
+  "content" : "else{b",
+  "confidence" : 0.8439716312056738
+}, {
+  "id" : 1112,
+  "content" : "a.d",
+  "confidence" : 0.8435754189944135
+}, {
+  "id" : 1113,
+  "content" : "a.ra()",
+  "confidence" : 0.8435374149659864
+}, {
+  "id" : 1114,
+  "content" : "a)returnc",
+  "confidence" : 0.8434782608695652
+}, {
+  "id" : 1115,
+  "content" : "if(k",
+  "confidence" : 0.84
+}, {
+  "id" : 1116,
+  "content" : "_.ve",
+  "confidence" : 0.84
+}, {
+  "id" : 1117,
+  "content" : "function(a){varc,d",
+  "confidence" : 0.8395061728395061
+}, {
+  "id" : 1118,
+  "content" : "a.length,h",
+  "confidence" : 0.8392857142857143
+}, {
+  "id" : 1119,
+  "content" : "d.me",
+  "confidence" : 0.8378378378378378
+}, {
+  "id" : 1120,
+  "content" : "if(top!",
+  "confidence" : 0.8378378378378378
+}, {
+  "id" : 1121,
+  "content" : "navigator.appversion",
+  "confidence" : 0.8378378378378378
+}, {
+  "id" : 1122,
+  "content" : "_.jm",
+  "confidence" : 0.8378378378378378
+}, {
+  "id" : 1123,
+  "content" : "a.ea",
+  "confidence" : 0.8377926421404682
+}, {
+  "id" : 1124,
+  "content" : "varrv",
+  "confidence" : 0.8367346938775511
+}, {
+  "id" : 1125,
+  "content" : "_.g.kb",
+  "confidence" : 0.8363636363636363
+}, {
+  "id" : 1126,
+  "content" : "_.ic",
+  "confidence" : 0.8362068965517241
+}, {
+  "id" : 1127,
+  "content" : "a++)d",
+  "confidence" : 0.8355263157894737
+}, {
+  "id" : 1128,
+  "content" : "varrn",
+  "confidence" : 0.8350515463917526
+}, {
+  "id" : 1129,
+  "content" : "_.rn",
+  "confidence" : 0.8350515463917526
+}, {
+  "id" : 1130,
+  "content" : "_.sn",
+  "confidence" : 0.8350515463917526
+}, {
+  "id" : 1131,
+  "content" : "qc",
+  "confidence" : 0.8349514563106796
+}, {
+  "id" : 1132,
+  "content" : "function(a){vard",
+  "confidence" : 0.8342391304347826
+}, {
+  "id" : 1133,
+  "content" : "ia",
+  "confidence" : 0.8333333333333334
+}, {
+  "id" : 1134,
+  "content" : "this[0]",
+  "confidence" : 0.8333333333333334
+}, {
+  "id" : 1135,
+  "content" : "_.ge",
+  "confidence" : 0.8333333333333334
+}, {
+  "id" : 1136,
+  "content" : "_.mf",
+  "confidence" : 0.8333333333333334
+}, {
+  "id" : 1137,
+  "content" : "d++)e",
+  "confidence" : 0.832258064516129
+}, {
+  "id" : 1138,
+  "content" : "_.cd",
+  "confidence" : 0.8322147651006712
+}, {
+  "id" : 1139,
+  "content" : "f++)b",
+  "confidence" : 0.831858407079646
+}, {
+  "id" : 1140,
+  "content" : "_.qg",
+  "confidence" : 0.8307692307692308
+}, {
+  "id" : 1141,
+  "content" : "return(b",
+  "confidence" : 0.8303571428571429
+}, {
+  "id" : 1142,
+  "content" : "_.hm",
+  "confidence" : 0.8303571428571429
+}, {
+  "id" : 1143,
+  "content" : "varte",
+  "confidence" : 0.83
+}, {
+  "id" : 1144,
+  "content" : "function(){this.a",
+  "confidence" : 0.8285714285714286
+}, {
+  "id" : 1145,
+  "content" : "this.ja",
+  "confidence" : 0.8284923928077456
+}, {
+  "id" : 1146,
+  "content" : "float:left",
+  "confidence" : 0.8280373831775701
+}, {
+  "id" : 1147,
+  "content" : "a.b[c]",
+  "confidence" : 0.8275862068965517
+}, {
+  "id" : 1148,
+  "content" : "function(a){this.g",
+  "confidence" : 0.8275862068965517
+}, {
+  "id" : 1149,
+  "content" : "if(0<",
+  "confidence" : 0.8273092369477911
+}, {
+  "id" : 1150,
+  "content" : "_.g.aa",
+  "confidence" : 0.826797385620915
+}, {
+  "id" : 1151,
+  "content" : "varmd",
+  "confidence" : 0.826530612244898
+}, {
+  "id" : 1152,
+  "content" : "_.ca",
+  "confidence" : 0.826530612244898
+}, {
+  "id" : 1153,
+  "content" : "_.el",
+  "confidence" : 0.826530612244898
+}, {
+  "id" : 1154,
+  "content" : "\\n})",
+  "confidence" : 0.8262548262548263
+}, {
+  "id" : 1155,
+  "content" : "for(q",
+  "confidence" : 0.8260869565217391
+}, {
+  "id" : 1156,
+  "content" : "a.f",
+  "confidence" : 0.8255250403877221
+}, {
+  "id" : 1157,
+  "content" : "[c]",
+  "confidence" : 0.8253968253968254
+}, {
+  "id" : 1158,
+  "content" : "function(a,b){this.a",
+  "confidence" : 0.8230088495575221
+}, {
+  "id" : 1159,
+  "content" : "function(a,b){this.b",
+  "confidence" : 0.8226950354609929
+}, {
+  "id" : 1160,
+  "content" : "b||(b",
+  "confidence" : 0.8226415094339623
+}, {
+  "id" : 1161,
+  "content" : "\"\",g",
+  "confidence" : 0.8222222222222222
+}, {
+  "id" : 1162,
+  "content" : "(0,_.ua)()",
+  "confidence" : 0.8221343873517787
+}, {
+  "id" : 1163,
+  "content" : "_.yg",
+  "confidence" : 0.821917808219178
+}, {
+  "id" : 1164,
+  "content" : "_.ok()",
+  "confidence" : 0.8214285714285714
+}, {
+  "id" : 1165,
+  "content" : "\"/captcha?v",
+  "confidence" : 0.8214285714285714
+}, {
+  "id" : 1166,
+  "content" : "this.a&&(this.a",
+  "confidence" : 0.8214285714285714
+}, {
+  "id" : 1167,
+  "content" : "userspaceonuse&quot",
+  "confidence" : 0.8214285714285714
+}, {
+  "id" : 1168,
+  "content" : "t(f),e",
+  "confidence" : 0.8214285714285714
+}, {
+  "id" : 1169,
+  "content" : "_.r(this,1)}",
+  "confidence" : 0.8214285714285714
+}, {
+  "id" : 1170,
+  "content" : "a.ia.zb.bc()",
+  "confidence" : 0.8214285714285714
+}, {
+  "id" : 1171,
+  "content" : "'<divjscontroller",
+  "confidence" : 0.8214285714285714
+}, {
+  "id" : 1172,
+  "content" : "focus:\"+_.u(\"ahmuwe\")+\"",
+  "confidence" : 0.8214285714285714
+}, {
+  "id" : 1173,
+  "content" : "fill-opacity",
+  "confidence" : 0.8214285714285714
+}, {
+  "id" : 1174,
+  "content" : "/></lineargradient><pathfill",
+  "confidence" : 0.8214285714285714
+}, {
+  "id" : 1175,
+  "content" : "function(a){_.xl.call(this)",
+  "confidence" : 0.8214285714285714
+}, {
+  "id" : 1176,
+  "content" : "utf8,<svgxmlns",
+  "confidence" : 0.8214285714285714
+}, {
+  "id" : 1177,
+  "content" : "function(a){this.a.kb(a)}",
+  "confidence" : 0.8214285714285714
+}, {
+  "id" : 1178,
+  "content" : "return(0,_.h)(b)}",
+  "confidence" : 0.8214285714285714
+}, {
+  "id" : 1179,
+  "content" : "\"m00h24v24h0zm00h24v24h0zm00h24v24h0zm00h24v24h0z\"fill",
+  "confidence" : 0.8214285714285714
+}, {
+  "id" : 1180,
+  "content" : "\"002424\"fill",
+  "confidence" : 0.8214285714285714
+}, {
+  "id" : 1181,
+  "content" : "this.a,b",
+  "confidence" : 0.8214285714285714
+}, {
+  "id" : 1182,
+  "content" : "a.aa().u()",
+  "confidence" : 0.8214285714285714
+}, {
+  "id" : 1183,
+  "content" : "\"m00h24v24h0z\"fill",
+  "confidence" : 0.8214285714285714
+}, {
+  "id" : 1184,
+  "content" : "\"none\"d",
+  "confidence" : 0.8214285714285714
+}, {
+  "id" : 1185,
+  "content" : "function(a){_.u(this,a,0,-1,null,null)}",
+  "confidence" : 0.8214285714285714
+}, {
+  "id" : 1186,
+  "content" : "this.a.next",
+  "confidence" : 0.8214285714285714
+}, {
+  "id" : 1187,
+  "content" : "\"24\"xmlns",
+  "confidence" : 0.8214285714285714
+}, {
+  "id" : 1188,
+  "content" : "_.g.dg",
+  "confidence" : 0.8214285714285714
+}, {
+  "id" : 1189,
+  "content" : "_.g.cc",
+  "confidence" : 0.8214285714285714
+}, {
+  "id" : 1190,
+  "content" : "a&&a()}",
+  "confidence" : 0.8214285714285714
+}, {
+  "id" : 1191,
+  "content" : "_.g.nb",
+  "confidence" : 0.8214285714285714
+}, {
+  "id" : 1192,
+  "content" : "_.g.lb",
+  "confidence" : 0.8214285714285714
+}, {
+  "id" : 1193,
+  "content" : "a.getcontext()",
+  "confidence" : 0.8214285714285714
+}, {
+  "id" : 1194,
+  "content" : "_.g.wh",
+  "confidence" : 0.8214285714285714
+}, {
+  "id" : 1195,
+  "content" : "_.g.rj",
+  "confidence" : 0.8214285714285714
+}, {
+  "id" : 1196,
+  "content" : "_.g.qb",
+  "confidence" : 0.8214285714285714
+}, {
+  "id" : 1197,
+  "content" : "_.g.yb",
+  "confidence" : 0.8214285714285714
+}, {
+  "id" : 1198,
+  "content" : "\"\"+('<svgxmlns",
+  "confidence" : 0.8214285714285714
+}, {
+  "id" : 1199,
+  "content" : "this.oa()",
+  "confidence" : 0.8214285714285714
+}, {
+  "id" : 1200,
+  "content" : "a.l.navigation",
+  "confidence" : 0.8214285714285714
+}, {
+  "id" : 1201,
+  "content" : "\"'+_.u(null!",
+  "confidence" : 0.8214285714285714
+}, {
+  "id" : 1202,
+  "content" : "\"requestedby\"+b)",
+  "confidence" : 0.8214285714285714
+}, {
+  "id" : 1203,
+  "content" : "a.l.dd",
+  "confidence" : 0.8214285714285714
+}, {
+  "id" : 1204,
+  "content" : "_.g.$d",
+  "confidence" : 0.8214285714285714
+}, {
+  "id" : 1205,
+  "content" : "a.ob",
+  "confidence" : 0.8214285714285714
+}, {
+  "id" : 1206,
+  "content" : "a.uc",
+  "confidence" : 0.8214285714285714
+}, {
+  "id" : 1207,
+  "content" : "pn(a)",
+  "confidence" : 0.8214285714285714
+}, {
+  "id" : 1208,
+  "content" : "_.ws.ub()",
+  "confidence" : 0.8214285714285714
+}, {
+  "id" : 1209,
+  "content" : "function(a){functionb(a){this.content",
+  "confidence" : 0.8214285714285714
+}, {
+  "id" : 1210,
+  "content" : "a.ea,d",
+  "confidence" : 0.8214285714285714
+}, {
+  "id" : 1211,
+  "content" : "a.ea,c",
+  "confidence" : 0.8214285714285714
+}, {
+  "id" : 1212,
+  "content" : "><pathd",
+  "confidence" : 0.8214285714285714
+}, {
+  "id" : 1213,
+  "content" : "function(a,b){mn.call(this,a,b)}",
+  "confidence" : 0.8214285714285714
+}, {
+  "id" : 1214,
+  "content" : "this.a[c]",
+  "confidence" : 0.8214285714285714
+}, {
+  "id" : 1215,
+  "content" : "/><pathclip-path",
+  "confidence" : 0.8214285714285714
+}, {
+  "id" : 1216,
+  "content" : "function(a){this.a.qb(a)}",
+  "confidence" : 0.8214285714285714
+}, {
+  "id" : 1217,
+  "content" : "this.c()}",
+  "confidence" : 0.8214285714285714
+}, {
+  "id" : 1218,
+  "content" : "(0,_.h)(b)",
+  "confidence" : 0.8214285714285714
+}, {
+  "id" : 1219,
+  "content" : "_.e()",
+  "confidence" : 0.8214285714285714
+}, {
+  "id" : 1220,
+  "content" : "a.l.request",
+  "confidence" : 0.8214285714285714
+}, {
+  "id" : 1221,
+  "content" : "\"m00h24v24h0v0z\"/><pathd",
+  "confidence" : 0.8214285714285714
+}, {
+  "id" : 1222,
+  "content" : "function(a){_.t(this,1,a)}",
+  "confidence" : 0.8214285714285714
+}, {
+  "id" : 1223,
+  "content" : "function(a,b){_.xl.call(this)",
+  "confidence" : 0.8214285714285714
+}, {
+  "id" : 1224,
+  "content" : "this.aa()",
+  "confidence" : 0.8214285714285714
+}, {
+  "id" : 1225,
+  "content" : "this.ie()",
+  "confidence" : 0.8214285714285714
+}, {
+  "id" : 1226,
+  "content" : "#262626&quot",
+  "confidence" : 0.8214285714285714
+}, {
+  "id" : 1227,
+  "content" : "function(a){_.lx.call(this,a.fb)",
+  "confidence" : 0.8214285714285714
+}, {
+  "id" : 1228,
+  "content" : "\"jsname",
+  "confidence" : 0.8214285714285714
+}, {
+  "id" : 1229,
+  "content" : "_.tq(c)",
+  "confidence" : 0.8214285714285714
+}, {
+  "id" : 1230,
+  "content" : "f++){vark",
+  "confidence" : 0.8214285714285714
+}, {
+  "id" : 1231,
+  "content" : "new_.lq(0,0)",
+  "confidence" : 0.8214285714285714
+}, {
+  "id" : 1232,
+  "content" : "/></svg>')",
+  "confidence" : 0.8214285714285714
+}, {
+  "id" : 1233,
+  "content" : "(0,_.h)('<divjscontroller",
+  "confidence" : 0.8214285714285714
+}, {
+  "id" : 1234,
+  "content" : "return(0,_.h)(a)})",
+  "confidence" : 0.8214285714285714
+}, {
+  "id" : 1235,
+  "content" : "_.g.setitem",
+  "confidence" : 0.8214285714285714
+}, {
+  "id" : 1236,
+  "content" : "\"w6uilf\"",
+  "confidence" : 0.8214285714285714
+}, {
+  "id" : 1237,
+  "content" : "function(){returnthis.qa}",
+  "confidence" : 0.8214285714285714
+}, {
+  "id" : 1238,
+  "content" : "k<f",
+  "confidence" : 0.8214285714285714
+}, {
+  "id" : 1239,
+  "content" : "k?c",
+  "confidence" : 0.8214285714285714
+}, {
+  "id" : 1240,
+  "content" : "function(a){returnbv(this.qa,a)}",
+  "confidence" : 0.8214285714285714
+}, {
+  "id" : 1241,
+  "content" : "stop-color",
+  "confidence" : 0.8214285714285714
+}, {
+  "id" : 1242,
+  "content" : "b.locale&&\"en-gb\"!",
+  "confidence" : 0.8214285714285714
+}, {
+  "id" : 1243,
+  "content" : "c.xa",
+  "confidence" : 0.8214285714285714
+}, {
+  "id" : 1244,
+  "content" : "this.aa().u()",
+  "confidence" : 0.8214285714285714
+}, {
+  "id" : 1245,
+  "content" : "string(a),a",
+  "confidence" : 0.8214285714285714
+}, {
+  "id" : 1246,
+  "content" : "\"'+_.u(b)+'\"><pathd",
+  "confidence" : 0.8214285714285714
+}, {
+  "id" : 1247,
+  "content" : "newdm",
+  "confidence" : 0.8214285714285714
+}, {
+  "id" : 1248,
+  "content" : "_.bb(a,b)",
+  "confidence" : 0.8214285714285714
+}, {
+  "id" : 1249,
+  "content" : "function(){returnthis.a.oa()}",
+  "confidence" : 0.8214285714285714
+}, {
+  "id" : 1250,
+  "content" : "\"none\"/><pathd",
+  "confidence" : 0.8214285714285714
+}, {
+  "id" : 1251,
+  "content" : "function(a){_.ak.call(this)",
+  "confidence" : 0.8214285714285714
+}, {
+  "id" : 1252,
+  "content" : "/><lineargradientid",
+  "confidence" : 0.8214285714285714
+}, {
+  "id" : 1253,
+  "content" : "return(0,_.h)(b)})",
+  "confidence" : 0.8214285714285714
+}, {
+  "id" : 1254,
+  "content" : "#fff&quot",
+  "confidence" : 0.8214285714285714
+}, {
+  "id" : 1255,
+  "content" : "a}b.prototype",
+  "confidence" : 0.8214285714285714
+}, {
+  "id" : 1256,
+  "content" : "_.da(a)?a.split(\"\"):a,f",
+  "confidence" : 0.8214285714285714
+}, {
+  "id" : 1257,
+  "content" : "return(0,_.h)('<divclass",
+  "confidence" : 0.8214285714285714
+}, {
+  "id" : 1258,
+  "content" : "function(){returnthis.a.sb()}",
+  "confidence" : 0.8214285714285714
+}, {
+  "id" : 1259,
+  "content" : "_.g.tostring",
+  "confidence" : 0.8214285714285714
+}, {
+  "id" : 1260,
+  "content" : "\"none\"/></svg>')",
+  "confidence" : 0.8214285714285714
+}, {
+  "id" : 1261,
+  "content" : "\\\"background-image:url('data:image/svg+xml",
+  "confidence" : 0.8214285714285714
+}, {
+  "id" : 1262,
+  "content" : "returnd(\"\"+a+\"\")})",
+  "confidence" : 0.8214285714285714
+}, {
+  "id" : 1263,
+  "content" : "a.content,c",
+  "confidence" : 0.8214285714285714
+}, {
+  "id" : 1264,
+  "content" : "new_.tw(a)",
+  "confidence" : 0.8214285714285714
+}, {
+  "id" : 1265,
+  "content" : "new_.sw([])",
+  "confidence" : 0.8214285714285714
+}, {
+  "id" : 1266,
+  "content" : "function(a,b,c,d,e,f){vark",
+  "confidence" : 0.8214285714285714
+}, {
+  "id" : 1267,
+  "content" : "a.disabled",
+  "confidence" : 0.8214285714285714
+}, {
+  "id" : 1268,
+  "content" : "function(){returnthis.i}",
+  "confidence" : 0.8214285714285714
+}, {
+  "id" : 1269,
+  "content" : "returna})}",
+  "confidence" : 0.8214285714285714
+}, {
+  "id" : 1270,
+  "content" : "\"'+_.u(b)+'\"><pathfill",
+  "confidence" : 0.8214285714285714
+}, {
+  "id" : 1271,
+  "content" : "function(){this.a.focus()}",
+  "confidence" : 0.8214285714285714
+}, {
+  "id" : 1272,
+  "content" : "_.g.geterror",
+  "confidence" : 0.8214285714285714
+}, {
+  "id" : 1273,
+  "content" : "function(a){_.xa.call(this)",
+  "confidence" : 0.8214285714285714
+}, {
+  "id" : 1274,
+  "content" : "returnnew_.sw(c)}",
+  "confidence" : 0.8214285714285714
+}, {
+  "id" : 1275,
+  "content" : "function(a,b){_.ak.call(this)",
+  "confidence" : 0.8214285714285714
+}, {
+  "id" : 1276,
+  "content" : "/><stopoffset",
+  "confidence" : 0.8214285714285714
+}, {
+  "id" : 1277,
+  "content" : "\"'+_.u(a)+'px\"viewbox",
+  "confidence" : 0.8214285714285714
+}, {
+  "id" : 1278,
+  "content" : "this.b.u()",
+  "confidence" : 0.8214285714285714
+}, {
+  "id" : 1279,
+  "content" : "_.r(b,1),e",
+  "confidence" : 0.8214285714285714
+}, {
+  "id" : 1280,
+  "content" : "a?a:24",
+  "confidence" : 0.8214285714285714
+}, {
+  "id" : 1281,
+  "content" : "_.g.getitem",
+  "confidence" : 0.8214285714285714
+}, {
+  "id" : 1282,
+  "content" : "\"'+_.u(b)+'\"aria-hidden",
+  "confidence" : 0.8214285714285714
+}, {
+  "id" : 1283,
+  "content" : "\"en\"!",
+  "confidence" : 0.8214285714285714
+}, {
+  "id" : 1284,
+  "content" : "function(){_.zs.call(this)}",
+  "confidence" : 0.8214285714285714
+}, {
+  "id" : 1285,
+  "content" : "a.ta.fa",
+  "confidence" : 0.8214285714285714
+}, {
+  "id" : 1286,
+  "content" : "function(){_.xl.call(this)",
+  "confidence" : 0.8214285714285714
+}, {
+  "id" : 1287,
+  "content" : "\"button\"tabindex",
+  "confidence" : 0.8214285714285714
+}, {
+  "id" : 1288,
+  "content" : "keydown:\"+_.u(\"i481le\")+\"",
+  "confidence" : 0.8214285714285714
+}, {
+  "id" : 1289,
+  "content" : "b?b:\"#616161\"",
+  "confidence" : 0.8214285714285714
+}, {
+  "id" : 1290,
+  "content" : "2&ctoken",
+  "confidence" : 0.8214285714285714
+}, {
+  "id" : 1291,
+  "content" : "24px&quot",
+  "confidence" : 0.8214285714285714
+}, {
+  "id" : 1292,
+  "content" : "a.xa,d",
+  "confidence" : 0.8214285714285714
+}, {
+  "id" : 1293,
+  "content" : "a.xa,e",
+  "confidence" : 0.8214285714285714
+}, {
+  "id" : 1294,
+  "content" : "_.g.getcontext",
+  "confidence" : 0.8214285714285714
+}, {
+  "id" : 1295,
+  "content" : "a.fill",
+  "confidence" : 0.8214285714285714
+}, {
+  "id" : 1296,
+  "content" : "a||\"\"}",
+  "confidence" : 0.8214285714285714
+}, {
+  "id" : 1297,
+  "content" : "tpopt.bh",
+  "confidence" : 0.8214285714285714
+}, {
+  "id" : 1298,
+  "content" : "function(a,b){this.f",
+  "confidence" : 0.8214285714285714
+}, {
+  "id" : 1299,
+  "content" : "><pathfill",
+  "confidence" : 0.8214285714285714
+}, {
+  "id" : 1300,
+  "content" : "viewbox",
+  "confidence" : 0.8214285714285714
+}, {
+  "id" : 1301,
+  "content" : "\"forward-page-slide\"",
+  "confidence" : 0.8214285714285714
+}, {
+  "id" : 1302,
+  "content" : "this.zb",
+  "confidence" : 0.8214285714285714
+}, {
+  "id" : 1303,
+  "content" : "this.xd",
+  "confidence" : 0.8214285714285714
+}, {
+  "id" : 1304,
+  "content" : "function(){_.t(this,1,void0)}",
+  "confidence" : 0.8214285714285714
+}, {
+  "id" : 1305,
+  "content" : "function(){_.ak.call(this)",
+  "confidence" : 0.8214285714285714
+}, {
+  "id" : 1306,
+  "content" : "http://www.w3.org/2000/svg&quot",
+  "confidence" : 0.8214285714285714
+}, {
+  "id" : 1307,
+  "content" : "stop-opacity",
+  "confidence" : 0.8214285714285714
+}, {
+  "id" : 1308,
+  "content" : "/><pathfill",
+  "confidence" : 0.8214285714285714
+}, {
+  "id" : 1309,
+  "content" : "><stopoffset",
+  "confidence" : 0.8214285714285714
+}, {
+  "id" : 1310,
+  "content" : "b?b:\"#757575\"",
+  "confidence" : 0.8214285714285714
+}, {
+  "id" : 1311,
+  "content" : "a.ia.le",
+  "confidence" : 0.8214285714285714
+}, {
+  "id" : 1312,
+  "content" : "a&&(d.j",
+  "confidence" : 0.8214285714285714
+}, {
+  "id" : 1313,
+  "content" : "a.ia.da",
+  "confidence" : 0.8214285714285714
+}, {
+  "id" : 1314,
+  "content" : "a&&(c.j",
+  "confidence" : 0.8214285714285714
+}, {
+  "id" : 1315,
+  "content" : "(0,_.h)('<divclass",
+  "confidence" : 0.8214285714285714
+}, {
+  "id" : 1316,
+  "content" : "new_.sn",
+  "confidence" : 0.8214285714285714
+}, {
+  "id" : 1317,
+  "content" : "new_.rl",
+  "confidence" : 0.8214285714285714
+}, {
+  "id" : 1318,
+  "content" : "new_.jm",
+  "confidence" : 0.8214285714285714
+}, {
+  "id" : 1319,
+  "content" : "\"true\"><pathd",
+  "confidence" : 0.8214285714285714
+}, {
+  "id" : 1320,
+  "content" : "function(){return_.r(this,2)}",
+  "confidence" : 0.8214285714285714
+}, {
+  "id" : 1321,
+  "content" : "function(){return_.r(this,1)}",
+  "confidence" : 0.8214285714285714
+}, {
+  "id" : 1322,
+  "content" : "function(){return_.r(this,4)}",
+  "confidence" : 0.8214285714285714
+}, {
+  "id" : 1323,
+  "content" : "\"\"+('<pclass",
+  "confidence" : 0.8214285714285714
+}, {
+  "id" : 1324,
+  "content" : "function(){return_.r(this,3)}",
+  "confidence" : 0.8214285714285714
+}, {
+  "id" : 1325,
+  "content" : "a.l.window.get()",
+  "confidence" : 0.8214285714285714
+}, {
+  "id" : 1326,
+  "content" : "gradientunits",
+  "confidence" : 0.8214285714285714
+}, {
+  "id" : 1327,
+  "content" : "this.oc",
+  "confidence" : 0.8214285714285714
+}, {
+  "id" : 1328,
+  "content" : "function(){return_.r(this,6)}",
+  "confidence" : 0.8214285714285714
+}, {
+  "id" : 1329,
+  "content" : "this.mc",
+  "confidence" : 0.8214285714285714
+}, {
+  "id" : 1330,
+  "content" : "this.jd",
+  "confidence" : 0.8214285714285714
+}, {
+  "id" : 1331,
+  "content" : "this.jl",
+  "confidence" : 0.8214285714285714
+}, {
+  "id" : 1332,
+  "content" : "this.bc",
+  "confidence" : 0.8214285714285714
+}, {
+  "id" : 1333,
+  "content" : "_.g.init",
+  "confidence" : 0.8214285714285714
+}, {
+  "id" : 1334,
+  "content" : "function(a,b){_.t(a,3,b)}",
+  "confidence" : 0.8214285714285714
+}, {
+  "id" : 1335,
+  "content" : "new_.tr(this)",
+  "confidence" : 0.8214285714285714
+}, {
+  "id" : 1336,
+  "content" : "function(){return_.r(this,7)}",
+  "confidence" : 0.8214285714285714
+}, {
+  "id" : 1337,
+  "content" : "\"002424\"width",
+  "confidence" : 0.8214285714285714
+}, {
+  "id" : 1338,
+  "content" : "_.ir",
+  "confidence" : 0.8214285714285714
+}, {
+  "id" : 1339,
+  "content" : "_.g.removeitem",
+  "confidence" : 0.8214285714285714
+}, {
+  "id" : 1340,
+  "content" : "\"'+_.u(a)+'px\"height",
+  "confidence" : 0.8214285714285714
+}, {
+  "id" : 1341,
+  "content" : "fill",
+  "confidence" : 0.8214285714285714
+}, {
+  "id" : 1342,
+  "content" : "b&&b()}",
+  "confidence" : 0.8214285714285714
+}, {
+  "id" : 1343,
+  "content" : "\"#000000\"height",
+  "confidence" : 0.8214285714285714
+}, {
+  "id" : 1344,
+  "content" : "d||(d",
+  "confidence" : 0.821256038647343
+}, {
+  "id" : 1345,
+  "content" : "_.hb",
+  "confidence" : 0.8212290502793296
+}, {
+  "id" : 1346,
+  "content" : "ch",
+  "confidence" : 0.8211382113821138
+}, {
+  "id" : 1347,
+  "content" : "\\\"\\\"class",
+  "confidence" : 0.8211382113821138
+}, {
+  "id" : 1348,
+  "content" : "c++){vare",
+  "confidence" : 0.8205980066445183
+}, {
+  "id" : 1349,
+  "content" : "wd",
+  "confidence" : 0.8198198198198198
+}, {
+  "id" : 1350,
+  "content" : "continue",
+  "confidence" : 0.8189655172413793
+}, {
+  "id" : 1351,
+  "content" : "varcm",
+  "confidence" : 0.8188976377952756
+}, {
+  "id" : 1352,
+  "content" : "_.ee",
+  "confidence" : 0.8188976377952756
+}, {
+  "id" : 1353,
+  "content" : "a.c",
+  "confidence" : 0.8174342105263158
+}, {
+  "id" : 1354,
+  "content" : "j[0]",
+  "confidence" : 0.8173913043478261
+}, {
+  "id" : 1355,
+  "content" : "this.xb",
+  "confidence" : 0.817258883248731
+}, {
+  "id" : 1356,
+  "content" : "function(){returnthis.a}",
+  "confidence" : 0.816969696969697
+}, {
+  "id" : 1357,
+  "content" : "this.a.length",
+  "confidence" : 0.8169014084507042
+}, {
+  "id" : 1358,
+  "content" : "c||b",
+  "confidence" : 0.8162230671736375
+}, {
+  "id" : 1359,
+  "content" : "params+",
+  "confidence" : 0.8161209068010076
+}, {
+  "id" : 1360,
+  "content" : "qj",
+  "confidence" : 0.8157894736842105
+}, {
+  "id" : 1361,
+  "content" : "function(){returnthis.g}",
+  "confidence" : 0.8156028368794326
+}, {
+  "id" : 1362,
+  "content" : "sh",
+  "confidence" : 0.8155339805825242
+}, {
+  "id" : 1363,
+  "content" : "url(#a)&quot",
+  "confidence" : 0.8154981549815498
+}, {
+  "id" : 1364,
+  "content" : "varja",
+  "confidence" : 0.815028901734104
+}, {
+  "id" : 1365,
+  "content" : "\"http://www.w3.org/2000/svg\"aria-hidden",
+  "confidence" : 0.8148148148148148
+}, {
+  "id" : 1366,
+  "content" : "\"https://www.w3.org/2000/svg\"class",
+  "confidence" : 0.8148148148148148
+}, {
+  "id" : 1367,
+  "content" : "\"https://www.w3.org/2000/svg\"width",
+  "confidence" : 0.8148148148148148
+}, {
+  "id" : 1368,
+  "content" : "\"https://www.w3.org/2000/svg\"><pathd",
+  "confidence" : 0.8148148148148148
+}, {
+  "id" : 1369,
+  "content" : "\"https://www.w3.org/2000/svg\"aria-hidden",
+  "confidence" : 0.8148148148148148
+}, {
+  "id" : 1370,
+  "content" : "_.g.kf",
+  "confidence" : 0.8141592920353983
+}, {
+  "id" : 1371,
+  "content" : "_.g.wd",
+  "confidence" : 0.8141592920353983
+}, {
+  "id" : 1372,
+  "content" : "this.a[a]",
+  "confidence" : 0.8141592920353983
+}, {
+  "id" : 1373,
+  "content" : "a.f[b]",
+  "confidence" : 0.8141592920353983
+}, {
+  "id" : 1374,
+  "content" : "_.xe",
+  "confidence" : 0.8136645962732919
+}, {
+  "id" : 1375,
+  "content" : "\"true\"width",
+  "confidence" : 0.8131970260223048
+}, {
+  "id" : 1376,
+  "content" : "this.jc",
+  "confidence" : 0.8131313131313131
+}, {
+  "id" : 1377,
+  "content" : "\"width\"",
+  "confidence" : 0.8130081300813008
+}, {
+  "id" : 1378,
+  "content" : "c||\"\"",
+  "confidence" : 0.811965811965812
+}, {
+  "id" : 1379,
+  "content" : "\"24\"viewbox",
+  "confidence" : 0.8117647058823529
+}, {
+  "id" : 1380,
+  "content" : "la(a)",
+  "confidence" : 0.8117647058823529
+}, {
+  "id" : 1381,
+  "content" : "varam",
+  "confidence" : 0.8111888111888111
+}, {
+  "id" : 1382,
+  "content" : "function(a){for(varb",
+  "confidence" : 0.8108340498710233
+}, {
+  "id" : 1383,
+  "content" : "_.eg",
+  "confidence" : 0.8090909090909091
+}, {
+  "id" : 1384,
+  "content" : "function(){returnnull!",
+  "confidence" : 0.808695652173913
+}, {
+  "id" : 1385,
+  "content" : "ce",
+  "confidence" : 0.8083333333333333
+}, {
+  "id" : 1386,
+  "content" : "\"><divstyle",
+  "confidence" : 0.8083333333333333
+}, {
+  "id" : 1387,
+  "content" : "_.h",
+  "confidence" : 0.8078055964653903
+}, {
+  "id" : 1388,
+  "content" : "a.$c",
+  "confidence" : 0.8070175438596491
+}, {
+  "id" : 1389,
+  "content" : "a.g",
+  "confidence" : 0.8066298342541437
+}, {
+  "id" : 1390,
+  "content" : "f[b]",
+  "confidence" : 0.8064516129032258
+}, {
+  "id" : 1391,
+  "content" : "a.ka",
+  "confidence" : 0.806060606060606
+}, {
+  "id" : 1392,
+  "content" : "varde",
+  "confidence" : 0.8055555555555556
+}, {
+  "id" : 1393,
+  "content" : "$(\"input[name",
+  "confidence" : 0.8047337278106509
+}, {
+  "id" : 1394,
+  "content" : "a.width",
+  "confidence" : 0.8042752171008684
+}, {
+  "id" : 1395,
+  "content" : "function(a){this.o",
+  "confidence" : 0.8032786885245902
+}, {
+  "id" : 1396,
+  "content" : "a.xa",
+  "confidence" : 0.8031746031746032
+}, {
+  "id" : 1397,
+  "content" : "c,c",
+  "confidence" : 0.8025682182985554
+}, {
+  "id" : 1398,
+  "content" : "_.fh",
+  "confidence" : 0.8018867924528302
+}, {
+  "id" : 1399,
+  "content" : "if(b)returnb",
+  "confidence" : 0.8017241379310345
+}, {
+  "id" : 1400,
+  "content" : "a.a[b]",
+  "confidence" : 0.8017241379310345
+}, {
+  "id" : 1401,
+  "content" : "_.g.xc",
+  "confidence" : 0.8009950248756219
+}, {
+  "id" : 1402,
+  "content" : "_.g.set",
+  "confidence" : 0.8009950248756219
+}, {
+  "id" : 1403,
+  "content" : "\"click\"",
+  "confidence" : 0.8008298755186722
+}, {
+  "id" : 1404,
+  "content" : "_.g.oa",
+  "confidence" : 0.8
+}, {
+  "id" : 1405,
+  "content" : "_.g.mf",
+  "confidence" : 0.8
+}, {
+  "id" : 1406,
+  "content" : "_.g.jf",
+  "confidence" : 0.8
+}, {
+  "id" : 1407,
+  "content" : "elseif(c",
+  "confidence" : 0.8
+}, {
+  "id" : 1408,
+  "content" : "function(){returnthis.$}",
+  "confidence" : 0.8
+}, {
+  "id" : 1409,
+  "content" : "function(a){return(a",
+  "confidence" : 0.8
+}, {
+  "id" : 1410,
+  "content" : "if(key",
+  "confidence" : 0.8
+}, {
+  "id" : 1411,
+  "content" : "function(a,b,c){a.a||(a.a",
+  "confidence" : 0.8
+}, {
+  "id" : 1412,
+  "content" : "e&&(d",
+  "confidence" : 0.7988505747126436
+}, {
+  "id" : 1413,
+  "content" : "returnc})",
+  "confidence" : 0.7982646420824295
+}, {
+  "id" : 1414,
+  "content" : "\"clickkey\"",
+  "confidence" : 0.7980769230769231
+}, {
+  "id" : 1415,
+  "content" : "a.r",
+  "confidence" : 0.7971014492753623
+}, {
+  "id" : 1416,
+  "content" : "function(a,b,c){b",
+  "confidence" : 0.7965517241379311
+}, {
+  "id" : 1417,
+  "content" : "(b",
+  "confidence" : 0.7961859356376639
+}, {
+  "id" : 1418,
+  "content" : "a.value",
+  "confidence" : 0.7959183673469388
+}, {
+  "id" : 1419,
+  "content" : "_.g.clear",
+  "confidence" : 0.7958477508650519
+}, {
+  "id" : 1420,
+  "content" : "try{m",
+  "confidence" : 0.7956204379562044
+}, {
+  "id" : 1421,
+  "content" : "b.o",
+  "confidence" : 0.7943262411347518
+}, {
+  "id" : 1422,
+  "content" : "function(a){this.a",
+  "confidence" : 0.7943262411347518
+}, {
+  "id" : 1423,
+  "content" : "a.i",
+  "confidence" : 0.7939914163090128
+}, {
+  "id" : 1424,
+  "content" : "'')",
+  "confidence" : 0.7934782608695652
+}, {
+  "id" : 1425,
+  "content" : "y1",
+  "confidence" : 0.7931034482758621
+}, {
+  "id" : 1426,
+  "content" : "_.g.getdata",
+  "confidence" : 0.7931034482758621
+}, {
+  "id" : 1427,
+  "content" : "true)",
+  "confidence" : 0.7931034482758621
+}, {
+  "id" : 1428,
+  "content" : "_.g.ze",
+  "confidence" : 0.7931034482758621
+}, {
+  "id" : 1429,
+  "content" : "_.g.start",
+  "confidence" : 0.7931034482758621
+}, {
+  "id" : 1430,
+  "content" : "this.$a",
+  "confidence" : 0.7931034482758621
+}, {
+  "id" : 1431,
+  "content" : "b.c",
+  "confidence" : 0.7924528301886793
+}, {
+  "id" : 1432,
+  "content" : "_.mc",
+  "confidence" : 0.7901234567901234
+}, {
+  "id" : 1433,
+  "content" : "this.ea",
+  "confidence" : 0.7898089171974523
+}, {
+  "id" : 1434,
+  "content" : "function(a,b){a",
+  "confidence" : 0.7889688249400479
+}, {
+  "id" : 1435,
+  "content" : "if(!(a",
+  "confidence" : 0.7884615384615384
+}, {
+  "id" : 1436,
+  "content" : "for(f",
+  "confidence" : 0.7883472057074911
+}, {
+  "id" : 1437,
+  "content" : "function(a){this.f",
+  "confidence" : 0.7878787878787878
+}, {
+  "id" : 1438,
+  "content" : "a<f.length",
+  "confidence" : 0.7876712328767124
+}, {
+  "id" : 1439,
+  "content" : "_.be",
+  "confidence" : 0.7876106194690266
+}, {
+  "id" : 1440,
+  "content" : "b.b",
+  "confidence" : 0.7870967741935484
+}, {
+  "id" : 1441,
+  "content" : "this.pb",
+  "confidence" : 0.7866108786610879
+}, {
+  "id" : 1442,
+  "content" : "bn",
+  "confidence" : 0.7864077669902912
+}, {
+  "id" : 1443,
+  "content" : "_.g.focus",
+  "confidence" : 0.7863247863247863
+}, {
+  "id" : 1444,
+  "content" : "_.g.abort",
+  "confidence" : 0.7863247863247863
+}, {
+  "id" : 1445,
+  "content" : "function(a,b){return(a",
+  "confidence" : 0.7863247863247863
+}, {
+  "id" : 1446,
+  "content" : "_.g.show",
+  "confidence" : 0.7863247863247863
+}, {
+  "id" : 1447,
+  "content" : "_.g.stop",
+  "confidence" : 0.7863247863247863
+}, {
+  "id" : 1448,
+  "content" : "return\"string\"!",
+  "confidence" : 0.7853403141361257
+}, {
+  "id" : 1449,
+  "content" : "this.$",
+  "confidence" : 0.7852852852852853
+}, {
+  "id" : 1450,
+  "content" : "_.ha",
+  "confidence" : 0.7852233676975945
+}, {
+  "id" : 1451,
+  "content" : "return0!",
+  "confidence" : 0.7848101265822784
+}, {
+  "id" : 1452,
+  "content" : "a&&(a",
+  "confidence" : 0.7833333333333333
+}, {
+  "id" : 1453,
+  "content" : "this.nodetype||9",
+  "confidence" : 0.7833333333333333
+}, {
+  "id" : 1454,
+  "content" : "0,left",
+  "confidence" : 0.7833333333333333
+}, {
+  "id" : 1455,
+  "content" : "this.nodetype||11",
+  "confidence" : 0.7833333333333333
+}, {
+  "id" : 1456,
+  "content" : "return!0}",
+  "confidence" : 0.7832512315270936
+}, {
+  "id" : 1457,
+  "content" : "!0,b",
+  "confidence" : 0.7831858407079646
+}, {
+  "id" : 1458,
+  "content" : "b&&(b",
+  "confidence" : 0.7831775700934579
+}, {
+  "id" : 1459,
+  "content" : "\"'",
+  "confidence" : 0.782608695652174
+}, {
+  "id" : 1460,
+  "content" : "_.pd",
+  "confidence" : 0.782608695652174
+}, {
+  "id" : 1461,
+  "content" : "_.tg",
+  "confidence" : 0.782608695652174
+}, {
+  "id" : 1462,
+  "content" : "y2",
+  "confidence" : 0.782312925170068
+}, {
+  "id" : 1463,
+  "content" : "varresult",
+  "confidence" : 0.7820069204152249
+}, {
+  "id" : 1464,
+  "content" : "e--",
+  "confidence" : 0.7818627450980392
+}, {
+  "id" : 1465,
+  "content" : "_.g.get",
+  "confidence" : 0.7815533980582524
+}, {
+  "id" : 1466,
+  "content" : "_.xf",
+  "confidence" : 0.7804878048780488
+}, {
+  "id" : 1467,
+  "content" : "\"submit\"name",
+  "confidence" : 0.7800586510263929
+}, {
+  "id" : 1468,
+  "content" : "varvd",
+  "confidence" : 0.78
+}, {
+  "id" : 1469,
+  "content" : "_.k.ad",
+  "confidence" : 0.7793103448275862
+}, {
+  "id" : 1470,
+  "content" : "if(f",
+  "confidence" : 0.7777777777777778
+}, {
+  "id" : 1471,
+  "content" : "a||{}",
+  "confidence" : 0.7772785622593068
+}, {
+  "id" : 1472,
+  "content" : "b.target",
+  "confidence" : 0.7767857142857143
+}, {
+  "id" : 1473,
+  "content" : "0,b",
+  "confidence" : 0.7760416666666666
+}, {
+  "id" : 1474,
+  "content" : "b||null",
+  "confidence" : 0.7757009345794392
+}, {
+  "id" : 1475,
+  "content" : "b.parentnode",
+  "confidence" : 0.7755102040816326
+}, {
+  "id" : 1476,
+  "content" : "c.onreadystatechange",
+  "confidence" : 0.7754010695187166
+}, {
+  "id" : 1477,
+  "content" : "padding:1px",
+  "confidence" : 0.7751937984496124
+}, {
+  "id" : 1478,
+  "content" : "function(){returnthis.f}",
+  "confidence" : 0.7751937984496124
+}, {
+  "id" : 1479,
+  "content" : "this.ya",
+  "confidence" : 0.774869109947644
+}, {
+  "id" : 1480,
+  "content" : "function(){this.f",
+  "confidence" : 0.7739130434782608
+}, {
+  "id" : 1481,
+  "content" : "c||{}",
+  "confidence" : 0.7735849056603774
+}, {
+  "id" : 1482,
+  "content" : "a.j",
+  "confidence" : 0.7735191637630662
+}, {
+  "id" : 1483,
+  "content" : "_.fe",
+  "confidence" : 0.7727272727272727
+}, {
+  "id" : 1484,
+  "content" : "_.ul",
+  "confidence" : 0.7722222222222223
+}, {
+  "id" : 1485,
+  "content" : "_.g",
+  "confidence" : 0.772020725388601
+}, {
+  "id" : 1486,
+  "content" : "if(c)for(g",
+  "confidence" : 0.7719298245614035
+}, {
+  "id" : 1487,
+  "content" : "function(){return!0}",
+  "confidence" : 0.7710280373831776
+}, {
+  "id" : 1488,
+  "content" : "hc",
+  "confidence" : 0.770949720670391
+}, {
+  "id" : 1489,
+  "content" : "c.parentnode",
+  "confidence" : 0.7708333333333334
+}, {
+  "id" : 1490,
+  "content" : "b.a",
+  "confidence" : 0.7706766917293233
+}, {
+  "id" : 1491,
+  "content" : "function(a,b,c,d){vare",
+  "confidence" : 0.7705570291777188
+}, {
+  "id" : 1492,
+  "content" : "this.a",
+  "confidence" : 0.7697659709044908
+}, {
+  "id" : 1493,
+  "content" : "q+",
+  "confidence" : 0.7689243027888446
+}, {
+  "id" : 1494,
+  "content" : "b)",
+  "confidence" : 0.7687569988801791
+}, {
+  "id" : 1495,
+  "content" : "a.parentnode)",
+  "confidence" : 0.7685185185185185
+}, {
+  "id" : 1496,
+  "content" : "varrd",
+  "confidence" : 0.768
+}, {
+  "id" : 1497,
+  "content" : "\"\",r",
+  "confidence" : 0.768
+}, {
+  "id" : 1498,
+  "content" : "c||\"number\"",
+  "confidence" : 0.7670454545454546
+}, {
+  "id" : 1499,
+  "content" : "for(k",
+  "confidence" : 0.7670454545454546
+}, {
+  "id" : 1500,
+  "content" : "[3]",
+  "confidence" : 0.7666666666666667
+}, {
+  "id" : 1501,
+  "content" : "a.event",
+  "confidence" : 0.7666666666666667
+}, {
+  "id" : 1502,
+  "content" : "vl",
+  "confidence" : 0.7664670658682635
+}, {
+  "id" : 1503,
+  "content" : "_.wh",
+  "confidence" : 0.7664670658682635
+}, {
+  "id" : 1504,
+  "content" : "a.$",
+  "confidence" : 0.7655677655677655
+}, {
+  "id" : 1505,
+  "content" : "function(a,b,c,d){a",
+  "confidence" : 0.7638888888888888
+}, {
+  "id" : 1506,
+  "content" : "function(a){if(null",
+  "confidence" : 0.7634408602150538
+}, {
+  "id" : 1507,
+  "content" : "_.uh",
+  "confidence" : 0.7630057803468208
+}, {
+  "id" : 1508,
+  "content" : "\"en-us\"",
+  "confidence" : 0.7619047619047619
+}, {
+  "id" : 1509,
+  "content" : "jb",
+  "confidence" : 0.7614213197969543
+}, {
+  "id" : 1510,
+  "content" : "this.jb",
+  "confidence" : 0.7612612612612613
+}, {
+  "id" : 1511,
+  "content" : "_.bh",
+  "confidence" : 0.7606837606837606
+}, {
+  "id" : 1512,
+  "content" : "a})}",
+  "confidence" : 0.7603305785123967
+}, {
+  "id" : 1513,
+  "content" : "function(a,b,c){a",
+  "confidence" : 0.76
+}, {
+  "id" : 1514,
+  "content" : "location",
+  "confidence" : 0.7596899224806202
+}, {
+  "id" : 1515,
+  "content" : "a.style",
+  "confidence" : 0.7596153846153846
+}, {
+  "id" : 1516,
+  "content" : "_.db",
+  "confidence" : 0.7595628415300546
+}, {
+  "id" : 1517,
+  "content" : "returnnull}",
+  "confidence" : 0.759493670886076
+}, {
+  "id" : 1518,
+  "content" : "k",
+  "confidence" : 0.7566803699897225
+}, {
+  "id" : 1519,
+  "content" : "0,k",
+  "confidence" : 0.7562862669245648
+}, {
+  "id" : 1520,
+  "content" : "function(){returnthis.o}",
+  "confidence" : 0.7562189054726368
+}, {
+  "id" : 1521,
+  "content" : "returnf}",
+  "confidence" : 0.7559055118110236
+}, {
+  "id" : 1522,
+  "content" : "b.prototype",
+  "confidence" : 0.7557755775577558
+}, {
+  "id" : 1523,
+  "content" : "a.a",
+  "confidence" : 0.7557195571955719
+}, {
+  "id" : 1524,
+  "content" : "a[c]",
+  "confidence" : 0.7555555555555555
+}, {
+  "id" : 1525,
+  "content" : "xb",
+  "confidence" : 0.7547169811320755
+}, {
+  "id" : 1526,
+  "content" : "\"s\"",
+  "confidence" : 0.7547169811320755
+}, {
+  "id" : 1527,
+  "content" : "-1)?true:false",
+  "confidence" : 0.7547169811320755
+}, {
+  "id" : 1528,
+  "content" : "this.i",
+  "confidence" : 0.7543071161048689
+}, {
+  "id" : 1529,
+  "content" : "c[b]",
+  "confidence" : 0.7542662116040956
+}, {
+  "id" : 1530,
+  "content" : "function(a,b,c){c",
+  "confidence" : 0.7540983606557377
+}, {
+  "id" : 1531,
+  "content" : "function(a,b,c){if(null",
+  "confidence" : 0.7540983606557377
+}, {
+  "id" : 1532,
+  "content" : "g>f",
+  "confidence" : 0.753968253968254
+}, {
+  "id" : 1533,
+  "content" : "a)}",
+  "confidence" : 0.7531645569620253
+}, {
+  "id" : 1534,
+  "content" : "e[f]",
+  "confidence" : 0.7522522522522522
+}, {
+  "id" : 1535,
+  "content" : "_.me",
+  "confidence" : 0.7522123893805309
+}, {
+  "id" : 1536,
+  "content" : "sg",
+  "confidence" : 0.751937984496124
+}, {
+  "id" : 1537,
+  "content" : "return1",
+  "confidence" : 0.7518796992481203
+}, {
+  "id" : 1538,
+  "content" : "a.a[c]",
+  "confidence" : 0.7512437810945274
+}, {
+  "id" : 1539,
+  "content" : "return\"input\"",
+  "confidence" : 0.7512437810945274
+}, {
+  "id" : 1540,
+  "content" : "1!",
+  "confidence" : 0.7507163323782235
+}, {
+  "id" : 1541,
+  "content" : ")a",
+  "confidence" : 0.75
+}, {
+  "id" : 1542,
+  "content" : "typeofa&&(a",
+  "confidence" : 0.75
+}, {
+  "id" : 1543,
+  "content" : "f<b.length",
+  "confidence" : 0.75
+}, {
+  "id" : 1544,
+  "content" : "this.f",
+  "confidence" : 0.7496481351161154
+}, {
+  "id" : 1545,
+  "content" : "{},k",
+  "confidence" : 0.7487437185929648
+}, {
+  "id" : 1546,
+  "content" : "h.length",
+  "confidence" : 0.7480314960629921
+}, {
+  "id" : 1547,
+  "content" : "a&&a!",
+  "confidence" : 0.7478991596638656
+}, {
+  "id" : 1548,
+  "content" : "function(a,b){varc",
+  "confidence" : 0.7474982130092923
+}, {
+  "id" : 1549,
+  "content" : "_.g.clone",
+  "confidence" : 0.7472924187725631
+}, {
+  "id" : 1550,
+  "content" : "function(a){varb",
+  "confidence" : 0.7470617654413604
+}, {
+  "id" : 1551,
+  "content" : "_.th",
+  "confidence" : 0.7465753424657534
+}, {
+  "id" : 1552,
+  "content" : "\"radio\"id",
+  "confidence" : 0.7464788732394366
+}, {
+  "id" : 1553,
+  "content" : "c--",
+  "confidence" : 0.7458745874587459
+}, {
+  "id" : 1554,
+  "content" : "[])}",
+  "confidence" : 0.7456140350877193
+}, {
+  "id" : 1555,
+  "content" : "else{varf",
+  "confidence" : 0.7455357142857143
+}, {
+  "id" : 1556,
+  "content" : "'style",
+  "confidence" : 0.7449664429530202
+}, {
+  "id" : 1557,
+  "content" : "0,v",
+  "confidence" : 0.7443609022556391
+}, {
+  "id" : 1558,
+  "content" : "this.ba",
+  "confidence" : 0.7440147329650092
+}, {
+  "id" : 1559,
+  "content" : "function(a,b,c){for(vard",
+  "confidence" : 0.7435897435897436
+}, {
+  "id" : 1560,
+  "content" : "this.pa",
+  "confidence" : 0.743455497382199
+}, {
+  "id" : 1561,
+  "content" : "_.ec",
+  "confidence" : 0.7433155080213903
+}, {
+  "id" : 1562,
+  "content" : "a.o",
+  "confidence" : 0.7430910951893551
+}, {
+  "id" : 1563,
+  "content" : "newd",
+  "confidence" : 0.7421875
+}, {
+  "id" : 1564,
+  "content" : "function(a,b,c){vard",
+  "confidence" : 0.742152466367713
+}, {
+  "id" : 1565,
+  "content" : "this.message",
+  "confidence" : 0.7419354838709677
+}, {
+  "id" : 1566,
+  "content" : "_.hg",
+  "confidence" : 0.7416666666666667
+}, {
+  "id" : 1567,
+  "content" : "jc",
+  "confidence" : 0.7412587412587412
+}, {
+  "id" : 1568,
+  "content" : "this.b[a]",
+  "confidence" : 0.7401129943502824
+}, {
+  "id" : 1569,
+  "content" : "e<d",
+  "confidence" : 0.7398373983739838
+}, {
+  "id" : 1570,
+  "content" : "varzg",
+  "confidence" : 0.7397260273972602
+}, {
+  "id" : 1571,
+  "content" : "b||0",
+  "confidence" : 0.7393939393939394
+}, {
+  "id" : 1572,
+  "content" : "_.md",
+  "confidence" : 0.7391304347826086
+}, {
+  "id" : 1573,
+  "content" : "_.ab",
+  "confidence" : 0.7386934673366834
+}, {
+  "id" : 1574,
+  "content" : "d[a]",
+  "confidence" : 0.7384615384615385
+}, {
+  "id" : 1575,
+  "content" : "d.a",
+  "confidence" : 0.7375886524822695
+}, {
+  "id" : 1576,
+  "content" : "b}",
+  "confidence" : 0.7375
+}, {
+  "id" : 1577,
+  "content" : "_.dc",
+  "confidence" : 0.7371134020618557
+}, {
+  "id" : 1578,
+  "content" : "_.vc",
+  "confidence" : 0.7371134020618557
+}, {
+  "id" : 1579,
+  "content" : "_.oj",
+  "confidence" : 0.736
+}, {
+  "id" : 1580,
+  "content" : "c.document",
+  "confidence" : 0.7355371900826446
+}, {
+  "id" : 1581,
+  "content" : "returna",
+  "confidence" : 0.7354651162790697
+}, {
+  "id" : 1582,
+  "content" : "_.zb",
+  "confidence" : 0.7341772151898734
+}, {
+  "id" : 1583,
+  "content" : "_.ld",
+  "confidence" : 0.7333333333333333
+}, {
+  "id" : 1584,
+  "content" : "(f",
+  "confidence" : 0.7329974811083123
+}, {
+  "id" : 1585,
+  "content" : "d+",
+  "confidence" : 0.7324290998766955
+}, {
+  "id" : 1586,
+  "content" : "}}catch(e){}",
+  "confidence" : 0.7318840579710145
+}, {
+  "id" : 1587,
+  "content" : "'<divid",
+  "confidence" : 0.7316455696202532
+}, {
+  "id" : 1588,
+  "content" : "for(g",
+  "confidence" : 0.7315573770491803
+}, {
+  "id" : 1589,
+  "content" : "return!1}",
+  "confidence" : 0.7312977099236642
+}, {
+  "id" : 1590,
+  "content" : "}).call(this)",
+  "confidence" : 0.7312072892938497
+}, {
+  "id" : 1591,
+  "content" : "this.c",
+  "confidence" : 0.7311801845556095
+}, {
+  "id" : 1592,
+  "content" : "(p",
+  "confidence" : 0.7307032590051458
+}, {
+  "id" : 1593,
+  "content" : "_.g.ra",
+  "confidence" : 0.7301587301587301
+}, {
+  "id" : 1594,
+  "content" : "_.g.remove",
+  "confidence" : 0.7301587301587301
+}, {
+  "id" : 1595,
+  "content" : "if(c",
+  "confidence" : 0.7296037296037297
+}, {
+  "id" : 1596,
+  "content" : "_.eb",
+  "confidence" : 0.7295597484276729
+}, {
+  "id" : 1597,
+  "content" : "_.lf",
+  "confidence" : 0.7293233082706767
+}, {
+  "id" : 1598,
+  "content" : "fb",
+  "confidence" : 0.7286821705426356
+}, {
+  "id" : 1599,
+  "content" : "ba",
+  "confidence" : 0.7282051282051282
+}, {
+  "id" : 1600,
+  "content" : "returnb}",
+  "confidence" : 0.7278592375366569
+}, {
+  "id" : 1601,
+  "content" : "d!",
+  "confidence" : 0.7278481012658228
+}, {
+  "id" : 1602,
+  "content" : "a.indexof(\"#\")",
+  "confidence" : 0.7272727272727273
+}, {
+  "id" : 1603,
+  "content" : "varnl",
+  "confidence" : 0.7272727272727273
+}, {
+  "id" : 1604,
+  "content" : "varwd",
+  "confidence" : 0.7272727272727273
+}, {
+  "id" : 1605,
+  "content" : "this.g",
+  "confidence" : 0.7266811279826464
+}, {
+  "id" : 1606,
+  "content" : "function(a,b){for(varc",
+  "confidence" : 0.7265353418308227
+}, {
+  "id" : 1607,
+  "content" : "sd",
+  "confidence" : 0.7264957264957265
+}, {
+  "id" : 1608,
+  "content" : "e[0]",
+  "confidence" : 0.7261904761904762
+}, {
+  "id" : 1609,
+  "content" : "this.b&&(this.b",
+  "confidence" : 0.7248322147651006
+}, {
+  "id" : 1610,
+  "content" : "d?c",
+  "confidence" : 0.7248322147651006
+}, {
+  "id" : 1611,
+  "content" : "elsee",
+  "confidence" : 0.7248322147651006
+}, {
+  "id" : 1612,
+  "content" : "width:1px",
+  "confidence" : 0.7241379310344828
+}, {
+  "id" : 1613,
+  "content" : "varoe",
+  "confidence" : 0.7241379310344828
+}, {
+  "id" : 1614,
+  "content" : "_.pf",
+  "confidence" : 0.7241379310344828
+}, {
+  "id" : 1615,
+  "content" : "(a",
+  "confidence" : 0.7239776951672863
+}, {
+  "id" : 1616,
+  "content" : "ed",
+  "confidence" : 0.7238805970149254
+}, {
+  "id" : 1617,
+  "content" : "_.oh",
+  "confidence" : 0.7238805970149254
+}, {
+  "id" : 1618,
+  "content" : "else{vard",
+  "confidence" : 0.7232472324723247
+}, {
+  "id" : 1619,
+  "content" : "(c",
+  "confidence" : 0.7229862475442044
+}, {
+  "id" : 1620,
+  "content" : "_.ue",
+  "confidence" : 0.7228915662650602
+}, {
+  "id" : 1621,
+  "content" : "!!d",
+  "confidence" : 0.7228260869565217
+}, {
+  "id" : 1622,
+  "content" : "i++)x",
+  "confidence" : 0.7227722772277227
+}, {
+  "id" : 1623,
+  "content" : "&quot",
+  "confidence" : 0.7224443175328383
+}, {
+  "id" : 1624,
+  "content" : "b[f]",
+  "confidence" : 0.7224080267558528
+}, {
+  "id" : 1625,
+  "content" : "b[a]",
+  "confidence" : 0.7218045112781954
+}, {
+  "id" : 1626,
+  "content" : "e++){f",
+  "confidence" : 0.7217391304347827
+}, {
+  "id" : 1627,
+  "content" : "d<b",
+  "confidence" : 0.7214285714285714
+}, {
+  "id" : 1628,
+  "content" : "a})",
+  "confidence" : 0.7212543554006968
+}, {
+  "id" : 1629,
+  "content" : "a.target",
+  "confidence" : 0.7212230215827338
+}, {
+  "id" : 1630,
+  "content" : "function(a,b){for(",
+  "confidence" : 0.7204968944099379
+}, {
+  "id" : 1631,
+  "content" : "this.originalevent",
+  "confidence" : 0.7194244604316546
+}, {
+  "id" : 1632,
+  "content" : "a.charcodeat(0)",
+  "confidence" : 0.7192982456140351
+}, {
+  "id" : 1633,
+  "content" : "//googleinc.",
+  "confidence" : 0.7192982456140351
+}, {
+  "id" : 1634,
+  "content" : "none&quot",
+  "confidence" : 0.71875
+}, {
+  "id" : 1635,
+  "content" : "a.nodename.tolowercase()",
+  "confidence" : 0.7185185185185186
+}, {
+  "id" : 1636,
+  "content" : "!1!",
+  "confidence" : 0.7180616740088106
+}, {
+  "id" : 1637,
+  "content" : "function(a){a",
+  "confidence" : 0.7173089071383449
+}, {
+  "id" : 1638,
+  "content" : "function(a){a.o",
+  "confidence" : 0.7168141592920354
+}, {
+  "id" : 1639,
+  "content" : "a.b.length",
+  "confidence" : 0.7168141592920354
+}, {
+  "id" : 1640,
+  "content" : "_.se",
+  "confidence" : 0.7160493827160493
+}, {
+  "id" : 1641,
+  "content" : "function(){return!1}",
+  "confidence" : 0.7156862745098039
+}, {
+  "id" : 1642,
+  "content" : "_.oa",
+  "confidence" : 0.7153846153846154
+}, {
+  "id" : 1643,
+  "content" : "if(d){vare",
+  "confidence" : 0.7152317880794702
+}, {
+  "id" : 1644,
+  "content" : "a||window",
+  "confidence" : 0.7152317880794702
+}, {
+  "id" : 1645,
+  "content" : "a.data",
+  "confidence" : 0.7142857142857143
+}, {
+  "id" : 1646,
+  "content" : "default:d",
+  "confidence" : 0.7142857142857143
+}, {
+  "id" : 1647,
+  "content" : "result",
+  "confidence" : 0.7135678391959799
+}, {
+  "id" : 1648,
+  "content" : "this.fa",
+  "confidence" : 0.7135416666666666
+}, {
+  "id" : 1649,
+  "content" : "background-repeat:no-repeat",
+  "confidence" : 0.7131782945736435
+}, {
+  "id" : 1650,
+  "content" : "/*_globalprefix_*/this.gbar_",
+  "confidence" : 0.7130434782608696
+}, {
+  "id" : 1651,
+  "content" : "_.qh",
+  "confidence" : 0.7126436781609196
+}, {
+  "id" : 1652,
+  "content" : "a.nodetype",
+  "confidence" : 0.7125506072874493
+}, {
+  "id" : 1653,
+  "content" : "a)return!0",
+  "confidence" : 0.7114624505928854
+}, {
+  "id" : 1654,
+  "content" : "c.o",
+  "confidence" : 0.7113821138211383
+}, {
+  "id" : 1655,
+  "content" : "this.ha",
+  "confidence" : 0.7112903225806452
+}, {
+  "id" : 1656,
+  "content" : "b.f",
+  "confidence" : 0.7112676056338029
+}, {
+  "id" : 1657,
+  "content" : "d.o",
+  "confidence" : 0.7111111111111111
+}, {
+  "id" : 1658,
+  "content" : "varqb",
+  "confidence" : 0.7105263157894737
+}, {
+  "id" : 1659,
+  "content" : "deletethis.a",
+  "confidence" : 0.7105263157894737
+}, {
+  "id" : 1660,
+  "content" : "_.$b",
+  "confidence" : 0.7105263157894737
+}, {
+  "id" : 1661,
+  "content" : "function(a,b,c,d,e){varf",
+  "confidence" : 0.7104247104247104
+}, {
+  "id" : 1662,
+  "content" : "0}",
+  "confidence" : 0.7101584342963654
+}, {
+  "id" : 1663,
+  "content" : "if(self",
+  "confidence" : 0.7100591715976331
+}, {
+  "id" : 1664,
+  "content" : "0,location",
+  "confidence" : 0.71
+}, {
+  "id" : 1665,
+  "content" : "_.nc",
+  "confidence" : 0.7099236641221374
+}, {
+  "id" : 1666,
+  "content" : "_.yh",
+  "confidence" : 0.7099236641221374
+}, {
+  "id" : 1667,
+  "content" : "_.zh",
+  "confidence" : 0.7099236641221374
+}, {
+  "id" : 1668,
+  "content" : "function(a,b){b",
+  "confidence" : 0.7099023709902371
+}, {
+  "id" : 1669,
+  "content" : "x1",
+  "confidence" : 0.7098765432098766
+}, {
+  "id" : 1670,
+  "content" : "</span><spanclass",
+  "confidence" : 0.7094972067039106
+}, {
+  "id" : 1671,
+  "content" : "c[d],f",
+  "confidence" : 0.7094594594594594
+}, {
+  "id" : 1672,
+  "content" : "x2",
+  "confidence" : 0.7090909090909091
+}, {
+  "id" : 1673,
+  "content" : "\"\",t",
+  "confidence" : 0.7074829931972789
+}, {
+  "id" : 1674,
+  "content" : "q",
+  "confidence" : 0.7069560927479033
+}, {
+  "id" : 1675,
+  "content" : "for(varx",
+  "confidence" : 0.7067448680351907
+}, {
+  "id" : 1676,
+  "content" : "a.tolowercase()",
+  "confidence" : 0.7067307692307693
+}, {
+  "id" : 1677,
+  "content" : "navigator.appname",
+  "confidence" : 0.7064220183486238
+}, {
+  "id" : 1678,
+  "content" : "c&&(b",
+  "confidence" : 0.7062146892655368
+}, {
+  "id" : 1679,
+  "content" : "for(l",
+  "confidence" : 0.7058823529411765
+}, {
+  "id" : 1680,
+  "content" : "_.of",
+  "confidence" : 0.7058823529411765
+}, {
+  "id" : 1681,
+  "content" : "b",
+  "confidence" : 0.7055108760187834
+}, {
+  "id" : 1682,
+  "content" : "newc",
+  "confidence" : 0.7054263565891473
+}, {
+  "id" : 1683,
+  "content" : "returnb",
+  "confidence" : 0.7050359712230215
+}, {
+  "id" : 1684,
+  "content" : "_.dd",
+  "confidence" : 0.7044025157232704
+}, {
+  "id" : 1685,
+  "content" : "_.yf",
+  "confidence" : 0.7043478260869566
+}, {
+  "id" : 1686,
+  "content" : "_.pb",
+  "confidence" : 0.7043010752688172
+}, {
+  "id" : 1687,
+  "content" : "!1)",
+  "confidence" : 0.7031602708803611
+}, {
+  "id" : 1688,
+  "content" : "null}",
+  "confidence" : 0.7029188324670131
+}, {
+  "id" : 1689,
+  "content" : "_.nb",
+  "confidence" : 0.7028985507246377
+}, {
+  "id" : 1690,
+  "content" : "_.vh",
+  "confidence" : 0.7028985507246377
+}, {
+  "id" : 1691,
+  "content" : "xh",
+  "confidence" : 0.7024793388429752
+}, {
+  "id" : 1692,
+  "content" : "this.value",
+  "confidence" : 0.7023809523809523
+}, {
+  "id" : 1693,
+  "content" : "a.length-1",
+  "confidence" : 0.7020057306590258
+}, {
+  "id" : 1694,
+  "content" : "this.qa",
+  "confidence" : 0.7016129032258065
+}, {
+  "id" : 1695,
+  "content" : "_.ne",
+  "confidence" : 0.7012987012987013
+}, {
+  "id" : 1696,
+  "content" : "_.uc",
+  "confidence" : 0.7012987012987013
+}, {
+  "id" : 1697,
+  "content" : "_.g.contains",
+  "confidence" : 0.7012195121951219
+}, {
+  "id" : 1698,
+  "content" : "breaka",
+  "confidence" : 0.7011070110701108
+}, {
+  "id" : 1699,
+  "content" : "function(){4",
+  "confidence" : 0.7008547008547008
+}, {
+  "id" : 1700,
+  "content" : "}catch(e){_._dumpexception(e)}/*_globalsuffix_*/})(this.gbar_)",
+  "confidence" : 0.7008547008547008
+}, {
+  "id" : 1701,
+  "content" : "this.gbar_||{}",
+  "confidence" : 0.7008547008547008
+}, {
+  "id" : 1702,
+  "content" : "b-",
+  "confidence" : 0.7005988023952096
+}, {
+  "id" : 1703,
+  "content" : "d>c",
+  "confidence" : 0.70042194092827
+}, {
+  "id" : 1704,
+  "content" : "returnd}",
+  "confidence" : 0.7001312335958005
+}, {
+  "id" : 1705,
+  "content" : "(function(_){varwindow",
+  "confidence" : 0.7
+}, {
+  "id" : 1706,
+  "content" : "else{varb",
+  "confidence" : 0.7
+} ]
