@@ -10,27 +10,23 @@ a green, yellow or red traffic light symbol, which is then visually displayed to
 measure of the outgoing phishing threat. The results of the evaluation of the system showed an accuracy of 84.17%, 
 with a sensitivity of 78.13% and a specificity of 90.22%.
 
-### Installation Instructions
+## Installation Instructions
 
 In order to run the system, both the client and the server application must be started.
 
-## Client - Mozilla Firefox browser extension
+### Client - Mozilla Firefox browser extension
 
 The browser plugin can be loaded as a temporary add-on. Therefore open "about:debugging" in Firefox, click 
 "Load Temporary Add-on" and select any file in the extension's [directory](client).
 
-## Server - Dropwizard RESTful web service
+### Server - Dropwizard RESTful web service
 
 The Dropwizard service is built as a “fat” .jar file (contains all of the .class files required to run the service) 
-using Maven. This file can be found in the folder [target](server/antiphish/target) and can be built and started as follows:
+using Maven. This file can be found in the folder [target](server/target) and can be built and started as follows:
 
 1. Run `mvn clean install` to build the application
 1. Start application with `java -jar target/antiphish-0.0.1-SNAPSHOT.jar server config.yml`
 1. To check that the application is running enter url `http://localhost:8080`
-
-```
-java -jar target/antiphish-0.0.1-SNAPSHOT.jar server config.yml
-``` 
 
 ### Documentation
 
