@@ -28,12 +28,12 @@ using Maven. This file can be found in the folder [target](server/target) and ca
 1. Start application with `java -jar target/antiphish-0.0.1-SNAPSHOT.jar server config.yml`
 1. To check that the application is running enter url `http://localhost:8080`
 
-### Documentation
+## Documentation
 
 AntiPhish was implemented in the course of a master thesis at the Alpen-Adria University Klagenfurt. The [thesis](docs/2018-01-26_Masterarbeit_Madritsch.pdf) can 
 be found in the folder [docs](docs) (chapter 4-7, German only).
 
-### Contributions
+## Contributions
 
 * **Marco Madritsch** - *Initial work*
 * **[Marcus Hassler](https://hassler.world/)** - *Supervision*
